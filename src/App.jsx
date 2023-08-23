@@ -16,14 +16,14 @@ export default function App() {
 		<Routes>
 			<Route path='/' element={<Base content={<Main />} />} />
 			<Route path='/tour/:id' element={<Base content={<Tour />} />} />
-			<Route path='/tours' element={<Base content={<Tours />} />} />
-			<Route path='/hotels' element={<Base content={<Hotels />} />} />
-			<Route path='/visa' element={<Base content={<Visa />} />} />
-			<Route path='/about' element={<Base content={<About />} />} />
+			<Route path='/tour' element={<Base content={<Tours />} />} />
+			<Route path='/hotel' element={<Base content={<Hotels />} />} />
 			<Route
 				path='/hotel/:city/:id'
 				element={<Base content={<Hotel />} />}
 			/>
+			<Route path='/visa' element={<Base content={<Visa />} />} />
+			<Route path='/about' element={<Base content={<About />} />} />
 			<Route path='*' element={<NotFound />} />
 		</Routes>
 	)

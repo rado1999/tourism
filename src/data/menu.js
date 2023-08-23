@@ -5,11 +5,11 @@ export const menu = [
 	},
 	{
 		title: 'TOURS',
-		url: '/tours',
+		url: '/tour',
 	},
 	{
 		title: 'HOTELS',
-		url: '/hotels',
+		url: '/hotel',
 	},
 	{
 		title: 'VISA',

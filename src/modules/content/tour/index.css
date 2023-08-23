@@ -1,0 +1,46 @@
+.tour_container {
+	text-align: center;
+	padding: 110px 20px 20px 20px;
+}
+
+.tour_segment_container {
+	margin-bottom: 50px;
+	border-radius: 8px;
+	overflow: auto;
+}
+
+.tour_content_title {
+	margin-bottom: 30px;
+	font-size: 24px;
+	font-weight: 600;
+}
+
+.tour_content_sub_title {
+	margin-bottom: 30px;
+	font-size: 18px;
+	font-weight: 500;
+	color: #000000e0;
+}
+
+.tour_content {
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	color: #00000073;
+	margin-bottom: 30px;
+}
+
+.tour_images_container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+	margin: 20px 0px;
+	overflow: hidden; /* fixed the issue with vanilla tilt on Safari */
+}
+
+.tour_image_container {
+	border-radius: 8px;
+	overflow: hidden;
+	margin: 20px 10px;
+}

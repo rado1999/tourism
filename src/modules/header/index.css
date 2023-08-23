@@ -1,0 +1,160 @@
+header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 16;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	padding: 20px 100px;
+	background-color: white;
+	box-shadow: 0 1px 2px -2px #e6f4ff, 0 3px 6px 0 #e6f4ff,
+		0 5px 12px 4px #e6f4ff;
+}
+
+.header_ul {
+	display: flex;
+	flex: 1;
+	justify-content: center;
+	align-items: center;
+}
+
+.header_li {
+	list-style-type: none;
+	margin: 0px 15px;
+}
+
+.header_a {
+	color: rgba(0, 0, 0, 0.88);
+	font-size: 14px;
+	font-family: Avenir;
+}
+
+.header_a:hover {
+	color: rgba(0, 0, 0, 0.3);
+}
+
+.logo_container {
+	width: 50px;
+	height: 50px;
+}
+
+.logo_container:hover {
+	cursor: pointer;
+}
+
+.logo {
+	width: 100%;
+}
+
+.iphone_btn_container {
+	display: none;
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	z-index: 17;
+	transform: translateY(80%);
+	box-shadow: 0px 0px 50px #e6f4ff;
+	background-color: deepskyblue;
+}
+
+.iphone_btn {
+	position: relative;
+	width: 50px;
+	height: 50px;
+	transform: translateY(-50%);
+	background-color: deepskyblue;
+	border-radius: 50%;
+}
+
+.iphone_btn::before {
+	content: '';
+	position: absolute;
+	top: 3.57px;
+	left: -19.28px;
+	width: 21.42px;
+	height: 21.42px;
+	border-radius: 50%;
+	box-shadow: 10.7px 12.85px deepskyblue;
+	background: transparent;
+}
+
+.iphone_btn::after {
+	content: '';
+	position: absolute;
+	top: 3.57px;
+	right: -19.28px;
+	width: 21.42px;
+	height: 21.42px;
+	border-radius: 50%;
+	box-shadow: -10.7px 12.85px deepskyblue;
+	background: transparent;
+}
+
+.iphone_btn_circle {
+	position: absolute;
+	bottom: 7.5px;
+	left: 7.5px;
+	z-index: 1;
+	width: 35px;
+	height: 35px;
+	border-radius: 50%;
+	background-color: aqua;
+}
+
+.sidebar {
+	position: fixed;
+	left: 50%;
+	z-index: 16;
+	width: 300px;
+	height: 100%;
+	background-color: white;
+	box-shadow: 0 1px 2px -2px #e6f4ff, 0 3px 6px 0 #e6f4ff,
+		0 5px 12px 4px #e6f4ff;
+	border-radius: 8px;
+	transform: translateX(-50%);
+	transition: bottom 0.3s ease;
+}
+
+.sidebar_li {
+	list-style-type: none;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.sidebar_a {
+	color: rgba(0, 0, 0, 0.88);
+	font-size: 18px;
+	font-family: Avenir;
+}
+
+.lang_imgage_container {
+	width: 50px;
+	padding: 5px 10px;
+}
+
+.lang_imgage_container img {
+	width: 100%;
+}
+
+@media screen and (max-width: 880px) {
+	header {
+		padding: 20px 50px;
+	}
+}
+
+@media screen and (max-width: 670px) {
+	.header_ul {
+		display: none;
+	}
+
+	header {
+		justify-content: space-between;
+	}
+
+	.iphone_btn_container {
+		display: flex;
+		justify-content: center;
+	}
+}

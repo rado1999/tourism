@@ -1,0 +1,26 @@
+.visa_container {
+	padding: 110px 20px 20px 20px;
+}
+
+.visa_text {
+	margin-bottom: 30px;
+	font-family: Avenir;
+	line-height: 25px;
+}
+
+.ant-table-title {
+	text-align: center;
+	background-color: #e6f4ff;
+}
+
+.ant-table-cell {
+	text-align: center;
+	background: rgba(255, 255, 255, 0.01);
+}
+
+.warning {
+	font-weight: bold;
+	font-style: italic;
+	margin-top: 30px;
+	color: red;
+}

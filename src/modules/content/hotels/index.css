@@ -1,0 +1,42 @@
+.hotels_container {
+	padding: 110px 10px 30px 10px;
+	text-align: center;
+}
+
+.hotels_content_container {
+	height: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: start;
+	overflow: hidden; /* fixed the issue with vanilla tilt on Safari */
+}
+
+.hotels_segment_container {
+	margin-bottom: 10px;
+	border-radius: 8px;
+	overflow: auto;
+}
+
+.hotels_card {
+	width: 350px;
+	height: 350px;
+	margin: 20px;
+	display: flex;
+	flex-direction: column;
+}
+
+.hotels_card_image_container {
+	overflow: hidden;
+}
+
+.hotels_card_image {
+	width: 100%;
+}
+
+.hotels_card_title {
+	font-weight: 500;
+	font-size: 24px;
+	text-align: center;
+	padding: 30px 0px;
+}

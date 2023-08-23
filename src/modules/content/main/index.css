@@ -1,0 +1,62 @@
+.main_content_container {
+	padding: 110px 10px 20px 10px;
+	text-align: center;
+}
+
+.content_image_container {
+	position: relative;
+	height: calc(200px + (1000 - 200) * ((100vw - 320px) / (2560 - 320)));
+	text-align: center;
+}
+
+.image_title {
+	font-size: calc(20px + (110 - 20) * ((100vw - 320px) / (2560 - 320)));
+	color: white;
+	font-weight: 800;
+	text-shadow: 0 11px 10px rgba(0, 0, 0, 0.19);
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	z-index: 100;
+}
+
+.ant-image {
+	border-radius: 8px;
+}
+
+.main_about_us {
+	color: #00000073;
+	padding: 0px 20px;
+}
+
+.main_top_tours_container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+	overflow: hidden; /* fixed the issue with vanilla tilt on Safari */
+}
+
+.main_tours_card {
+	width: 300px;
+	height: 300px;
+	margin: 30px 20px;
+}
+
+.main_tours_card_image_container {
+	width: 100%;
+	overflow: hidden;
+}
+
+.main_tours_card_image {
+	width: 100%;
+}
+
+.main_tours_card_title {
+	font-weight: 500;
+	padding: 10px;
+	margin-top: 20px;
+	text-align: center;
+	font-family: Avenir;
+}

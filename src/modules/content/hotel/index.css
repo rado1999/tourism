@@ -1,0 +1,35 @@
+.hotel_container {
+	padding: 110px 10px 10px 10px;
+	text-align: center;
+}
+
+.hotel_title {
+	font-size: 28px;
+	font-weight: 600;
+	margin: 30px 0px;
+	color: #000000e0;
+}
+
+.hotel_description {
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	margin-bottom: 30px;
+	color: #00000073;
+	padding: 10px;
+}
+
+.hotel_images_container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: start;
+	margin: 20px 0px;
+	overflow: hidden; /* fixed the issue with vanilla tilt on Safari */
+}
+
+.hotel_image_container {
+	border-radius: 8px;
+	overflow: hidden;
+	margin: 20px 10px;
+}

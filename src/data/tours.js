@@ -2,7 +2,7 @@ export const tours = {
 	en: [
 		{
 			title: 'TURKMENISTAN DESERT TOUR 8 DAYS',
-			image: '/15.webp',
+			image: '/main-images/15.webp',
 			1: {
 				title: 'Farap-Turkmenabat-Dayahatyn-DarganAta village (215 km)  3 hours',
 				text: 'Meeting with Turkmen escort, proceed by 4 WD vehicle  to Turkemnabad.  Shortly outside Turkmenabat there are the ruins of the impressive 12th century caravanserais of Daya Khatyn. Stay in tent',

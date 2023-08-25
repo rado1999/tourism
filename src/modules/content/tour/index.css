@@ -29,18 +29,3 @@
 	color: #00000073;
 	margin-bottom: 30px;
 }
-
-.tour_images_container {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-around;
-	align-items: center;
-	margin: 20px 0px;
-	overflow: hidden; /* fixed the issue with vanilla tilt on Safari */
-}
-
-.tour_image_container {
-	border-radius: 8px;
-	overflow: hidden;
-	margin: 20px 10px;
-}

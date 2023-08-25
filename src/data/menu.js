@@ -19,4 +19,8 @@ export const menu = [
 		title: 'ABOUT US',
 		url: '/about',
 	},
+	{
+		title: 'Places',
+		url: '/places',
+	},
 ]

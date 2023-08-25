@@ -1,37 +1,37 @@
 export const data = [
 	{
 		title: 'Title of image',
-		image: '/15.webp',
+		image: '/main/15.webp',
 	},
 	{
 		title: 'Title of image',
-		image: '/dek.webp',
+		image: '/main/dek.webp',
 	},
 	{
 		title: 'Title of image',
-		image: '/gyzgala.webp',
+		image: '/main/gyzgala.webp',
 	},
 	{
 		title: 'Title of image',
-		image: '/nature.webp',
+		image: '/main/nature.webp',
 	},
 	{
 		title: 'Title of image',
-		image: 'sultan.webp',
+		image: '/main/sultan.webp',
 	},
 ]
 
 export const topTours = [
 	{
 		title: 'First tour',
-		image: '/15.webp',
+		image: '/main/15.webp',
 	},
 	{
 		title: 'Second tour',
-		image: '/15.webp',
+		image: '/main/15.webp',
 	},
 	{
 		title: 'Third tour',
-		image: '/15.webp',
+		image: '/main/15.webp',
 	},
 ]

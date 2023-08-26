@@ -24,14 +24,34 @@ export const data = [
 export const topTours = [
 	{
 		title: 'First tour',
-		image: '/main-images/15.webp',
+		image: '/top-tours/koytendag.svg',
 	},
 	{
 		title: 'Second tour',
-		image: '/main-images/15.webp',
+		image: '/top-tours/buhara.svg',
 	},
 	{
 		title: 'Third tour',
-		image: '/main-images/15.webp',
+		image: '/top-tours/astana.svg',
+	},
+	{
+		title: 'First tour',
+		image: '/top-tours/darvaza.svg',
+	},
+	{
+		title: 'Second tour',
+		image: '/top-tours/iran.svg',
+	},
+	{
+		title: 'Third tour',
+		image: '/top-tours/garagum.svg',
+	},
+	{
+		title: 'Second tour',
+		image: '/top-tours/mary.svg',
+	},
+	{
+		title: 'Third tour',
+		image: '/top-tours/ashgabat.svg',
 	},
 ]

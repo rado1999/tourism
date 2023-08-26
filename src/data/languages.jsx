@@ -1,26 +1,14 @@
 export const langs = [
 	{
 		value: 'en',
-		label: (
-			<div className='lang_imgage_container'>
-				<img src='/langs/england.svg' />
-			</div>
-		),
+		label: 'EN',
 	},
 	{
 		value: 'ch',
-		label: (
-			<div className='lang_imgage_container'>
-				<img src='/langs/china.svg' />
-			</div>
-		),
+		label: 'CH',
 	},
 	{
 		value: 'jp',
-		label: (
-			<div className='lang_imgage_container'>
-				<img src='/langs/japan.svg' />
-			</div>
-		),
+		label: 'JP',
 	},
 ]

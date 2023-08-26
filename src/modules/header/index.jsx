@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Select } from 'antd'
 import { langs } from '../../data/languages'
 import Sidebar from './Sidebar'
@@ -6,6 +6,15 @@ import { menu } from '../../data/menu'
 import './index.css'
 
 export default function Header() {
+	useEffect(() => {
+		const header = document.querySelector('header')
+
+		window.addEventListener('scroll', () => {
+			if (window.scrollY > 0) header.classList.add('solid-header')
+			else header.classList.remove('solid-header')
+		})
+	})
+
 	return (
 		<>
 			<header>
@@ -24,7 +33,12 @@ export default function Header() {
 						</li>
 					))}
 				</ul>
-				<Select defaultValue={'en'} options={langs} />
+				<Select
+					bordered={false}
+					style={{ color: 'white' }}
+					defaultValue={'en'}
+					options={langs}
+				/>
 			</header>
 			<Sidebar />
 		</>

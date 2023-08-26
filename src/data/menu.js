@@ -1,22 +1,22 @@
 export const menu = [
 	{
-		title: 'HOME',
+		title: 'Home',
 		url: '/',
 	},
 	{
-		title: 'TOURS',
+		title: 'Tours',
 		url: '/tour',
 	},
 	{
-		title: 'HOTELS',
+		title: 'Hotels',
 		url: '/hotel',
 	},
 	{
-		title: 'VISA',
+		title: 'Visa',
 		url: '/visa',
 	},
 	{
-		title: 'ABOUT US',
+		title: 'About us',
 		url: '/about',
 	},
 	{

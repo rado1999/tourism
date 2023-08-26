@@ -6,11 +6,13 @@ export const theme = {
 		Table: {
 			colorBorderSecondary: '#1777ff',
 			colorFillAlter: '#e6f4ff',
-			// colorBgContainer: '#e6f4ff',
 		},
 		List: {
 			colorSplit: 'lightskyblue',
 			colorBorder: 'lightskyblue',
+		},
+		Select: {
+			colorText: 'white',
 		},
 	},
 }

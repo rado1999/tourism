@@ -1,16 +1,16 @@
 @font-face {
-	font-family: Avenir;
-	src: url('/fonts/Avenir-Light-07.ttf') format('truetype');
-}
-
-@font-face {
-	font-family: Lucida;
-	src: url('/fonts/LucidaGrande-01.ttf') format('truetype');
-}
-
-@font-face {
-	font-family: Poppins;
+	font-family: PoppinsBold;
 	src: url('/fonts/Poppins-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: PoppinsRegular;
+	src: url('/fonts/Poppins-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: PoppinsLight;
+	src: url('/fonts/Poppins-Light.ttf') format('truetype');
 }
 
 *,
@@ -21,7 +21,7 @@
 	border: 0;
 	text-decoration: none;
 	box-sizing: border-box;
-	font-family: Lucida;
+	font-family: PoppinsRegular;
 }
 
 .content_container {

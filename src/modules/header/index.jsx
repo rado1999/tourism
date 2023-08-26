@@ -33,12 +33,7 @@ export default function Header() {
 						</li>
 					))}
 				</ul>
-				<Select
-					bordered={false}
-					style={{ color: 'white' }}
-					defaultValue={'en'}
-					options={langs}
-				/>
+				<Select bordered={false} defaultValue={'en'} options={langs} />
 			</header>
 			<Sidebar />
 		</>

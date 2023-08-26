@@ -9,7 +9,7 @@
 	font-size: 24px;
 	font-weight: 700;
 	color: white;
-	font-family: Poppins;
+	font-family: PoppinsBold;
 	text-align: center;
 }
 
@@ -23,7 +23,7 @@
 .top_tours_title {
 	text-align: center;
 	margin: 80px 0px;
-	font-family: Poppins;
+	font-family: PoppinsBold;
 	font-size: 42px;
 	font-weight: 600;
 	color: #302842;
@@ -36,10 +36,50 @@
 	left: 50%;
 	transform: translateX(-50%);
 	font-size: 20px;
-	font-family: Poppins;
+	font-family: PoppinsBold;
 	font-weight: 600;
 	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 	color: #fcfdff;
+}
+
+.main_visa_container {
+	position: relative;
+	background-color: #ff7a5c;
+	height: calc(200px + (560 - 200) * ((100vw - 320px) / (1440 - 320)));
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: start;
+	padding-left: calc(20px + (167 - 20) * ((100vw - 320px) / (1440 - 320)));
+	margin-top: calc(50px + (267 - 50) * ((100vw - 320px) / (1440 - 320)));
+}
+
+.main_visa_container img {
+	position: absolute;
+	top: 0;
+	right: 5%;
+	height: 100%;
+}
+
+.main_visa_title {
+	width: calc(250 + (800 - 250) * ((100vw - 320px) / (1440 - 320)));
+	color: white;
+	font-size: calc(24px + (74 - 24) * ((100vw - 320px) / (1440 - 320)));
+	font-weight: 600;
+	text-transform: capitalize;
+	line-height: 120%;
+}
+
+.main_visa_container a {
+	display: inline-flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #271a4b;
+	color: white;
+	border-radius: 100px;
+	margin-top: 28px;
+	font-size: 16px;
+	padding: 10px 20px;
 }
 
 @media (max-width: 480px) {

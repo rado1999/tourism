@@ -2,6 +2,7 @@ import React, { useEffect } from 'react'
 import VanillaTilt from 'vanilla-tilt'
 import Carousel from './Carousel'
 import TopTours from './TopTours'
+import Visa from './Visa'
 import './index.css'
 
 export default function Main() {
@@ -20,6 +21,7 @@ export default function Main() {
 		<div className='main_content_container content_container'>
 			<Carousel />
 			<TopTours />
+			<Visa />
 		</div>
 	)
 }

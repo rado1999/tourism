@@ -55,3 +55,38 @@ export const topTours = [
 		image: '/top-tours/ashgabat.webp',
 	},
 ]
+
+export const topDestinations = [
+	{
+		title: 'Emirates, United Arabian',
+		url: '#',
+	},
+	{
+		title: 'New York City, USA',
+		url: '#',
+	},
+	{
+		title: 'One Bridge, Belguim',
+		url: '#',
+	},
+	{
+		title: 'Golden Frame, Dubai',
+		url: '#',
+	},
+	{
+		title: 'Emirates, United Arabian',
+		url: '#',
+	},
+	{
+		title: 'New York City, USA',
+		url: '#',
+	},
+	{
+		title: 'One Bridge, Belguim',
+		url: '#',
+	},
+	{
+		title: 'Golden Frame, Dubai',
+		url: '#',
+	},
+]

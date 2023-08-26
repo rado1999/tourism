@@ -29,9 +29,8 @@ header {
 
 .header_a {
 	color: white;
-	font-weight: 600;
 	font-size: 18px;
-	font-family: Poppins;
+	font-family: PoppinsBold;
 }
 
 .header_a:hover {
@@ -59,7 +58,6 @@ header {
 	left: 0;
 	z-index: 17;
 	transform: translateY(80%);
-	box-shadow: 0px 0px 50px #e6f4ff;
 	background-color: deepskyblue;
 }
 
@@ -80,7 +78,6 @@ header {
 	width: 21.42px;
 	height: 21.42px;
 	border-radius: 50%;
-	box-shadow: 10.7px 12.85px deepskyblue;
 	background: transparent;
 }
 
@@ -92,7 +89,6 @@ header {
 	width: 21.42px;
 	height: 21.42px;
 	border-radius: 50%;
-	box-shadow: -10.7px 12.85px deepskyblue;
 	background: transparent;
 }
 
@@ -114,8 +110,6 @@ header {
 	width: 300px;
 	height: 100%;
 	background-color: white;
-	box-shadow: 0 1px 2px -2px #e6f4ff, 0 3px 6px 0 #e6f4ff,
-		0 5px 12px 4px #e6f4ff;
 	border-radius: 8px;
 	transform: translateX(-50%);
 	transition: bottom 0.3s ease;
@@ -130,25 +124,16 @@ header {
 .sidebar_a {
 	color: rgba(0, 0, 0, 0.88);
 	font-size: 18px;
-	font-family: Avenir;
+	font-family: PoppinsBold;
 }
 
-.lang_imgage_container {
-	width: 50px;
-	padding: 5px 10px;
-}
-
-.lang_imgage_container img {
-	width: 100%;
-}
-
-@media screen and (max-width: 880px) {
+@media (max-width: 880px) {
 	header {
 		padding: 20px 50px;
 	}
 }
 
-@media screen and (max-width: 670px) {
+@media (max-width: 768px) {
 	.header_ul {
 		display: none;
 	}
@@ -160,5 +145,12 @@ header {
 	.iphone_btn_container {
 		display: flex;
 		justify-content: center;
+	}
+}
+
+@media (max-width: 480px) {
+	.logo_container {
+		width: 30px;
+		height: 30px;
 	}
 }

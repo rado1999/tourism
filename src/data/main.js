@@ -90,3 +90,21 @@ export const topDestinations = [
 		url: '#',
 	},
 ]
+
+export const hotels_example = [
+	{
+		title: 'Yyldyz',
+		image: '/hotels/yyldyz/yyldyz.webp',
+		url: '/hotel/Ashgabat/2',
+	},
+	{
+		title: 'Oguzkent',
+		image: '/hotels/oguzkent/oguzkent.webp',
+		url: '/hotel/Ashgabat/1',
+	},
+	{
+		title: 'Diwan',
+		image: '/hotels/divan/diwan.webp',
+		url: '/hotel/Ashgabat/0',
+	},
+]

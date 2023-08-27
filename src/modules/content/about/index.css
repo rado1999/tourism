@@ -1,55 +1,47 @@
-.about_container {
-	padding: 120px 20px 20px 20px;
+.about_background {
+	position: relative;
+}
+
+.about_background_title {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: calc(18px + (54 - 18) * ((100vw - 320px) / (1440 - 320)));
+	font-family: PoppinsBold;
+	color: white;
+}
+
+.about_content_container {
+	max-width: 1064px;
+	margin: calc(30px + (69 - 30) * ((100vw - 320px) / (1440 - 320)))
+		calc(24px + (188 - 24) * ((100vw - 320px) / (1440 - 320)));
 }
 
 .about_title {
-	font-size: 28px;
+	color: #302742;
+	font-size: calc(16px + (24 - 16) * ((100vw - 320px) / (1440 - 320)));
 	text-align: center;
-}
-
-.about_text {
-	margin: 30px 10px;
-	font-size: 14px;
-	color: #00000073;
+	margin-top: calc(50px + (144 - 50) * ((100vw - 320px) / (1440 - 320)));
+	margin-bottom: 30px;
 }
 
 .about_services {
+	color: #302742;
+	font-size: calc(14px + (20 - 14) * ((100vw - 320px) / (1440 - 320)));
 	text-align: center;
-	font-size: 18px;
-	margin: 30px 10px;
+	margin-top: 50px;
+	margin-bottom: 30px;
 }
 
-.about_transport {
-	font-size: 18px;
-	text-align: center;
-	margin: 30px 10px;
+.about_text {
+	color: #474747;
+	font-size: calc(12px + (18 - 12) * ((100vw - 320px) / (1440 - 320)));
+	font-family: PoppinsLight;
+	line-height: 120%;
+	margin-bottom: 20px;
 }
 
-.about_cards_container {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-around;
-	align-items: center;
-	overflow: hidden; /* fixed the issue with vanilla tilt on Safari */
-}
-
-.about_card {
-	width: 300px;
-	margin: 30px 20px;
-}
-
-.about_card_image_container {
-	width: 100%;
-	overflow: hidden;
-}
-
-.about_card_image {
-	width: 100%;
-}
-
-.about_card_data {
-	font-weight: 500;
-	text-align: center;
-	font-family: Avenir;
-	margin: 10px 0px;
+.under_list {
+	margin-top: 30px;
 }

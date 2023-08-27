@@ -11,10 +11,7 @@ export default function Content() {
 
 	return (
 		<div className='tour_content_container'>
-			<div className='tour_content_title'>{tours.en[id].title}</div>
-			<div className='tour_content_sub_title'>
-				{tours.en[id][day].title}
-			</div>
+			<div className='tour_content_title'>{tours.en[id][day].title}</div>
 			<div className='tour_content'>{tours.en[id][day].text}</div>
 		</div>
 	)

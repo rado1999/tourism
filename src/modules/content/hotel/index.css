@@ -1,22 +1,28 @@
 .hotel_container {
-	padding: 110px 10px 10px 10px;
 	text-align: center;
 }
 
+.hotel_background {
+	position: relative;
+}
+
 .hotel_title {
-	font-size: 28px;
-	font-weight: 600;
-	margin: 30px 0px;
-	color: #000000e0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: calc(18px + (54 - 18) * ((100vw - 320px) / (1440 - 320)));
+	font-family: PoppinsBold;
+	color: white;
 }
 
 .hotel_description {
-	font-size: 16px;
-	font-weight: 400;
-	line-height: 24px;
-	margin-bottom: 30px;
-	color: #00000073;
-	padding: 10px;
+	font-size: calc(12px + (18 - 12) * ((100vw - 320px) / (1440 - 320)));
+	font-family: PoppinsLight;
+	line-height: 120%;
+	margin: 30px 0px;
+	color: #474747;
+	padding: 0px calc(20px + (188 - 20) * ((100vw - 320px) / (1440 - 320)));
 }
 
 .hotel_images_container {
@@ -31,5 +37,5 @@
 .hotel_image_container {
 	border-radius: 8px;
 	overflow: hidden;
-	margin: 20px 10px;
+	margin: 10px 10px;
 }

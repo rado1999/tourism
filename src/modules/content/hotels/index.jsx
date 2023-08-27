@@ -3,6 +3,7 @@ import Segment from './Segment'
 import { hotels } from '../../../data/hotels'
 import { useCustomContext } from '../../../context/AppContext'
 import VanillaTilt from 'vanilla-tilt'
+import { Col, Image, Row } from 'antd'
 import './index.css'
 
 export default function Hotels() {
@@ -21,23 +22,36 @@ export default function Hotels() {
 
 	return (
 		<div className='hotels_container content_container'>
+			<div className='hotels_background'>
+				<Image
+					preview={false}
+					width={'100%'}
+					src='/hotels/background.webp'
+				/>
+				<div className='hotels_title'>Hotels</div>
+			</div>
 			<Segment />
-			<div className='hotels_content_container'>
+			<Row justify={'start'} align={'middle'} className='hotels_row'>
 				{hotels[place].map(({ title, image }, index) => (
-					<div
+					<Col
 						key={index}
 						className='hotels_card card'
 						onClick={() =>
 							(location.href = `/hotel/${place}/${index}`)
 						}
+						xs={24}
+						sm={24}
+						md={12}
+						lg={8}
 					>
-						<div className='hotels_card_image_container'>
-							<img className='hotels_card_image' src={image} />
-						</div>
+						<div
+							style={{ backgroundImage: `url(${image})` }}
+							className='hotels_card_image'
+						></div>
 						<div className='hotels_card_title'>{title}</div>
-					</div>
+					</Col>
 				))}
-			</div>
+			</Row>
 		</div>
 	)
 }

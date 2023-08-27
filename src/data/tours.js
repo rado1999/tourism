@@ -2,7 +2,7 @@ export const tours = {
 	en: [
 		{
 			title: 'TURKMENISTAN DESERT TOUR 8 DAYS',
-			image: '/main-images/15.webp',
+			image: '/places/desert/2.webp',
 			1: {
 				title: 'Farap-Turkmenabat-Dayahatyn-DarganAta village (215 km)  3 hours',
 				text: 'Meeting with Turkmen escort, proceed by 4 WD vehicle  to Turkemnabad.  Shortly outside Turkmenabat there are the ruins of the impressive 12th century caravanserais of Daya Khatyn. Stay in tent',
@@ -38,7 +38,7 @@ export const tours = {
 		},
 		{
 			title: 'Ashgabat and Around',
-			image: '',
+			image: '/places/ashgabat/ashgabat.webp',
 			1: {
 				title: '',
 				text: 'In the morning we explore the “Pearl of Central Asia”, capital of Turkmenistan, Ashgabat. Within the city we visit the Park of independence with its independence monument, and Neutrality Square, famous for its Arch of Neutrality topped by a gold-plated statue of the first President of Turkmenistan. Then we will visit Earthquake Memorial dedicated to the victims of the 1948 earthquake, nearby located the memorial of war victims. Later on we proceed to Kipchak village to visit a complex of the biggest mosque in Turkmenistan and the family mausoleum of the first President. Then we return to Ashgabat to visit the State Museum of History and Ethnography (displaying more than 327.000 exhibits) to see exclusive ancient artifacts from numerous historical & archeological sites of the country. Return to the hotel.',
@@ -50,7 +50,7 @@ export const tours = {
 		},
 		{
 			title: 'Soft desert adventure – Ayrakly Oasis Tour',
-			image: '',
+			image: '/places/ashgabat/karakum.webp',
 			1: {
 				title: 'Arrival in Ashgabat',
 				text: "Transfer to the hotel. Registration formalities. Breakfasting at the hotel we take it easy start off our first day with a late morning stroll through the city centre and a visit to Nisa fortress which carries a great historical value of Parthian period (Residence of Parthian kings in past).. National Museum is the next place to visit missing which nothing can excuse with it's exhibits and findings which really worth seeing and admiring.  Observe row of newly built monuments and fountains at the outskirts of this marble city. The most fascinating monument is probably the Arch of Neutrality featuring a 12 m gold statue of Turkmenistan's First President, Saparmurat Turkmenbashi. Return to the hotel. Overnight at the hotel.",
@@ -74,7 +74,7 @@ export const tours = {
 		},
 		{
 			title: `ALONG THE DINOSAURS' TRACKS`,
-			image: '',
+			image: '/places/dinosaurs/1.webp',
 			1: {
 				title: 'ASHGABAT',
 				text: `Late Morning City tour of Ashgabat and visit the State Museum of Turkmenistan Overnight in Diwan Hotel `,
@@ -118,7 +118,7 @@ export const tours = {
 		},
 		{
 			title: 'Central Karakum Desert & Merv / Margush  Off-Road Adventure',
-			image: '',
+			image: '/places/margush/2.webp',
 			1: {
 				title: 'Ashgabat arrival',
 				text: 'Early morning arrival to Ashgabat airport. Transfer and rest in the hotel. We start our day by visiting the State Museum of History and Ethnography (containing more than 327.000 objects). This is followed by a sightseeing tour of Ashgabat including the Tower of Neutrality, Mosque, and Independence Monument. Hotel overnight.',
@@ -162,7 +162,7 @@ export const tours = {
 		},
 		{
 			title: 'GRAND JOURNEY OVER ANCIENT TURKISTAN 2023',
-			image: '',
+			image: '/places/koneurgenc.webp',
 			1: {
 				title: '',
 				text: 'Meet your guide and driver at Ashgabat Airport. Transfer and overnight in Diwan Hotel',
@@ -230,12 +230,12 @@ export const tours = {
 		},
 		{
 			title: 'KUNYAURGENCH IS THE CITY OF CITIES',
-			image: '',
+			image: '/places/desert/koneurgenc.webp',
 			1: { title: '', text: '', images: [] },
 		},
 		{
 			title: 'Iran-Turkmenistan-Uzbekistan',
-			image: '',
+			image: '/places/tehran.webp',
 			1: {
 				title: 'Tehran',
 				text: 'Arrive Tehran by train from Istanbul. O/N in Iransahr Hotel 3*',
@@ -343,7 +343,7 @@ export const tours = {
 		},
 		{
 			title: 'PILGRIMAGE TO THE SAINT SUFI LEADERS MAUSELEUMS OF THE GREAT TURKISTAN',
-			image: '',
+			image: '/places/buhara.webp',
 			1: {
 				title: 'Arrival to Ashgabat',
 				text: 'Transfer to the hotel. Overnight in Diwan Hotel 4*',
@@ -415,7 +415,7 @@ Dinner and overnight at the hotel.`,
 		},
 		{
 			title: 'Splendour of Turkmenistan',
-			image: '',
+			image: '/places/margush/18.webp',
 			1: {
 				title: 'Ashgabat arrival',
 				text: `Early morning arrival to Ashgabat. Transfer to hotel. Late morning excursion of Ashgabat, including a visit of the Arch of Neutrality and Independence Monument. Visit the of the Ertogrul Gazi mosque, Ashgabat's largest Mosque, and the memorial dedicated to the victims of the 1948 earthquake, which completely destroyed the city. Visit State Museum of Turkmenistan. This museum has 9 halls, each dedicated to a particular period and theme. One of the highlights in the museum is a unique collection of ivory rythons/ horn like vessels. Today you will also visit Nissa Fortress, built in 2nd century BC it was the first capital of Parthian Empire.After this unique visit Overnight in Diwan Hotel 4*`,
@@ -463,7 +463,7 @@ Dinner and overnight at the hotel.`,
 		},
 		{
 			title: `Tour N1`,
-			image: '',
+			image: '/places/Turkmenbashy_Mosque.webp',
 			1: {
 				title: `Airport-Ashgabat`,
 				text: `Meeting guests at the international airport in Ashgabat. Transfer to hotel. Welcome cocktail. After lunch going to “ BEDEV” horse farm to see selected the most beautiful Akhal-Teke horses. Dinner at the hotel.`,
@@ -497,7 +497,7 @@ he State Museum of Turkmenistan was established in 1990, its total area is 15 th
 		},
 		{
 			title: `Turkmenistan Pure`,
-			image: '',
+			image: '/places/darvaza/darwaza.webp',
 			1: {
 				title: `Ashgabat arrival, Old Nisa, State Museum, City tour of Ashgabat`,
 				text: `Arrival to Ashgabat. Overnight at a hotel. We start off our first day with a late morning drive through the city center to Old Nisa. Nisa fortress once upon a time was one of the residences of the Parthian Empire (247 BC-253 AD), stretching from the Kopetdag all the way across to the Persian Gulf and Anatolia. We visit the State Museum of Turkmenistan, which holds some of the country's most important historical and ethnographic treasures More than 500,000 exhibits are displayed here. Afterwards we stroll through the city center and a visit of the row of newly built monuments and fountains at the outskirts of this unusual city. The most fascinating monument is the Arch of Neutrality, the statue of the first President of Turkmenistan, Saparmurat Turkmenbashy. Overnight in hotel Diwan.`,
@@ -541,7 +541,7 @@ he State Museum of Turkmenistan was established in 1990, its total area is 15 th
 		},
 		{
 			title: `Undiscovered Turkmenistan - The nomadic Silk Road frozen in time and sand`,
-			image: '',
+			image: '/places/nohur/1.webp',
 			1: {
 				title: `Ashgabat Arrival Acclimatization, Monuments, Silk Makers`,
 				text: `Breakfasting at the hotel we take it easy after the relatively late arrival. We start off our first day with a late morning stroll through the city centre and a visit of the row of newly built monuments and fountains at the outskirts of this unusual city. The most fascinating monument is probably the Arch of Neutrality featuring a 12 m gold statue of Turkmenistan's First President, Saparmurat Turkmenbashi. We lunch at the Altyn Asyr, the fountain of the 'Golden Century' with a splendid view of the Kopetdag Mountains getting our first impression of the this unusual country. After a rest at the hotel we continue with a visit a family of silk makers in a private house nearby the city centre. Traditionally the Keteni-Silk woven by the various Turkmen tribes is much harder than other silks in the region and unlike the Uzbek and Tadjik Ikat the thread is dyed separately before preparation of the warp. Keteni has undergone some very positive recent revival and curious evolutions and is again worn by Turkmen women and girls on most festive occasions. With a cup of tea we will watch the entire processing of the dying, threading, warp preparation and the actual weaving. Afterwards we visit Ashgabat's most excellent mosque with its outstanding calligraphies and dine at an outside restaurant.`,

@@ -21,7 +21,14 @@ export default function Hotel() {
 
 	return (
 		<div className='hotel_container content_container'>
-			<div className='hotel_title'>{hotels[city][id].title}</div>
+			<div className='hotel_background'>
+				<Image
+					preview={false}
+					width={'100%'}
+					src='/hotels/background.webp'
+				/>
+				<div className='hotel_title'>{hotels[city][id].title}</div>
+			</div>
 			<div className='hotel_description'>
 				{hotels[city][id].description}
 			</div>

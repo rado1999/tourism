@@ -1,42 +1,62 @@
 .hotels_container {
-	padding: 110px 10px 30px 10px;
+	overflow: hidden;
 	text-align: center;
 }
 
-.hotels_content_container {
-	height: 100%;
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-around;
-	align-items: start;
-	overflow: hidden; /* fixed the issue with vanilla tilt on Safari */
+.hotels_background {
+	position: relative;
 }
 
 .hotels_segment_container {
-	margin-bottom: 10px;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: calc(20px + (50 - 20) * ((100vw - 320px) / (1440 - 320)));
+	margin-top: calc(30px + (92 - 30) * ((100vw - 320px) / (1440 - 320)));
 	border-radius: 8px;
 	overflow: auto;
 }
 
-.hotels_card {
-	width: 350px;
-	height: 350px;
-	margin: 20px;
-	display: flex;
-	flex-direction: column;
+.hotels_title {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: calc(18px + (54 - 18) * ((100vw - 320px) / (1440 - 320)));
+	font-family: PoppinsBold;
+	color: white;
 }
 
-.hotels_card_image_container {
-	overflow: hidden;
+.hotels_row {
+	padding: 0px calc(10px + (165 - 10) * ((100vw - 320px) / (1440 - 320)));
+	margin-top: calc(50px + (118 - 50) * ((100vw - 320px) / (1440 - 320)));
+	margin-bottom: calc(50px + (118 - 50) * ((100vw - 320px) / (1440 - 320)));
+}
+
+.hotels_card {
+	width: calc(300px + (350 - 300) * ((100vw - 320px) / (1440 - 320)));
+	height: calc(367px + (417 - 367) * ((100vw - 320px) / (1440 - 320)));
+	padding: 20px 15px;
 }
 
 .hotels_card_image {
 	width: 100%;
+	height: 100%;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-radius: 8px;
 }
 
 .hotels_card_title {
-	font-weight: 500;
-	font-size: 24px;
+	width: 100%;
 	text-align: center;
-	padding: 30px 0px;
+	position: absolute;
+	bottom: 35px;
+	left: 0;
+	padding: 0px 10px;
+	font-size: calc(16px + (22 - 16) * ((100vw - 320px) / (1440 - 320)));
+	font-family: PoppinsBold;
+	color: #fcfdff;
+	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }

@@ -3,6 +3,7 @@ import VanillaTilt from 'vanilla-tilt'
 import Carousel from './Carousel'
 import TopTours from './TopTours'
 import Visa from './Visa'
+import Hotels from './Hotels'
 import './index.css'
 
 export default function Main() {
@@ -21,6 +22,7 @@ export default function Main() {
 		<div className='main_content_container content_container'>
 			<Carousel />
 			<TopTours />
+			<Hotels />
 			<Visa />
 		</div>
 	)

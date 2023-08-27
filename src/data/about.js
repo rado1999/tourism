@@ -13,36 +13,3 @@ export const data = [
 	'Taking part in various exhibitions',
 	'Servicing business delegations',
 ]
-
-export const transports = [
-	{
-		title: 'BONLUCK BUS',
-		image: '/transport/bonluck.webp',
-		seats: 33,
-	},
-	{
-		title: 'TOYOTA FORTUNER JEEP',
-		image: '/transport/jeep.webp',
-		seats: 7,
-	},
-	{
-		title: 'TOYOTA CAMRY',
-		image: '/transport/camry.webp',
-		seats: 4,
-	},
-	{
-		title: 'TOYOTA SIENNA',
-		image: '/transport/sienna.webp',
-		seats: 7,
-	},
-	{
-		title: 'TOYOTA  PRADO SUV',
-		image: '/transport/suv.webp',
-		seats: 7,
-	},
-	{
-		title: 'ZONDO COACH',
-		image: '/transport/zondo.webp',
-		seats: 44,
-	},
-]

@@ -1,7 +1,6 @@
 import React from 'react'
-import { Image, List } from 'antd'
+import { Image } from 'antd'
 import { data } from '../../../data/about'
-import Transports from './Transports'
 import './index.css'
 
 export default function About() {

@@ -25,6 +25,7 @@ header {
 .header_li {
 	list-style-type: none;
 	margin: 0px 15px;
+	text-align: center;
 }
 
 .header_a {

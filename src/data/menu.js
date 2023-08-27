@@ -20,7 +20,7 @@ export const menu = [
 		url: '/about',
 	},
 	{
-		title: 'Places',
-		url: '/places',
+		title: 'Destinations',
+		url: '/destinations',
 	},
 ]

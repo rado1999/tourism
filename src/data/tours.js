@@ -73,7 +73,7 @@ export const tours = {
 			},
 		},
 		{
-			title: `ALONG THE DINOSAURS' TRACKS`,
+			title: `Along the dinosaurs' tracks`,
 			image: '/places/dinosaurs/1.webp',
 			1: {
 				title: 'ASHGABAT',
@@ -161,7 +161,7 @@ export const tours = {
 			},
 		},
 		{
-			title: 'GRAND JOURNEY OVER ANCIENT TURKISTAN 2023',
+			title: 'Grand Journey over ancient Turkistan 2023',
 			image: '/places/koneurgenc.webp',
 			1: {
 				title: '',

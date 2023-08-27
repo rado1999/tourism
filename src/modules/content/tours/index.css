@@ -19,6 +19,7 @@
 .tours_row {
 	padding: 0px calc(5px + (80 - 5) * ((100vw - 320px) / (1440 - 320)));
 	margin-top: calc(50px + (118 - 50) * ((100vw - 320px) / (1440 - 320)));
+	margin-bottom: 50px;
 }
 
 .tours_card {

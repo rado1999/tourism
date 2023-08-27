@@ -4,6 +4,8 @@ import Carousel from './Carousel'
 import TopTours from './TopTours'
 import Visa from './Visa'
 import Hotels from './Hotels'
+import Transports from './Transports'
+import Destinations from './Destinations'
 import './index.css'
 
 export default function Main() {
@@ -21,8 +23,10 @@ export default function Main() {
 	return (
 		<div className='main_content_container content_container'>
 			<Carousel />
+			<Destinations />
 			<TopTours />
 			<Hotels />
+			<Transports />
 			<Visa />
 		</div>
 	)

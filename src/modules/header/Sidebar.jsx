@@ -1,23 +1,26 @@
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import { menu } from './../../data/menu'
+import { FloatButton } from 'antd'
+import { MenuOutlined } from '@ant-design/icons'
 
 export default function Sidebar() {
 	const [toggle, setToggle] = useState('-100%')
+	const [menuOn, setMenuOn] = useState()
+
+	useEffect(() => {
+		if (window.innerWidth <= 768) setMenuOn('display')
+		else setMenuOn('none')
+	})
 
 	return (
 		<>
-			<div className='iphone_btn_container'>
-				<div
-					className='iphone_btn'
-					onClick={() =>
-						toggle === '-25%'
-							? setToggle('-100%')
-							: setToggle('-25%')
-					}
-				>
-					<div className='iphone_btn_circle'></div>
-				</div>
-			</div>
+			<FloatButton
+				style={{ display: menuOn }}
+				onClick={() =>
+					toggle === '0%' ? setToggle('-100%') : setToggle('0%')
+				}
+				icon={<MenuOutlined />}
+			/>
 			<div className='sidebar' style={{ bottom: toggle }}>
 				<ul>
 					{menu.map(({ title, url }, index) => (

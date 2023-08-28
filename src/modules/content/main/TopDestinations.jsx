@@ -88,7 +88,7 @@ export default function TopDestinations() {
 			</div>
 			<div
 				className='top_destination_view_all'
-				onClick={() => (location.href = '/')}
+				onClick={() => (location.href = '/destinations')}
 			>
 				View all Popular Destinations
 			</div>

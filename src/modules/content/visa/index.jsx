@@ -12,7 +12,7 @@ export default function Visa() {
 					width={'100%'}
 					src='/visa_background.webp'
 				/>
-				<div className='visa_title'>Tour List</div>
+				<div className='visa_title'>Visa</div>
 			</div>
 			<div className='visa_content_container'>
 				<div className='visa_text text1'>

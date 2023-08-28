@@ -57,9 +57,7 @@ export default function Footer() {
 						</Row>
 					</Col>
 				</Row>
-				<div className='copyright'>
-					Copyright © 2023 StarDust All rights reserved.
-				</div>
+				<div className='copyright'>All rights reserved</div>
 			</div>
 		</footer>
 	)

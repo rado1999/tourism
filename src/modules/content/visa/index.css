@@ -14,8 +14,8 @@
 
 .visa_content_container {
 	max-width: 1064px;
-	margin: calc(30px + (69 - 30) * ((100vw - 320px) / (1440 - 320)))
-		calc(24px + (188 - 24) * ((100vw - 320px) / (1440 - 320)));
+	margin: calc(30px + (69 - 30) * ((100vw - 320px) / (1440 - 320))) auto;
+	padding: 0px 15px;
 }
 
 .visa_text {
@@ -61,4 +61,16 @@
 .warning {
 	color: #d01414;
 	margin-top: 20px;
+}
+
+@media (min-width: 480px) {
+	.visa_content_container {
+		padding: 0px 50px;
+	}
+}
+
+@media (min-width: 768px) {
+	.visa_content_container {
+		padding: 0px 75px;
+	}
 }

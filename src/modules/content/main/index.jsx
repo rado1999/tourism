@@ -5,7 +5,7 @@ import TopTours from './TopTours'
 import Visa from './Visa'
 import Hotels from './Hotels'
 import Transports from './Transports'
-import Destinations from './Destinations'
+import TopDestinations from './TopDestinations'
 import './index.css'
 
 export default function Main() {
@@ -23,7 +23,7 @@ export default function Main() {
 	return (
 		<div className='main_content_container content_container'>
 			<Carousel />
-			<Destinations />
+			<TopDestinations />
 			<TopTours />
 			<Hotels />
 			<Transports />

@@ -17,7 +17,6 @@ export default function Footer() {
 						<div className='contact'>+423 5362 42365</div>
 						<div className='footer_title'>Mail</div>
 						<div className='contact'>marketing@yagty-osus</div>
-						<div className='footer_title'>Follow us</div>
 					</Col>
 					<Col className='col2' flex={'1 0 25%'}>
 						<div className='footer_title'>Links</div>

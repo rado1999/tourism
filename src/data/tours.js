@@ -463,7 +463,7 @@ Dinner and overnight at the hotel.`,
 		},
 		{
 			title: `Tour N1`,
-			image: '/places/Turkmenbashy_Mosque.webp',
+			image: '/places/ashgabat/2.webp',
 			1: {
 				title: `Airport-Ashgabat`,
 				text: `Meeting guests at the international airport in Ashgabat. Transfer to hotel. Welcome cocktail. After lunch going to “ BEDEV” horse farm to see selected the most beautiful Akhal-Teke horses. Dinner at the hotel.`,

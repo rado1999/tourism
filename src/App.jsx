@@ -10,7 +10,8 @@ import Hotels from './modules/content/hotels'
 import Hotel from './modules/content/hotel'
 import Visa from './modules/content/visa'
 import About from './modules/content/about'
-import Places from './modules/content/places'
+import Destinations from './modules/content/destinations'
+import Destination from './modules/content/destination'
 import './index.css'
 
 export default function App() {
@@ -24,7 +25,8 @@ export default function App() {
 				<Route path='hotel/:city/:id' element={<Hotel />} />
 				<Route path='visa' element={<Visa />} />
 				<Route path='about' element={<About />} />
-				<Route path='places' element={<Places />} />
+				<Route path='destinations' element={<Destinations />} />
+				<Route path='destination/:id' element={<Destination />} />
 			</Route>
 			<Route path='*' element={<NotFound />} />
 		</Routes>

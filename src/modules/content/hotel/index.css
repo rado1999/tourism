@@ -25,7 +25,8 @@
 	padding: 0px calc(20px + (188 - 20) * ((100vw - 320px) / (1440 - 320)));
 }
 
-.hotel_images_container {
+.hotel_images_container,
+.destination_images_container {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-around;
@@ -34,7 +35,8 @@
 	overflow: hidden; /* fixed the issue with vanilla tilt on Safari */
 }
 
-.hotel_image_container {
+.hotel_image_container,
+.destination_image_container {
 	border-radius: 8px;
 	overflow: hidden;
 	margin: 10px 10px;

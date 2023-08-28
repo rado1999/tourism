@@ -17,7 +17,7 @@ export const data = [
 	},
 	{
 		title: 'Turkmenbashy Mosque',
-		image: '/places/Turkmenbashy_Mosque.webp',
+		image: '/places/ashgabat/2.webp',
 	},
 ]
 
@@ -66,36 +66,36 @@ export const topTours = [
 
 export const topDestinations = [
 	{
-		title: 'Emirates, United Arabian',
-		url: '#',
+		title: 'Abu Sagyt',
+		url: '/destination/1',
 	},
 	{
-		title: 'New York City, USA',
-		url: '#',
+		title: 'Soltan Sanjar',
+		url: '/destination/18',
 	},
 	{
-		title: 'One Bridge, Belguim',
-		url: '#',
+		title: 'Gyz Gala',
+		url: '/destination/13',
 	},
 	{
-		title: 'Golden Frame, Dubai',
-		url: '#',
+		title: 'Dehistan',
+		url: '/destination/10',
 	},
 	{
-		title: 'Emirates, United Arabian',
-		url: '#',
+		title: 'Merv',
+		url: '/destination/16',
 	},
 	{
-		title: 'New York City, USA',
-		url: '#',
+		title: 'Margush',
+		url: '/destination/15',
 	},
 	{
-		title: 'One Bridge, Belguim',
-		url: '#',
+		title: 'Darvaza',
+		url: '/destination/9',
 	},
 	{
-		title: 'Golden Frame, Dubai',
-		url: '#',
+		title: 'Ashgabat',
+		url: '/destination/5',
 	},
 ]
 

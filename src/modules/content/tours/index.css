@@ -1,12 +1,15 @@
-.tours_container {
+.tours_container,
+.destinations_container {
 	overflow: hidden;
 }
 
-.tours_background {
+.tours_background,
+.destinations_background {
 	position: relative;
 }
 
-.tours_title {
+.tours_title,
+.destinations_title {
 	position: absolute;
 	top: 50%;
 	left: 50%;
@@ -16,27 +19,32 @@
 	color: white;
 }
 
-.tours_row {
+.tours_row,
+.destinations_row {
 	padding: 0px calc(5px + (80 - 5) * ((100vw - 320px) / (1440 - 320)));
 	margin-top: calc(50px + (118 - 50) * ((100vw - 320px) / (1440 - 320)));
 	margin-bottom: 50px;
 }
 
-.tours_card {
+.tours_card,
+.destinations_card {
 	width: calc(155px + (309 - 155) * ((100vw - 320px) / (1440 - 320)));
 	height: calc(259px + (400 - 259) * ((100vw - 320px) / (1440 - 320)));
 	padding: 10px 7.5px;
 }
 
-.tours_card_image {
+.tours_card_image,
+.destinations_card_image {
 	width: 100%;
 	height: 100%;
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
+	border-radius: 8px;
 }
 
-.tours_card_title {
+.tours_card_title,
+.destinations_card_title {
 	width: 100%;
 	text-align: center;
 	position: absolute;

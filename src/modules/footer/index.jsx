@@ -1,10 +1,18 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Col, Row } from 'antd'
 import { menu } from '../../data/menu'
 import { topDestinations } from '../../data/main'
+import { useTranslation } from 'react-i18next'
 import './index.css'
 
 export default function Footer() {
+	const { t, i18n } = useTranslation()
+
+	useEffect(() => {
+		const lang = localStorage.getItem('lang')
+		if (lang) i18n.changeLanguage(lang)
+	}, [])
+
 	return (
 		<footer>
 			<div className='footer_container'>
@@ -13,15 +21,15 @@ export default function Footer() {
 				</div>
 				<Row>
 					<Col className='col1' flex={'1 0 25%'}>
-						<div className='footer_title'>Call Us</div>
+						<div className='footer_title'>{t('footer.call')}</div>
 						<div className='contact'>+423 5362 42365</div>
-						<div className='footer_title'>Mail</div>
+						<div className='footer_title'>{t('footer.mail')}</div>
 						<div className='contact'>marketing@yagty-osus</div>
 					</Col>
 					<Col className='col2' flex={'1 0 25%'}>
-						<div className='footer_title'>Links</div>
+						<div className='footer_title'>{t('footer.links')}</div>
 						<Row>
-							{menu.map(({ title, url }, index) => (
+							{menu.map(({ key, url }, index) => (
 								<Col
 									style={{ marginBottom: 30 }}
 									key={index}
@@ -31,14 +39,16 @@ export default function Footer() {
 									lg={12}
 								>
 									<a className='footer_links' href={url}>
-										{title}
+										{t(`menu.${key}`)}
 									</a>
 								</Col>
 							))}
 						</Row>
 					</Col>
 					<Col className='col3' flex={'1 0 50%'}>
-						<div className='footer_title'>Popular Destinations</div>
+						<div className='footer_title'>
+							{t('footer.destinations')}
+						</div>
 						<Row>
 							{topDestinations.map(({ title, url }, index) => (
 								<Col
@@ -57,7 +67,7 @@ export default function Footer() {
 						</Row>
 					</Col>
 				</Row>
-				<div className='copyright'>All rights reserved</div>
+				<div className='copyright'>{t('footer.rights')}</div>
 			</div>
 		</footer>
 	)

@@ -13,7 +13,7 @@ export default function Tours() {
 			glare: true,
 			'max-glare': 1,
 		})
-	})
+	}, [])
 
 	return (
 		<div className='tours_container content_container'>

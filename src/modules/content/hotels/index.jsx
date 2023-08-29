@@ -4,12 +4,17 @@ import { hotels } from '../../../data/hotels'
 import { useCustomContext } from '../../../context/AppContext'
 import VanillaTilt from 'vanilla-tilt'
 import { Col, Image, Row } from 'antd'
+import { useTranslation } from 'react-i18next'
 import './index.css'
 
 export default function Hotels() {
 	const { place } = useCustomContext()
+	const { t, i18n } = useTranslation()
 
 	useEffect(() => {
+		const lang = localStorage.getItem('lang')
+		if (lang) i18n.changeLanguage(lang)
+
 		const card = document.querySelectorAll('.card')
 
 		VanillaTilt.init(card, {
@@ -18,7 +23,7 @@ export default function Hotels() {
 			glare: true,
 			'max-glare': 1,
 		})
-	})
+	}, [])
 
 	return (
 		<div className='hotels_container content_container'>
@@ -28,11 +33,11 @@ export default function Hotels() {
 					width={'100%'}
 					src='/hotels/background.webp'
 				/>
-				<div className='hotels_title'>Hotels</div>
+				<div className='hotels_title'>{t('main.hotels')}</div>
 			</div>
 			<Segment />
 			<Row justify={'start'} align={'middle'} className='hotels_row'>
-				{hotels[place].map(({ title, image }, index) => (
+				{hotels[place].map(({ key, image }, index) => (
 					<Col
 						key={index}
 						className='hotels_card card'
@@ -48,7 +53,9 @@ export default function Hotels() {
 							style={{ backgroundImage: `url(${image})` }}
 							className='hotels_card_image'
 						></div>
-						<div className='hotels_card_title'>{title}</div>
+						<div className='hotels_card_title'>
+							{t(`hotels.${key}.title`)}
+						</div>
 					</Col>
 				))}
 			</Row>

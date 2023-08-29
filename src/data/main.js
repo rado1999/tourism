@@ -33,9 +33,9 @@ export const topTours = [
 		url: '/tour/5',
 	},
 	{
-		title: 'Third tour',
-		image: '/top-tours/astana.webp',
-		url: '/tour/3',
+		title: 'Kunyaurgench is the city of cities',
+		image: '/places/koneurgenc1.webp',
+		url: '/tour/6',
 	},
 	{
 		title: 'Turkmenistan Pure',
@@ -101,17 +101,17 @@ export const topDestinations = [
 
 export const hotels_example = [
 	{
-		title: 'Yyldyz',
+		key: 'yyldyz.title',
 		image: '/hotels/yyldyz/yyldyz.webp',
 		url: '/hotel/Ashgabat/2',
 	},
 	{
-		title: 'Oguzkent',
+		key: 'oguzkent.title',
 		image: '/hotels/oguzkent/oguzkent.webp',
 		url: '/hotel/Ashgabat/1',
 	},
 	{
-		title: 'Diwan',
+		key: 'divan.title',
 		image: '/hotels/divan/diwan.webp',
 		url: '/hotel/Ashgabat/0',
 	},
@@ -119,32 +119,32 @@ export const hotels_example = [
 
 export const transports = [
 	{
-		title: 'Bonluck Bus',
+		key: 'bus',
 		image: '/transport/bonluck.webp',
 		seats: 33,
 	},
 	{
-		title: 'Toyota Fortuner Jeep',
+		key: 'jeep',
 		image: '/transport/jeep.webp',
 		seats: 7,
 	},
 	{
-		title: 'Toyota Camry',
+		key: 'camry',
 		image: '/transport/camry.webp',
 		seats: 4,
 	},
 	{
-		title: 'Toyota Sienna',
+		key: 'sienna',
 		image: '/transport/sienna.webp',
 		seats: 7,
 	},
 	{
-		title: 'Toyota Prado Suv',
+		key: 'prado',
 		image: '/transport/suv.webp',
 		seats: 7,
 	},
 	{
-		title: 'Zondo Coach',
+		key: 'zondo',
 		image: '/transport/zondo.webp',
 		seats: 44,
 	},

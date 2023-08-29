@@ -1,20 +1,25 @@
 import React from 'react'
 import { transports } from '../../../data/main'
+import { useTranslation } from 'react-i18next'
 
 export default function Transports() {
+	const { t } = useTranslation()
+
 	return (
 		<div className='transport_container'>
-			<div className='transport_title'>Our Transportation Vehicles</div>
+			<div className='transport_title'>{t('main.transports')}</div>
 			<div className='transport_card_container'>
-				{transports.map(({ title, image, seats }, index) => (
+				{transports.map(({ key, image, seats }, index) => (
 					<div key={index} className='transport_card'>
 						<div
 							className='transport_card_image'
 							style={{ backgroundImage: `url(${image})` }}
 						></div>
-						<div className='transport_card_title'>{title}</div>
+						<div className='transport_card_title'>
+							{t(`transports.${key}`)}
+						</div>
 						<div className='transport_card_title seats'>
-							Seats: {seats}
+							{t('transports.seats')}: {seats}
 						</div>
 					</div>
 				))}

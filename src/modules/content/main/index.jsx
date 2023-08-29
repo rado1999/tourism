@@ -6,10 +6,16 @@ import Visa from './Visa'
 import Hotels from './Hotels'
 import Transports from './Transports'
 import TopDestinations from './TopDestinations'
+import { useTranslation } from 'react-i18next'
 import './index.css'
 
 export default function Main() {
+	const { t, i18n } = useTranslation()
+
 	useEffect(() => {
+		const lang = localStorage.getItem('lang')
+		if (lang) i18n.changeLanguage(lang)
+
 		const card = document.querySelectorAll('.card')
 
 		VanillaTilt.init(card, {
@@ -18,7 +24,7 @@ export default function Main() {
 			glare: true,
 			'max-glare': 1,
 		})
-	})
+	}, [])
 
 	return (
 		<div className='main_content_container content_container'>

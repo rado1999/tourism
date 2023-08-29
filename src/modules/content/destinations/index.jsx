@@ -13,7 +13,7 @@ export default function Destinations() {
 			glare: true,
 			'max-glare': 1,
 		})
-	})
+	}, [])
 
 	return (
 		<div className='destinations_container'>

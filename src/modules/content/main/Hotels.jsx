@@ -1,12 +1,15 @@
 import React from 'react'
 import { hotels_example } from '../../../data/main'
+import { useTranslation } from 'react-i18next'
 
 export default function Hotels() {
+	const { t } = useTranslation()
+
 	return (
 		<div className='main_hotels_container'>
-			<div className='main_hotels_title'>Hotels</div>
+			<div className='main_hotels_title'>{t('main.hotels')}</div>
 			<div className='main_hotels_card_container'>
-				{hotels_example.map(({ title, image, url }, index) => (
+				{hotels_example.map(({ key, image, url }, index) => (
 					<div
 						key={index}
 						className='main_hotel_card'
@@ -16,7 +19,9 @@ export default function Hotels() {
 							className='main_hotel_card_image'
 							style={{ backgroundImage: `url(${image})` }}
 						></div>
-						<div className='main_hotels_card_title'>{title}</div>
+						<div className='main_hotels_card_title'>
+							{t(`hotels.${key}`)}
+						</div>
 					</div>
 				))}
 			</div>
@@ -24,7 +29,7 @@ export default function Hotels() {
 				className='main_hotels_view_all'
 				onClick={() => (location.href = '/hotel')}
 			>
-				View all Organized Trips
+				{t('main.view_trips')}
 			</div>
 		</div>
 	)

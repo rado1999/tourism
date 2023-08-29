@@ -12,6 +12,7 @@ import Visa from './modules/content/visa'
 import About from './modules/content/about'
 import Destinations from './modules/content/destinations'
 import Destination from './modules/content/destination'
+import './plugins/i18next'
 import './index.css'
 
 export default function App() {

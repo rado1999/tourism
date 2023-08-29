@@ -16,7 +16,7 @@ export default function Destination() {
 			glare: true,
 			'max-glare': 1,
 		})
-	})
+	}, [])
 
 	return (
 		<div className='destination_container'>

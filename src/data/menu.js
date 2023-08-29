@@ -1,26 +1,26 @@
 export const menu = [
 	{
-		title: 'Home',
+		key: 'home',
 		url: '/',
 	},
 	{
-		title: 'Tours',
+		key: 'tours',
 		url: '/tour',
 	},
 	{
-		title: 'Hotels',
+		key: 'hotels',
 		url: '/hotel',
 	},
 	{
-		title: 'Visa',
+		key: 'visa',
 		url: '/visa',
 	},
 	{
-		title: 'About us',
+		key: 'about',
 		url: '/about',
 	},
 	{
-		title: 'Destinations',
+		key: 'destinations',
 		url: '/destinations',
 	},
 ]

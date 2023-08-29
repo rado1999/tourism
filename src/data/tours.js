@@ -1,7 +1,7 @@
 export const tours = {
 	en: [
 		{
-			title: 'TURKMENISTAN DESERT TOUR 8 DAYS',
+			title: 'Turkmenistan desert tour 8 days',
 			image: '/places/desert/2.webp',
 			1: {
 				title: 'Farap-Turkmenabat-Dayahatyn-DarganAta village (215 km)  3 hours',
@@ -229,8 +229,8 @@ export const tours = {
 			},
 		},
 		{
-			title: 'KUNYAURGENCH IS THE CITY OF CITIES',
-			image: '/places/desert/koneurgenc.webp',
+			title: 'Kunyaurgench is the city of cities',
+			image: '/places/koneurgenc1.webp',
 			1: { title: '', text: '', images: [] },
 		},
 		{
@@ -342,7 +342,7 @@ export const tours = {
 			},
 		},
 		{
-			title: 'PILGRIMAGE TO THE SAINT SUFI LEADERS MAUSELEUMS OF THE GREAT TURKISTAN',
+			title: 'Pilgrimage to the saint sufi leaders mauseleums of the great Turkistan',
 			image: '/places/buhara.webp',
 			1: {
 				title: 'Arrival to Ashgabat',

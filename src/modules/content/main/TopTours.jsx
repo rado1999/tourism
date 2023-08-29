@@ -1,11 +1,14 @@
 import React from 'react'
 import { topTours } from '../../../data/main'
 import { Col, Image, Row } from 'antd'
+import { useTranslation } from 'react-i18next'
 
 export default function TopTours() {
+	const { t } = useTranslation()
+
 	return (
 		<div className='top_tours_container'>
-			<div className='top_tours_title'>Trending tours</div>
+			<div className='top_tours_title'>{t('main.tours')}</div>
 			<Row justify={'start'} align={'middle'}>
 				{topTours.map(({ title, image, url }, index) => (
 					<Col

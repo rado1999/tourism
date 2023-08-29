@@ -1,7 +1,10 @@
 import React, { useState } from 'react'
 import { first, second, third, fourth, base } from '../../../data/cards'
+import { useTranslation } from 'react-i18next'
 
 export default function TopDestinations() {
+	const { t } = useTranslation()
+
 	const [size, setSize] =
 		window.innerWidth <= 768 ? useState(base) : useState(first)
 
@@ -11,12 +14,15 @@ export default function TopDestinations() {
 
 	return (
 		<div className='top_destination_container'>
-			<div className='top_destination_title'>Popular Destinations</div>
+			<div className='top_destination_title'>
+				{t('main.destinations')}
+			</div>
 			<div className='top_destination_card_container'>
 				<div
 					className='top_destination_card dc1'
 					style={{ width: size[1].lg }}
 					onMouseMove={() => slide(first)}
+					onClick={() => (location.href = '/destination/1')}
 				>
 					<div
 						className='top_destination_card_image'
@@ -35,6 +41,7 @@ export default function TopDestinations() {
 					className='top_destination_card dc2'
 					style={{ width: size[2].md }}
 					onMouseMove={() => slide(second)}
+					onClick={() => (location.href = '/destination/18')}
 				>
 					<div
 						className='top_destination_card_image'
@@ -53,6 +60,7 @@ export default function TopDestinations() {
 					className='top_destination_card dc3'
 					style={{ width: size[3].sm }}
 					onMouseMove={() => slide(third)}
+					onClick={() => (location.href = '/destination/13')}
 				>
 					<div
 						className='top_destination_card_image'
@@ -71,6 +79,7 @@ export default function TopDestinations() {
 					className='top_destination_card dc4'
 					style={{ width: size[4].xs }}
 					onMouseMove={() => slide(fourth)}
+					onClick={() => (location.href = '/destination/10')}
 				>
 					<div
 						className='top_destination_card_image'
@@ -90,7 +99,7 @@ export default function TopDestinations() {
 				className='top_destination_view_all'
 				onClick={() => (location.href = '/destinations')}
 			>
-				View all Popular Destinations
+				{t('main.view_destinations')}
 			</div>
 		</div>
 	)

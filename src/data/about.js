@@ -1,15 +1,1 @@
-export const data = [
-	'Letter Of Invitation (LOI)- Visa support for tourists to enter Turkmenistan',
-	'Provide a full package of tourist services for tourists to Turkmenistan (transfer, hotel reservation and accommodation of tourists in hotels, meals, excursions, tour routes for Turkmenistan)',
-	'Organization of pilgrimage and study tours with an experienced guide - interpreter',
-	'Hotel booking in Turkmenistan and abroad',
-	'Air tickets booking',
-	'Sales and booking air tickets',
-	'Guided tours to various countries of Turkmenistan',
-	'Transportation services',
-	'Business Tourism',
-	'Business Consultations',
-	'Organization of meetings, conferences',
-	'Taking part in various exhibitions',
-	'Servicing business delegations',
-]
+export const data = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]

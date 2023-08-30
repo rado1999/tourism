@@ -1,10 +1,7 @@
 import React from 'react'
 import { hotels_example } from '../../../data/main'
-import { useTranslation } from 'react-i18next'
 
-export default function Hotels() {
-	const { t } = useTranslation()
-
+export default function Hotels({ t }) {
 	return (
 		<div className='main_hotels_container'>
 			<div className='main_hotels_title'>{t('main.hotels')}</div>

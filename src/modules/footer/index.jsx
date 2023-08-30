@@ -50,7 +50,7 @@ export default function Footer() {
 							{t('footer.destinations')}
 						</div>
 						<Row>
-							{topDestinations.map(({ title, url }, index) => (
+							{topDestinations.map(({ key, url }, index) => (
 								<Col
 									style={{ marginBottom: 30 }}
 									key={index}
@@ -60,7 +60,7 @@ export default function Footer() {
 									lg={12}
 								>
 									<a className='footer_links' href={url}>
-										{title}
+										{t(`destinations.${key}`)}
 									</a>
 								</Col>
 							))}

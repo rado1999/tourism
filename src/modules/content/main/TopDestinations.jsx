@@ -1,10 +1,7 @@
 import React, { useState } from 'react'
 import { first, second, third, fourth, base } from '../../../data/cards'
-import { useTranslation } from 'react-i18next'
 
-export default function TopDestinations() {
-	const { t } = useTranslation()
-
+export default function TopDestinations({ t }) {
 	const [size, setSize] =
 		window.innerWidth <= 768 ? useState(base) : useState(first)
 
@@ -34,7 +31,7 @@ export default function TopDestinations() {
 						className='top_destination_card_title'
 						style={{ display: size[1].display }}
 					>
-						Abu Sagyt
+						{t('destinations.sagyt')}
 					</div>
 				</div>
 				<div
@@ -53,7 +50,7 @@ export default function TopDestinations() {
 						className='top_destination_card_title'
 						style={{ display: size[2].display }}
 					>
-						Soltan Sanjar
+						{t('destinations.sanjar')}
 					</div>
 				</div>
 				<div
@@ -72,7 +69,7 @@ export default function TopDestinations() {
 						className='top_destination_card_title'
 						style={{ display: size[3].display }}
 					>
-						Gyz Gala
+						{t('destinations.gyzgala')}
 					</div>
 				</div>
 				<div
@@ -91,7 +88,7 @@ export default function TopDestinations() {
 						className='top_destination_card_title'
 						style={{ display: size[4].display }}
 					>
-						Dehistan
+						{t('destinations.dehistan')}
 					</div>
 				</div>
 			</div>

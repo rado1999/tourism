@@ -1,10 +1,7 @@
 import React from 'react'
 import { transports } from '../../../data/main'
-import { useTranslation } from 'react-i18next'
 
-export default function Transports() {
-	const { t } = useTranslation()
-
+export default function Transports({ t }) {
 	return (
 		<div className='transport_container'>
 			<div className='transport_title'>{t('main.transports')}</div>

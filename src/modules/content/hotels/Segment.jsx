@@ -2,14 +2,31 @@ import { Segmented } from 'antd'
 import React from 'react'
 import { useCustomContext } from '../../../context/AppContext'
 
-export default function Segment() {
+export default function Segment({ t }) {
 	const { setPlace } = useCustomContext()
 
-	let options = ['Ashgabat', 'Mary', 'Lebap', 'Dashoguz', 'Balkan']
-
-	// if (lang === 'ch') {
-	// 	options = ['阿什哈巴德', '瑪麗', '勒巴普', '達紹古茲', '巴爾幹']
-	// }
+	let options = [
+		{
+			label: t('langs.ashgabat'),
+			value: 1,
+		},
+		{
+			label: t('langs.mary'),
+			value: 2,
+		},
+		{
+			label: t('langs.lebap'),
+			value: 3,
+		},
+		{
+			label: t('langs.dashoguz'),
+			value: 4,
+		},
+		{
+			label: t('langs.balkan'),
+			value: 5,
+		},
+	]
 
 	return (
 		<div className='hotels_segment_container'>

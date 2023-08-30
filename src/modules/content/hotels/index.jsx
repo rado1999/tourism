@@ -35,7 +35,7 @@ export default function Hotels() {
 				/>
 				<div className='hotels_title'>{t('main.hotels')}</div>
 			</div>
-			<Segment />
+			<Segment t={t} />
 			<Row justify={'start'} align={'middle'} className='hotels_row'>
 				{hotels[place].map(({ key, image }, index) => (
 					<Col

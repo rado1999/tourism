@@ -2,9 +2,15 @@ import { Col, Image, Row } from 'antd'
 import React, { useEffect } from 'react'
 import { data } from '../../../data/destinations'
 import VanillaTilt from 'vanilla-tilt'
+import { useTranslation } from 'react-i18next'
 
 export default function Destinations() {
+	const { t, i18n } = useTranslation()
+
 	useEffect(() => {
+		const lang = localStorage.getItem('lang')
+		if (lang) i18n.changeLanguage(lang)
+
 		const card = document.querySelectorAll('.card')
 
 		VanillaTilt.init(card, {
@@ -23,14 +29,16 @@ export default function Destinations() {
 					width={'100%'}
 					src='/visa_background.webp'
 				/>
-				<div className='destinations_title'>Destination List</div>
+				<div className='destinations_title'>
+					{t('others.destination')}
+				</div>
 			</div>
 			<Row
 				justify={'start'}
 				align={'middle'}
 				className='destinations_row'
 			>
-				{data.map(({ title, image }, index) => (
+				{data.map(({ key, image }, index) => (
 					<Col
 						key={index}
 						className='destinations_card card'
@@ -46,7 +54,9 @@ export default function Destinations() {
 							style={{ backgroundImage: `url(${image})` }}
 							className='destinations_card_image'
 						></div>
-						<div className='destinations_card_title'>{title}</div>
+						<div className='destinations_card_title'>
+							{t(`destinations.${key}`)}
+						</div>
 					</Col>
 				))}
 			</Row>

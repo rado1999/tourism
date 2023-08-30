@@ -1,16 +1,13 @@
 import React from 'react'
 import { topTours } from '../../../data/main'
 import { Col, Image, Row } from 'antd'
-import { useTranslation } from 'react-i18next'
 
-export default function TopTours() {
-	const { t } = useTranslation()
-
+export default function TopTours({ t }) {
 	return (
 		<div className='top_tours_container'>
 			<div className='top_tours_title'>{t('main.tours')}</div>
 			<Row justify={'start'} align={'middle'}>
-				{topTours.map(({ title, image, url }, index) => (
+				{topTours.map(({ key, image, url }, index) => (
 					<Col
 						className='card'
 						style={{ padding: '10px 7.5px', textAlign: 'center' }}
@@ -22,7 +19,9 @@ export default function TopTours() {
 						onClick={() => (location.href = url)}
 					>
 						<Image preview={false} src={image}></Image>
-						<div className='top_tours_image_title'>{title}</div>
+						<div className='top_tours_image_title'>
+							{t(`tours.${key}.title`)}
+						</div>
 					</Col>
 				))}
 			</Row>

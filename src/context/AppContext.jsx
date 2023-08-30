@@ -5,8 +5,8 @@ export const Context = createContext()
 export const useCustomContext = () => useContext(Context)
 
 export default function ContextProvider({ children }) {
-	const [day, setDay] = useState('Day 1')
-	const [place, setPlace] = useState('Ashgabat')
+	const [day, setDay] = useState(1)
+	const [place, setPlace] = useState(1)
 
 	return (
 		<Context.Provider value={{ day, setDay, place, setPlace }}>

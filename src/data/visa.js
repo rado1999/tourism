@@ -1,16 +1,1 @@
-export const data = [
-	'Name and second name',
-	'Date of birth',
-	'Sex',
-	'Nationality',
-	'The color copy of your passport. The expiry date of the passport must be at least 6 months from the date of entry to Turkmenistan',
-	'1 photo 5x6 sized (must be color)',
-	'Route (city) and accommodation (hotel)',
-	'The date of entry, exit (depending on the type of the required visa)',
-	'Home address and telephone number',
-	'Education level (name of the university and faculity)',
-	'Place of work, position and telephone number',
-	'The Embassy /Consulate the request to be send to (country, city)',
-	'The country from which the foreigner entries',
-	'Next country of destination after Turkmenistan',
-]
+export const data = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]

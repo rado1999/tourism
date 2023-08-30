@@ -1,6 +1,6 @@
 export const data = [
 	{
-		title: 'Abiverd',
+		key: 'abiverd',
 		image: '/places/abiverd/1.webp',
 		images: [
 			'/places/abiverd/1.webp',
@@ -9,7 +9,7 @@ export const data = [
 		],
 	},
 	{
-		title: 'Abu Sagyt',
+		key: 'sagyt',
 		image: '/places/abu-sagyt/6.webp',
 		images: [
 			'/places/abu-sagyt/1.webp',
@@ -29,7 +29,7 @@ export const data = [
 		],
 	},
 	{
-		title: 'Ahal teke horses',
+		key: 'horses',
 		image: '/places/ahal-teke/33.webp',
 		images: [
 			'/places/ahal-teke/1.webp',
@@ -68,12 +68,12 @@ export const data = [
 		],
 	},
 	{
-		title: 'Alabay',
+		key: 'alabay',
 		image: '/places/alabay/2.webp',
 		images: ['/places/alabay/1.webp', '/places/alabay/2.webp'],
 	},
 	{
-		title: 'Il Arslan',
+		key: 'arslan',
 		image: '/places/arslan/1.webp',
 		images: [
 			'/places/arslan/1.webp',
@@ -82,7 +82,7 @@ export const data = [
 		],
 	},
 	{
-		title: 'Ashgabat',
+		key: 'ashgabat',
 		image: '/places/ashgabat/ashgabat.webp',
 		images: [
 			'/places/ashgabat/ashgabat.webp',
@@ -96,7 +96,7 @@ export const data = [
 		],
 	},
 	{
-		title: 'Astana Baba',
+		key: 'astana',
 		image: '/places/astana/1.webp',
 		images: [
 			'/places/astana/1.webp',
@@ -105,12 +105,12 @@ export const data = [
 		],
 	},
 	{
-		title: 'Balkanabat Monument',
+		key: 'balkan',
 		image: '/places/balkanabat/2.webp',
 		images: ['/places/balkanabat/2.webp', '/places/balkanabat/3.webp'],
 	},
 	{
-		title: 'Camels',
+		key: 'camels',
 		image: '/places/camel/2.webp',
 		images: [
 			'/places/camel/1.webp',
@@ -121,12 +121,12 @@ export const data = [
 		],
 	},
 	{
-		title: 'Darvaza',
+		key: 'darvaza',
 		image: '/places/darvaza/darwaza.webp',
 		images: ['/places/darvaza/darwaza.webp'],
 	},
 	{
-		title: 'Dehistan',
+		key: 'dehistan',
 		image: '/places/dehistan/6.webp',
 		images: [
 			'/places/dehistan/1.webp',
@@ -138,7 +138,7 @@ export const data = [
 		],
 	},
 	{
-		title: 'Kone Urgench',
+		key: 'urgenc',
 		image: '/places/desert/7.webp',
 		images: [
 			'/places/desert/1.webp',
@@ -153,7 +153,7 @@ export const data = [
 		],
 	},
 	{
-		title: 'Dinosaurs Tracks',
+		key: 'dino',
 		image: '/places/dinosaurs/1.webp',
 		images: [
 			'/places/dinosaurs/1.webp',
@@ -164,7 +164,7 @@ export const data = [
 		],
 	},
 	{
-		title: 'Gyz Gala',
+		key: 'gyzgala',
 		image: '/places/gyz-gala/5.webp',
 		images: [
 			'/places/gyz-gala/1.webp',
@@ -182,7 +182,7 @@ export const data = [
 		],
 	},
 	{
-		title: 'Ibn Zeyd',
+		key: 'zeyd',
 		image: '/places/ibn-zeyd/1.webp',
 		images: [
 			'/places/ibn-zeyd/1.webp',
@@ -194,7 +194,7 @@ export const data = [
 		],
 	},
 	{
-		title: 'Margush',
+		key: 'margush',
 		image: '/places/margush/2.webp',
 		images: [
 			'/places/margush/1.webp',
@@ -220,7 +220,7 @@ export const data = [
 		],
 	},
 	{
-		title: 'Merv',
+		key: 'merv',
 		image: '/places/merv/16.webp',
 		images: [
 			'/places/merv/1.webp',
@@ -246,12 +246,12 @@ export const data = [
 		],
 	},
 	{
-		title: 'Nohur village',
+		key: 'nohur',
 		image: '/places/nohur/1.webp',
 		images: ['/places/nohur/1.webp', '/places/nohur/2.webp'],
 	},
 	{
-		title: 'Soltan Sanjar',
+		key: 'sanjar',
 		image: '/places/soltan/11.webp',
 		images: [
 			'/places/soltan/2.webp',
@@ -271,7 +271,7 @@ export const data = [
 		],
 	},
 	{
-		title: 'Torebeg Hanym',
+		key: 'torebeg',
 		image: '/places/torebeg/6.webp',
 		images: [
 			'/places/torebeg/1.webp',
@@ -284,7 +284,7 @@ export const data = [
 		],
 	},
 	{
-		title: 'Yangigala',
+		key: 'yangigala',
 		image: '/places/yangigala/7.webp',
 		images: [
 			'/places/yangigala/1.webp',

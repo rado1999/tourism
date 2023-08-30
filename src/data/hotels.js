@@ -1,5 +1,5 @@
 export const hotels = {
-	Ashgabat: [
+	1: [
 		{
 			key: 'divan',
 			image: '/hotels/divan/diwan.webp',
@@ -26,7 +26,7 @@ export const hotels = {
 			],
 		},
 	],
-	Mary: [
+	2: [
 		{
 			key: 'mary',
 			image: '/hotels/mary/mary.webp',
@@ -38,14 +38,14 @@ export const hotels = {
 			],
 		},
 	],
-	Lebap: [
+	3: [
 		{
 			key: 'yupek',
 			image: '/hotels/yupek/yupek.webp',
 			images: [],
 		},
 	],
-	Dashoguz: [
+	4: [
 		{
 			key: 'dashoguz',
 			image: '/hotels/dashoguz/dashoguz.webp',
@@ -56,7 +56,7 @@ export const hotels = {
 			],
 		},
 	],
-	Balkan: [
+	5: [
 		{
 			key: 'charlak',
 			image: '/hotels/charlak/charlak.webp',

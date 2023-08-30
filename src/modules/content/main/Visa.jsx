@@ -1,9 +1,6 @@
 import React from 'react'
-import { useTranslation } from 'react-i18next'
 
-export default function Visa() {
-	const { t } = useTranslation()
-
+export default function Visa({ t }) {
 	return (
 		<div className='main_visa_container'>
 			<img src='/visa.webp' />

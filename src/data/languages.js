@@ -5,7 +5,7 @@ export const langs = [
 	},
 	{
 		value: 'ch',
-		label: 'CH',
+		label: '中國人',
 	},
 	{
 		value: 'jp',

@@ -28,12 +28,12 @@ export default function Main() {
 
 	return (
 		<div className='main_content_container content_container'>
-			<Carousel />
-			<TopDestinations />
-			<TopTours />
-			<Hotels />
-			<Transports />
-			<Visa />
+			<Carousel t={t} />
+			<TopDestinations t={t} />
+			<TopTours t={t} />
+			<Hotels t={t} />
+			<Transports t={t} />
+			<Visa t={t} />
 		</div>
 	)
 }

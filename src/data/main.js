@@ -1,64 +1,64 @@
 export const data = [
 	{
-		title: 'Darwaza',
+		key: 'darvaza',
 		image: '/places/darvaza/darwaza.webp',
 	},
 	{
-		title: 'Yangigala',
+		key: 'yangigala',
 		image: '/places/yangigala/10.webp',
 	},
 	{
-		title: 'Gyz Gala',
+		key: 'gyzgala',
 		image: '/places/gyz-gala/5.webp',
 	},
 	{
-		title: 'Ashgabat',
+		key: 'ashgabat',
 		image: '/places/ashgabat/ashgabat.webp',
 	},
 	{
-		title: 'Turkmenbashy Mosque',
+		key: 'mosque',
 		image: '/places/ashgabat/2.webp',
 	},
 ]
 
 export const topTours = [
 	{
-		title: `Along the dinosaurs' tracks`,
+		key: `dino`,
 		image: '/top-tours/koytendag.webp',
 		url: '/tour/3',
 	},
 	{
-		title: 'Grand Journey over ancient Turkistan 2023',
+		key: 'turk',
 		image: '/top-tours/buhara.webp',
 		url: '/tour/5',
 	},
 	{
-		title: 'Kunyaurgench is the city of cities',
+		key: 'kunya',
 		image: '/places/koneurgenc1.webp',
 		url: '/tour/6',
 	},
 	{
-		title: 'Turkmenistan Pure',
+		key: 'pure',
 		image: '/top-tours/darvaza.webp',
 		url: '/tour/11',
 	},
 	{
-		title: 'Iran-Turkmenistan-Uzbekistan',
+		key: 'iran',
 		image: '/top-tours/iran.webp',
 		url: '/tour/7',
 	},
 	{
-		title: 'Undiscovered Turkmenistan - The nomadic Silk Road frozen in time and sand',
+		key: 'undiscovered',
 		image: '/top-tours/garagum.webp',
 		url: '/tour/12',
 	},
 	{
-		title: 'PILGRIMAGE TO THE SAINT SUFI LEADERS MAUSELEUMS OF THE GREAT TURKISTAN',
+		key: 'pilgrimage',
 		image: '/top-tours/mary.webp',
 		url: '/tour/8',
 	},
 	{
-		title: 'Ashgabat and Around',
+		key: 'ashgabat',
 		image: '/top-tours/ashgabat.webp',
 		url: '/tour/1',
 	},
@@ -66,35 +66,35 @@ export const topTours = [
 
 export const topDestinations = [
 	{
-		title: 'Abu Sagyt',
+		key: 'sagyt',
 		url: '/destination/1',
 	},
 	{
-		title: 'Soltan Sanjar',
+		key: 'sanjar',
 		url: '/destination/18',
 	},
 	{
-		title: 'Gyz Gala',
+		key: 'gyzgala',
 		url: '/destination/13',
 	},
 	{
-		title: 'Dehistan',
+		key: 'dehistan',
 		url: '/destination/10',
 	},
 	{
-		title: 'Merv',
+		key: 'merv',
 		url: '/destination/16',
 	},
 	{
-		title: 'Margush',
+		key: 'margush',
 		url: '/destination/15',
 	},
 	{
-		title: 'Darvaza',
+		key: 'darvaza',
 		url: '/destination/9',
 	},
 	{
-		title: 'Ashgabat',
+		key: 'ashgabat',
 		url: '/destination/5',
 	},
 ]

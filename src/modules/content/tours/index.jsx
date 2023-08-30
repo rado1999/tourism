@@ -2,9 +2,15 @@ import React, { useEffect } from 'react'
 import { tours } from '../../../data/tours'
 import { Col, Image, Row } from 'antd'
 import './index.css'
+import { useTranslation } from 'react-i18next'
 
 export default function Tours() {
+	const { t, i18n } = useTranslation()
+
 	useEffect(() => {
+		const lang = localStorage.getItem('lang')
+		if (lang) i18n.changeLanguage(lang)
+
 		const card = document.querySelectorAll('.card')
 
 		VanillaTilt.init(card, {
@@ -23,10 +29,10 @@ export default function Tours() {
 					width={'100%'}
 					src='/tours/background.webp'
 				/>
-				<div className='tours_title'>Tour List</div>
+				<div className='tours_title'>{t('others.tour_list')}</div>
 			</div>
 			<Row justify={'start'} align={'middle'} className='tours_row'>
-				{tours.en.map(({ title, image }, index) => (
+				{tours.map(({ key, image }, index) => (
 					<Col
 						key={index}
 						className='tours_card card'
@@ -40,7 +46,9 @@ export default function Tours() {
 							style={{ backgroundImage: `url(${image})` }}
 							className='tours_card_image'
 						></div>
-						<div className='tours_card_title'>{title}</div>
+						<div className='tours_card_title'>
+							{t(`tours.${key}.title`)}
+						</div>
 					</Col>
 				))}
 			</Row>

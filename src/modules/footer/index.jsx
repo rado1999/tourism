@@ -17,7 +17,7 @@ export default function Footer() {
 		<footer>
 			<div className='footer_container'>
 				<div className='footer_logo'>
-					<img src='../../../public/vite.svg' />
+					<img src='/logo.svg' />
 				</div>
 				<Row>
 					<Col className='col1' flex={'1 0 25%'}>
@@ -31,7 +31,7 @@ export default function Footer() {
 						<Row>
 							{menu.map(({ key, url }, index) => (
 								<Col
-									style={{ marginBottom: 30 }}
+									style={{ marginBottom: 10 }}
 									key={index}
 									xs={24}
 									sm={12}
@@ -52,7 +52,7 @@ export default function Footer() {
 						<Row>
 							{topDestinations.map(({ key, url }, index) => (
 								<Col
-									style={{ marginBottom: 30 }}
+									style={{ marginBottom: 10 }}
 									key={index}
 									xs={12}
 									sm={12}

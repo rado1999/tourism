@@ -33,7 +33,7 @@ export default function Header() {
 					className='logo_container'
 					onClick={() => (location.href = '/')}
 				>
-					<img className='logo' src='/vite.svg' />
+					<img className='logo' src='/logo.svg' />
 				</div>
 				<ul className='header_ul'>
 					{menu.map(({ key, url }, index) => (

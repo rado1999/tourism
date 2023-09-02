@@ -34,7 +34,12 @@ export default function Destination() {
 						key={index}
 						className='destination_image_container card'
 					>
-						<Image width={300} src={img} />
+						<Image
+							style={{ objectFit: 'cover' }}
+							width={300}
+							height={300}
+							src={img}
+						/>
 					</div>
 				))}
 			</div>

@@ -5,10 +5,10 @@ export const langs = [
 	},
 	{
 		value: 'ch',
-		label: '中國人',
+		label: 'ZH',
 	},
 	{
 		value: 'jp',
-		label: 'JP',
+		label: 'JA',
 	},
 ]

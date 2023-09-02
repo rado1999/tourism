@@ -39,8 +39,11 @@ header {
 }
 
 .logo_container {
-	width: 50px;
-	height: 50px;
+	width: calc(100px + (120 - 100) * ((100vw - 320px) / (1440 - 320)));
+	height: calc(50px + (70 - 50) * ((100vw - 320px) / (1440 - 320)));
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 .logo_container:hover {
@@ -95,12 +98,5 @@ header {
 	.iphone_btn_container {
 		display: flex;
 		justify-content: center;
-	}
-}
-
-@media (max-width: 480px) {
-	.logo_container {
-		width: 30px;
-		height: 30px;
 	}
 }

@@ -9,8 +9,7 @@ export default function TopTours({ t }) {
 			<Row justify={'start'} align={'middle'}>
 				{topTours.map(({ key, image, url }, index) => (
 					<Col
-						className='card'
-						style={{ padding: '10px 7.5px', textAlign: 'center' }}
+						className='card top_tours_card'
 						xs={12}
 						sm={8}
 						md={6}
@@ -18,7 +17,11 @@ export default function TopTours({ t }) {
 						key={index}
 						onClick={() => (location.href = url)}
 					>
-						<Image preview={false} src={image}></Image>
+						<Image
+							style={{ borderRadius: 8 }}
+							preview={false}
+							src={image}
+						></Image>
 						<div className='top_tours_image_title'>
 							{t(`tours.${key}.title`)}
 						</div>

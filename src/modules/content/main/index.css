@@ -78,6 +78,11 @@
 	overflow: hidden; /* fixed the issue with vanilla tilt on Safari */
 }
 
+.top_tours_card {
+	padding: 10px 7.5px;
+	text-align: center;
+}
+
 .top_tours_title {
 	text-align: center;
 	margin: calc(45px + (80 - 45) * ((100vw - 320px) / (1440 - 320))) 0px;

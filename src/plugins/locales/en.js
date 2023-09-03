@@ -400,10 +400,6 @@ export const en = {
 				text: `After breakfast transfer to airport for international departure.`,
 			},
 		},
-		kunya: {
-			title: `Kunyaurgench is the city of cities`,
-			1: { title: '', text: '', images: [] },
-		},
 		iran: {
 			title: 'Iran-Turkmenistan-Uzbekistan',
 			1: {

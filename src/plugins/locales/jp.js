@@ -107,271 +107,271 @@ export const jp = {
 	},
 	hotels: {
 		charlak: {
-			title: 'Charlak',
-			text: `Charlak (or Çarlak) Hotel is modern 4-stars hotel which is located in a prime location on the seafront Turkmenbashy city, Turkmenistan. The hotel has 80 rooms with satellite television, air conditioning, and 24-hour room service. Among its facilities are a restaurant, bar and disco, indoor pool, sauna, fitness center, and tennis court. Very close to Railway station, Turkmenbashy Bank and Sea Terminal.`,
+			title: 'チャーラック ホテル、トルクメンバシ市',
+			text: `Charlak Hotel は、トルクメニスタンの海辺のトルクメンバシ市の一等地に位置するモダンな 4 つ星ホテルです。 ホテルには、衛星テレビ、エアコン、24 時間対応のルームサービスを備えた客室が 80 室あります。 レストラン、バー、ディスコ、屋内プール、サウナ、フィットネスセンター、テニスコートなどの施設があります。 鉄道駅、トルクメンバシ銀行、シーターミナルに非常に近い。`,
 		},
 		dashoguz: {
-			title: 'Dashoguz',
-			text: `Dashoguz Hotel is a new modern hotel located in the city of Dashoguz, Turkmenistan. The hotel has comfortable rooms with all usual amenities, including bathroom, telephone, hair dryer and air conditioning, decorated in soothing cream and coffee tones.
-			The restaurant and bar in the Hotel serves national and Eastern European cuisine. When you're not exploring the nearby monuments, local regional museum and historical sites, take advantage of the indoor pool and fitness center. The on-site gift shop is ideal for buying last-minute gifts for loved ones at home.`,
+			title: 'ダショグズ ホテル',
+			text: `Dashoguz Hotel は、トルクメニスタンのダショグズ市にある新しいモダンなホテルです。 ホテルの快適な客室には、バスルーム、電話、ヘアドライヤー、エアコンなどの通常の設備がすべて備わっており、落ち着いたクリーム色とコーヒー色で装飾さ
+			ホテル内のレストランとバーでは、郷土料理と東ヨーロッパ料理を提供しています。 近くの記念碑、地元の郷土博物館、史跡を探索していないときは、屋内プールとフィットネス センターをご利用ください。 敷地内のギフトショップは、自宅にいる愛する人への最後の贈り物を購入するのに最適です。`,
 		},
 		hazyna: {
-			title: 'Hazyna',
-			text: `Hazyna Hotel is a 5-stars modern resort located in Awaza, a tourist zone in the city of Turkmenbashi, Turkmenistan.`,
+			title: 'ハジナホテル 阿波座',
+			text: `Hazyna Hotelは、トルクメニスタンのトルクメンバシ市の観光地区アワザに位置する5つ星のモダンなリゾートです`,
 		},
 		mary: {
-			title: 'Mary',
-			text: `The Hotel Mary is a 5-stars hotel in Mary, Turkmenistan. It is located in about 15 min drive from the airport and approximately 1 mile from the city museum. The hotel opened in 2015, proudly stands as the grandest accommodation in the city of Mary. With a total of 177 rooms, each exquisitely adorned in a classic style, this establishment offers everything necessary for a delightful and leisurely stay. Notably, the hotel also provides two thoughtfully equipped rooms designed to cater to the needs of people with disabilities.
-			The six-story architectural marvel houses an array of amenities to ensure guests' contentment. An elegant restaurant awaits to indulge culinary desires, while two well-appointed conference rooms cater to business needs. For those seeking to stay active, a fully-equipped gym, an inviting swimming pool, and a rejuvenating sauna await. Tennis enthusiasts will find delight in the presence of tennis courts in the vicinity.
-			The hotel goes above and beyond to enhance the overall experience with an onsite gift shop and carpet store, allowing guests to shop for unique souvenirs and local treasures. Throughout your stay, the attentive and qualified hotel staff remain at your service, ready to assist 24/7. Their dedication ensures a comfortable and enjoyable sojourn, leaving an indelible impression on your heart. Once you experience the splendor of this luxurious hotel, you'll find yourself enchanted and yearning to return time and again.`,
+			title: 'ホテル マリー',
+			text: `Hotel Mary は、トルクメニスタンのメアリーにある 5 つ星ホテルです。 空港からは車で約 15 分、市立博物館からは約 1.6 km の場所にあります。 2015 年にオープンしたこのホテルは、メアリー市で最も豪華な宿泊施設として誇りを持っています。 合計 177 室の客室があり、各客室はクラシックなスタイルで美しく装飾されており、楽しくゆっくりとした滞在に必要なものがすべて揃っています。 注目すべきことに、このホテルには、障害のある方のニーズに応えるように設計された、設備の整った 2 つの客室も用意されています。
+			6 階建ての驚異的な建築物には、お客様にご満足いただけるさまざまな設備が整っています。 エレガントなレストランではお食事をお楽しみいただけるほか、設備の整った 2 つの会議室がビジネス ニーズにお応えします。 アクティブに過ごしたい方には、設備の整ったジム、快適なスイミングプール、若返り効果のあるサウナをご利用いただけます。 テニス愛好家は、近くにテニスコートがあることに満足するでしょう。
+			ホテルにはギフト ショップとカーペット ショップがあり、宿泊客がユニークなお土産や地元の宝物を購入できるよう、全体的な体験をさらに充実させることに努めています。 ご滞在中は、親切で資格のあるホテルのスタッフが年中無休でサポートいたします。 彼らの献身的な姿勢は、快適で楽しい滞在を保証し、心に消えることのない印象を残します。 この豪華なホテルの素晴らしさを一度体験すると、何度も訪れたくなるほど魅了されるでしょう。`,
 		},
 		yupek: {
-			title: 'Yupek Yoly',
-			text: `Yupek Yoly (Silk Way) Hotel is a modern 4-stars hotel located in Turkmenabat city, the center of Lebap region of Turkmenistan. It provides free parking, laundry facilities suitable for families with children. Free WiFi is available throughout the hotel.`,
+			title: 'ユペック ヨリー ホテル (トルクメナバート市)',
+			text: `Yupek Yoly (Silk Way) Hotelは、トルクメニスタンのレバプ地域の中心部、トルクメナバート市に位置するモダンな4つ星ホテルです。 無料駐車場、子供連れの家族に適したランドリー施設を提供しています。 ホテル全域で無料Wi-Fiを利用できます。`,
 		},
 		yyldyz: {
-			title: 'Yyldyz',
-			text: `Yyldyz Hotel is a luxury 5-stars hotel located in Ashgabat, Turkmenistan. It was constructed in 2013 by Bouygues. The hotel has has 155 rooms, 24 floors and a height of 107 m.
-			The hotel boasts a total of 155 well-appointed rooms, comprising a luxurious selection of presidential suites, Suite rooms, junior suite rooms, deluxe rooms, and standard accommodations.
-			Taking center stage on the first floor is a spacious banquet hall, impressively capable of accommodating up to 1000 guests.
-			For those seeking the epitome of luxury, the 14th floor houses exclusive VIP apartments, ensuring a truly indulgent experience.
-			A magnificent feature awaits on the 18th floor, where a panoramic restaurant offers breathtaking views and provides seating for up to 600 diners, creating an unforgettable dining ambiance.
-			During the development of the towering hotel edifice, an impressive amount of materials were utilized, including approximately seven thousand tons of steel and over 14,000 square meters of glass. Sporting a distinctive teardrop shape, the building encompasses a vast total area of 50,620 square meters, while the adjacent land covering approximately 85,000 square meters serves as the surrounding grounds.
-			The entire structure has been meticulously engineered to possess a remarkable level of seismic resistance, ensuring its stability and safety even in the face of potential seismic events.`,
+			title: 'イルディス ホテル',
+			text: `Yyldyz Hotel は、トルクメニスタンのアシガバートにある高級 5 つ星ホテルです。 2013 年にブイグによって建設されました。 ホテルには 155 の客室があり、24 階建て、高さは 107 メートルです。
+			当ホテルは、プレジデンシャル スイート、スイート ルーム、ジュニア スイート ルーム、デラックス ルーム、スタンダード ルームの豪華なセレクションからなる、設備の整った合計 155 室の客室を誇ります。
+			 1階の中心となるのは、最大1,000名様まで収容可能な広々とした宴会場です。
+			贅沢の極みを求める方のために、14 階には高級 VIP アパートメントがあり、真に贅沢な体験をお約束します。
+			18 階には素晴らしい施設があり、息を呑むような景色を望むパノラマ レストランがあり、最大 600 名様まで収容可能で、忘れられない食事の雰囲気を作り出しています。
+			そびえ立つホテルの建物の開発中に、約 7,000 トンの鋼鉄や 14,000 平方メートルを超えるガラスなど、膨大な量の材料が使用されました。 特徴的なティアドロップ型の建物は、延べ面積50,620平方メートルの広大な敷地に隣接し、約85,000平方メートルの敷地を擁しています。
+			構造全体は、驚異的なレベルの耐震性を備えるように細心の注意を払って設計されており、潜在的な地震イベントに直面してもその安定性と安全性が確保されています。`,
 		},
 		oguzkent: {
-			title: 'Oguzkent',
-			text: `The Oguzkent Hotel is a 5-star hotel in Ashgabat, Turkmenistan. It was opened in 2011 and formerly known as Oguzkent Sofitel. The hotel has modern design and great view to the center of Ashgabat.
-			The combined area of all the hotel buildings sums up to an impressive 95,200 m2. This grandeur edifice, adorned in white marble, features a magnificent facade embellished with mirrored glass, beautifully positioned 12 km away from the city's historical sites, walking distance to Turkmen Carpet Museum, Turkmen Disneyland, Turkmenistan Fine Art Museum and a mere 6 km from Ashgabat International Airport.
-			Within the Oguzkent Hotel, 283 lavish rooms are thoughtfully decorated in a modern style, catering to guests' comfort with an array of essential amenities. Embracing relaxation and leisure, the hotel offers a delightful swimming pool, a tennis court, and access to the services of a beauty salon. For a remarkable dining experience, a renowned restaurant awaits on the hotel's upper floor, offering a captivating panoramic view.
-			Additionally, the hotel provides business-oriented services, including a well-equipped conference hall complete with Wi-Fi internet access, catering to the needs of the discerning businessmen.`,
+			title: 'オグズケント ホテル',
+			text: `The Oguzkent Hotelは、トルクメニスタンのアシガバートにある5つ星ホテルです。 2011 年にオープンし、以前はオグズケント ソフィテルとして知られていました。 ホテルはモダンなデザインで、アシガバートの中心部の素晴らしい景色を眺めることができます。
+			ホテルのすべての建物を合計すると、その面積はなんと 95,200 平方メートルになります。 白い大理石で装飾されたこの壮大な建物は、鏡面ガラスで装飾された壮大なファサードを特徴とし、市内の史跡から 12 km の美しい場所にあり、トルクメン絨毯博物館、トルクメン ディズニーランド、トルクメニスタン美術館までは徒歩圏内、アシガバートからはわずか 6 km です。 国際空港。
+			オグズケント ホテル内には、283 室の豪華な客室があり、モダンなスタイルで丁寧に装飾され、必須のアメニティが揃っており、ゲストの快適さに応えています。 リラクゼーションとレジャーを満喫できるこのホテルでは、快適なスイミングプール、テニスコート、ビューティー サロンのサービスをご利用いただけます。 ホテルの上層階には、魅惑的なパノラマの景色を望む有名なレストランがあり、素晴らしいお食事体験をお楽しみいただけます。
+			さらに、ホテルでは、目の肥えたビジネスマンのニーズに応える、Wi-Fi インターネット アクセスを完備した設備の整った会議ホールなどのビジネス向けサービスも提供しています。`,
 		},
 		divan: {
-			title: 'Diwan',
-			text: 'Divan Hotel in Ashgabat is a recently refurbished, upscale hotel, established in 1996, underwent renovations during the pandemic and stands out as one of the scarce accommodations situated in the heart of the city, in close proximity to the Carpet Museum, Turkmen Disneyland and various government edifices.',
+			title: 'ディバン ホテル アシガバート',
+			text: 'アシガバートのディバン ホテルは、最近改装された高級ホテルで、1996 年に設立され、パンデミック中に改装工事が行われ、市の中心部に位置し、カーペット博物館、トルクメン ディズニーランド、その他のさまざまな施設のすぐ近くにある希少な宿泊施設の 1 つとして際立っています。 政府の建物。',
 		},
 	},
 	tours: {
 		desert_8_days: {
-			title: 'Turkmenistan desert tour 8 days',
+			title: 'トルクメニスタン砂漠ツアー 8日間',
 			1: {
-				title: 'Farap-Turkmenabat-Dayahatyn-DarganAta village (215 km)  3 hours',
-				text: 'Meeting with Turkmen escort, proceed by 4 WD vehicle  to Turkemnabad.  Shortly outside Turkmenabat there are the ruins of the impressive 12th century caravanserais of Daya Khatyn. Stay in tent',
+				title: ' 1日目 ファラップ～トルクメナバット～ダヤハティン～ダルガンアタ村 (215km) 3時間',
+				text: 'トルクメン人の護衛と合流し、4WD車でトルケムナバードへ向かいます。 トルクメナバートのすぐ外には、ダヤ・ハティンの印象的な 12 世紀の隊商宿の遺跡があります。 テント泊',
 			},
 			2: {
-				title: 'Turkmenabat-Dashoguz (335 km) 8-9 hours',
-				text: 'A long day as we travel along the left bank of the Oxus River downstream to Dashoguz (formerly Tashauz) in the region of ancient Khwarazm or Chorasmia. Shortly outside Turkmenabat there are the ruins of the impressive 12th century caravanserais of Daya Khatyn. There are good views of the Oxus and it is hoped that lunch will be a picnic by its banks. Because the Uzbek border now cuts the main road we must transfer to off-road transportation at Gazachak for the remaining 150 km to Dashoguz, where we stay at Dashoguz Hotel.',
+				title: '2日目 トルクメナバート~ダショグズ (335km) 8~9時間',
+				text: 'A オクサス川の左岸に沿って下流に進み、古代ホワラズムまたはチョラスミアの地域にあるダショグズ（旧タシャウズ）まで長い一日を過ごします。 トルクメナバートのすぐ外には、ダヤ・ハティンの印象的な 12 世紀の隊商宿の遺跡があります。 オクサスの素晴らしい眺めがあり、ランチはその岸辺でピクニックになることが期待されています。 ウズベク国境が幹線道路を遮断しているため、ダショグズホテルまでの残り 150 km をガザチャクでオフロード交通に乗り換えなければなりません。ダショグズホテルに宿泊します。',
 			},
 			3: {
-				title: 'Dashoguz– Kunya Urgench (90 KM) – Darvaza (250 KM) (8 hours)',
-				text: "Today we continue our trip by visiting Izmukshir fortress (12 th century) Next site of visiting Kunya-Urgench and will include the Mausoleum of Soltan Tekesh XII-XIII cc., the Monument of Torebeg Hanum XII c, and a stop at the highest minaret in Turkmenistan- the Minaret of Kutlug Temur XI-XII cc. Dirve to Darvaza gaz crater.  We'll settle a camp near the gas crater",
+				title: '3日目 ダショグズ – クフニャ・ウルゲンチ (90 KM) – ダルヴァザ (250 KM) (8時間)',
+				text: 'T今日はイズムクシル要塞 (12 世紀) を訪問して旅を続けます。 次のクフニャ・ ウルゲンチ訪問地には、ソルタン・テケシュ 12 世~13 世の霊廟、トレベグ・ハヌム 12 世の記念碑、最も高いミナレットにも立ち寄ります。 トルクメニスタン - クトルグ・ティムール XI-XII cc のミナレット。 ダルヴァザ・ガス・クレーターへ向かいます。 私たちはガスクレーターの近くにキャンプを設置します',
 			},
 			4: {
-				title: 'DARWAZA – DAMLA 120 km (4-5 hours)',
-				text: 'After breakfast, drive to Damla village.  The Damla Oasis is one of the furthest Yomud and Teke tribe oases in the heart of the Karakum desert. Far off the main road, flat roof villages and yurts found in almost every household characterize this breathtaking place. You can witness simple and beautiful nomadic traditions, throwing the rare visitor back in time. Lunch. Dinner. Overnight in Damla.',
+				title: '4日目 ダルワザ – ダムラ 120 km (4~5時間)',
+				text: '朝食後、ダムラ村へ向かいます。 ダムラ オアシスは、 カラクム砂漠の中心部にあるヨムド族とテケ族のオアシスの中で最も遠い場所の 1 つです。 幹線道路から遠く離れた、平らな屋根の村と、ほぼすべての家庭にあるパオが、この息を呑むような場所の特徴です。 シンプルで美しい遊牧民の伝統を目撃し、 珍しい訪問者を過去にタイムスリップさせます。 ランチ。 夕食。 ダムラで一泊。',
 			},
 			5: {
-				title: 'DAMLA-ASHGABAT  (230 KM) (7-8 hours)',
-				text: "After breakfast we'll set off for Ashgabat visiting on route Yerbent village. reaching by lunch time.  Checking at a hotel.  Rest and overnight at the hotel.",
+				title: '5日目 ダムラ-アシガバート (230 KM) (7-8時間)',
+				text: '朝食後、ルートでイェルベント村を訪問してアシガバートに向けて出発します。 ランチタイムまでに到着。 ホテルにチェックイン中。 ホテルで休憩して一晩過ごします。',
 			},
 			6: {
-				title: 'ASHGABAT CSS',
-				text: 'Today we will visit Nissa Fortress, The memorial of the first President of Turkmenistan Saparmyrat Turkmenbashy and Kov Ata Underground lake. Overnight in hotel',
+				title: '6日目 アシガバート',
+				text: '今日はニッサ要塞、トルクメニスタン初代大統領サパルムラト・トルクメンバシの記念碑、コウアタ地底湖を訪れます。 ホテルで一晩',
 			},
 			7: {
-				title: 'ASHGABAT CSS',
-				text: 'Today we will have city tour of Ashgabat. Visit Independence Monument, Arch of Neutrality and the Monument of Constitution. Afternoon visit the State Museum. Overnight in hotel',
+				title: '6日目 アシガバート',
+				text: '今日はアシガバート市内観光です。 独立記念碑、中立のアーチ、憲法記念碑を訪れてください。 午後は州立博物館へ。 ホテルで一晩',
 			},
 			8: {
-				title: 'ASHGABAT',
-				text: 'Early morning transfer to the airport. Departure home',
+				title: '8日目 アシガバート',
+				text: '早朝空港へ送迎。 出発',
 			},
 		},
 		ashgabat: {
-			title: 'Ashgabat and Around',
+			title: 'アシガバートとその周辺',
 			1: {
 				title: '',
-				text: 'In the morning we explore the “Pearl of Central Asia”, capital of Turkmenistan, Ashgabat. Within the city we visit the Park of independence with its independence monument, and Neutrality Square, famous for its Arch of Neutrality topped by a gold-plated statue of the first President of Turkmenistan. Then we will visit Earthquake Memorial dedicated to the victims of the 1948 earthquake, nearby located the memorial of war victims. Later on we proceed to Kipchak village to visit a complex of the biggest mosque in Turkmenistan and the family mausoleum of the first President. Then we return to Ashgabat to visit the State Museum of History and Ethnography (displaying more than 327.000 exhibits) to see exclusive ancient artifacts from numerous historical & archeological sites of the country. Return to the hotel.',
+				text: '午前中は「中央アジアの真珠」トルクメニスタンの首都アシガバートを探索します。 市内では、独立記念碑のある独立公園と、トルクメニスタン初代大統領の金メッキの像が頂上にある中立のアーチで有名な中立広場を訪れます。 その後、1948 年の地震の犠牲者を追悼する地震記念碑と、近くにある戦争犠牲者の記念碑を訪れます。 その後、キプチャク村に向かい、トルクメニスタン最大のモスクと初代大統領の家族の霊廟を訪れます。 その後、アシガバートに戻り、国立歴史民族学博物館 (327,000 点以上の展示品を展示) を訪れ、国内の数多くの歴史的および考古学的遺跡からの特別な古代遺物を鑑賞します。 ホテルに戻ります。',
 			},
 			2: {
 				title: '',
-				text: 'In the morning we visit the fortress of Old Nisa (World Heritage UNESCO). Then continue west for a stud farm near Geok Depe, passing by a former Tekke stronghold, which was the site of the biggest battle for the Russian domination in Central Asia in the late 19 c. After lunch on the farm we have a chance to take a close look at the “winged” Akhal-Tekkes, and even take a ride on them. Having finished our photo session with horses, we proceed to the underground cave of Kov-Ata, accommodating a unique hot-water (+ 35-37C all year round) sulphur lake. Afternoon return to the hotel.',
+				text: '午前中はオールドニサ要塞（ユネスコ世界遺産）を訪問します。 その後西に進み、Geok Depe 近くの種馬牧場に向かい、19 世紀後半に中央アジアにおけるロシアの支配をめぐる最大の戦いの場所であったかつての Tekke 拠点を通り過ぎます。 農場で昼食をとった後は、 「翼のある」アハル・テケを間近で観察したり、乗ることもできます。 馬との写真撮影を終えた後、ユニークな熱水（年間を通じて+35〜37℃) の硫黄湖があるコブ・アタの地下洞窟へ向かいます。 午後、ホテルに戻ります。',
 			},
 		},
 		soft_desert: {
-			title: 'Soft desert adventure – Ayrakly Oasis Tour',
+			title: '柔らかな砂漠の冒険 – アイラクリー オアシス ツアー',
 			1: {
-				title: 'Arrival in Ashgabat',
-				text: "Transfer to the hotel. Registration formalities. Breakfasting at the hotel we take it easy start off our first day with a late morning stroll through the city centre and a visit to Nisa fortress which carries a great historical value of Parthian period (Residence of Parthian kings in past).. National Museum is the next place to visit missing which nothing can excuse with it's exhibits and findings which really worth seeing and admiring.  Observe row of newly built monuments and fountains at the outskirts of this marble city. The most fascinating monument is probably the Arch of Neutrality featuring a 12 m gold statue of Turkmenistan's First President, Saparmurat Turkmenbashi. Return to the hotel. Overnight at the hotel.",
+				title: '1日目。アシガバートに到着。',
+				text: 'ホテルへ送迎。 登録手続き。 ホテルで朝食をとり、 市内中心部の遅い朝の散歩と、パルティア時代の貴重な歴史的価値を伝えるニサ要塞（過去のパルティア王の住居）の訪問で初日をゆっくり始めます。国立博物館は 次に訪れるべき場所がありませんが、本当に見て賞賛する価値のある展示品や発見物があるため、何も言い訳できません。 この大理石の街の郊外に新しく建てられた記念碑や噴水が並んでいるのを観察してください。 最も魅力的な記念碑はおそらく、トルクメニスタン初代大統領サパルムラット トルクメンバシの高さ 12 メートルの金の像を備えた中立のアーチでしょう。 ホテルに戻ります。 ホテルで一晩。',
 			},
 			2: {
-				title: 'Ashgabat – Ayrakly Oasis 220 km (7-8 hours to drive)',
-				text: `After we all provided for desert trip, we set off early, in order to get the maximum pleasure from the daylight hours. Keep in mind that the trip to the Ayrakly Oasis is about 200 km and it can take from seven to eight hours to get to our destination. Our road leads via Yashlyk-town 45 km away from Ashgabat, famous for local brewery producing beer “Berk”. Then starts light test on desert standing with its pure endless mountains of sands and inimitable enjoy of beautiful scenery and picturesque views of wild nature. After a long drive we reach desert settlement to rest for recuperation. Overnight in nomadic yurt.`,
+				title: '2日目: アシガバート~アイラクリー・オアシス 220km (車で7~8時間)',
+				text: `私たちは皆、砂漠旅行の準備を整えた後、日中の時間を最大限に楽しむために早めに出発しました。 アイラクリー オアシスまでは約 200 km あり、目的地までは 7 ~ 8 時間かかる場合があることに注意してください。 私たちの道は、ビール「ベルク」を生産する地元の醸造所で有名なアシガバートから45キロ離れたヤシリクの町を経由します。 次に、どこまでも続く砂の山と、比類のない美しい風景と野生の自然の絵のように美しい景色を楽しむ砂漠に立って光テストを開始します。 長いドライブの後、私たちは回復のために休憩するために砂漠の集落に到着しました。 遊牧民のパオで一晩過ごします。`,
 			},
 			3: {
-				title: `Ayrakly Oasis`,
-				text: `Next morning we go on touring towards Central Karakum to explore remote places. Our days are spent climbing sand dunes headed toward primitive, unspoiled territory. Being en route the most important thing not to miss the desert sunset-the most beautiful phenomenon of the nature that can be seen. The most mesmerizing moment will come in the night when you lie in your sleeping bag. Look up to the desert sky - the stars are so clear and seem to be so near as you've never seen them before. Overnight in tents.`,
+				title: `3日目 アイラクリー・オアシス`,
+				text: `翌朝、私たちは人里離れた場所を探索するために中央カラクムに向けてツーリングに出かけます。 私たちは、原始的な手つかずの領域を目指して砂丘を登って日々を過ごしています。 途中で最も重要なことは、自然界で最も美しい現象である砂漠の夕日を見逃さないことです。 最も魅惑的な瞬間は、夜、寝袋に横たわっているときに訪れます。 砂漠の空を見上げてください。星はとても澄んでいて、これまで見たことがないほど近くにあるように見えます。 テント泊。`,
 			},
 			4: {
-				title: `Exploration of the region`,
-				text: `Full day of desert exploration. Quick stops on the way to greet local nomads and you will feel on yourself the hospitality of desert people being treated with Turkmen bread with chal (naturally fermented camel's milk). Strolling around the village one can witness every day worries of nomad people at touching moment of dromedary camel milking. Shortly before sundown we set our camp at the breathtaking area near pools which are numerous in this area formed as a result of overflow of the Tejen River. Plenty of water attracts inhabitants of wildlife (boars, swans, gazelles, ducks and other kinds of migrant birds). Overnight in tents.`,
+				title: `4日目。地域の探索`,
+				text: `丸一日砂漠探検。 途中、地元の遊牧民に挨拶するために立ち寄ると、 チャル（ラクダの自然発酵乳）入りトルクメンパンでおもてなしされる砂漠の人々のもてなしを肌で感じることができます。 村を散策すると、 ヒトコブラクダの乳搾りの感動的な瞬間や、 遊牧民の日々の悩みを目の当たりにすることができます。 日没の少し前に、 私たちはテジェン川の氾濫によって形成されたこの地域に数多くあるプールの近くの息を呑むようなエリアにキャンプを設置しました。 豊富な水が野生動物（イノシシ、白鳥、 ガゼル、アヒル、その他の種類の渡り鳥）の生息地を引き寄せます。 テント泊。`,
 			},
 			5: {
-				title: `Drive back to Ashgabat`,
-				text: `After an early breakfast we make some farewell photos of sunrise and drive back to Ashgabat.`,
+				title: `5日目 アシガバートへ車で戻ります`,
+				text: `早めの朝食後、日の出のお別れの写真を撮り、アシガバートに戻ります。`,
 			},
 		},
 		dino: {
-			title: `Along the dinosaurs' tracks`,
+			title: `恐竜の足跡に沿って`,
 			1: {
-				title: 'ASHGABAT',
-				text: `Late Morning City tour of Ashgabat and visit the State Museum of Turkmenistan Overnight in Diwan Hotel `,
+				title: 'アシガバート',
+				text: `深夜のアシガバート市内ツアーとトルクメニスタン国立博物館訪問 ディワン ホテル 4* で一泊`,
 			},
 			2: {
-				title: `ASHGABAT`,
-				text: `Continue the site exploration of Ashgabat, visit Nissa Fortress and Carpet Museum (consists unique collection of famous Turkmen Carpets, including the Giant Carpet, biggest in the world) Overnight in Diwan Hotel`,
+				title: `アシガバート`,
+				text: `アシガバートの遺跡探索を続け、ニッサ要塞とカーペット博物館を訪問します（世界最大のジャイアントカーペットを含む有名なトルクメン絨毯のユニークなコレクションで構成されています） ディワンホテル4*に宿泊`,
 			},
 			3: {
-				title: `ASHGABAT – KOITEN DAG`,
-				text: `Take a morning flight to Turkmenabat city. Drive to Koiten village (7-8 hours or 450 km) via Kerki across the Amuderya (Oxus) bridge. Stop near the beautiful “Texas Mountains” to take a picture. En route visit the Kaynar Baba sulphur springs (31 C), 9 km from the main road. Late arrival to Koyten village. Dinner and rest in the g/h.`,
+				title: `アシガバート – コイテン ダグ`,
+				text: `朝の飛行機でトルクメナバート市へ。 ケルキ経由でアムデリヤ (オクサス) 橋を渡り、コイテン村まで車で向かいます (7 ~ 8 時間、または 450 km)。 美しい「テキサス山脈」の近くで立ち止まって写真を撮りましょう。 途中、幹線道路から 9 km のところにあるカイナー ババ硫黄泉 (摂氏 31 度) を訪れます。 コイテン村への到着が遅れた。 g/hで夕食と休憩。`,
 			},
 			4: {
-				title: `KOITEN DAG`,
-				text: `Early breakfast, drive by 4x4 cars over the Koyten dag Mountains to the Dinosaurs Plateau. Walk to Plateau. Continue visit to Kyrk Gyz (40 girls) valley and cave. Visit Umbar Dere canyon with the wonderful waterfall. Return to the g/h for dinner and overnight.`,
+				title: `コイテンダグ`,
+				text: `早めの朝食後、四輪駆動車でコイテン ダグ山脈を越えて恐竜高原へ向かいます。 高原まで歩きます。 キルク・ギズ (女子40名) の渓谷と洞窟への訪問を続けます。 素晴らしい滝があるウンバー デレ渓谷を訪れてください。 夕食と一晩は g/h に戻します。`,
 			},
 			5: {
-				title: `KOITEN DAG - TURKMENABAT`,
-				text: `Early Breakfast Drive to Turkmenabat City (450 km) Dinner at local Restaurant Overnight in the hotel.`,
+				title: `コイテン ダグ - トルクメナバート`,
+				text: `早朝の朝食 トルクメナバート市までドライブ (450 km) 地元のレストランでの夕食 ホテルで一晩。`,
 			},
 			6: {
-				title: `TURKMENABAT - MARY`,
-				text: `Early Breakfast. Drive to Mary City (300 km or 4 hours). En route visit the Ancient Merv. Due to its size and historical importance, Merv is one of the most significant sites in Turkmenistan, indeed in all of Central Asia. Merv consists of a series of towns each succeeded by another throughout the course of history. See Erk Gala (6 c BC), Gyaur Gala (3 c BC), Sultan Gala (8/11 c BC), Abdullah Khan Gala and Bairamali Khan Gala (15 c AD), Mausoleum of Sultan Sanjar – the last ruler of Seljuk Empire (12 c AD), Great and Little Gyz Gala's (6/7 c AD), and the Mausoleum of Muhammed ibn Zaid (12 c AD) O/n in Mary Hotel`,
+				title: `トルクメナバート - メアリー`,
+				text: `早めの朝食。 メアリーシティまで車で行きます (300 km または 4 時間)。 途中、古代メルヴを訪れます。 メルブはその規模と歴史的重要性により、トルクメニスタン、さらには中央アジア全体で最も重要な遺跡の 1 つです。 メルブは、歴史の過程でそれぞれが別の町に引き継がれた一連の町で構成されています。 エルク ガラ (紀元前 6 世紀)、ギャウル ガラ (紀元前 3 世紀)、スルタン ガラ (紀元前 8/11 世紀)、アブドラ カーン ガラおよびバイラマリ カーン ガラ (紀元 15 世紀)、セルジューク朝最後の統治者スルタン サンジャルの霊廟を参照 帝国 (西暦 12 世紀)、大ギズ ガラと小ギズ ガラ (西暦 6/7 世紀)、ムハンマド イブン ザイード霊廟 (西暦 12 世紀) メアリー ホテルで宿泊`,
 			},
 			7: {
-				title: `MARY - MARGUSH`,
-				text: `Early breakfast Drive by 4x4 cars to Gonur Depe bronze age archaeological site. (230 km or 3 hours drive) Margush is    really interesting and takes a day to explore all the excavations there. Guide will provide complete information and meet Prof. Sarianidi group (optional) who says that Margush is the 5th center of Civilization beside China, India, Egypt and Mesopotamia. Picnic lunch. O/N in hotel.`,
+				title: `メアリー - マーガシュ`,
+				text: `早めの朝食 四輪駆動車でゴヌール デペ青銅器時代の遺跡へ向かいます。 (230 km、または車で 3 時間) マーガシュは本当に興味深い場所で、すべての発掘品を探索するには 1 日かかります。 ガイドは完全な情報を提供し、マーグシュが中国、インド、エジプト、メソポタミアに次ぐ5番目の文明の中心地であるというサリアニディ教授グループ (オプション) と面会します。 ピクニックランチ。 ホテルでO/N。`,
 			},
 			8: {
-				title: `MARY - ASHGABAT`,
-				text: `Early breakfast. Drive to Ashgabat. (350 km) En route visit the Mausoleum of Abu Said Abul Hayr Mekhnei (saint Sufi leader of 11th century) (80 km) and Abiverd fortress which was the regional center in Middle Ages. O/N in Diwan Hotel`,
+				title: `メアリー - アシガバート`,
+				text: `早めの朝食。 アシガバートへ車で向かいます。 (350 km) 途中、アブー サイード アブル ハイル メフネイ廟 (11 世紀の聖スーフィー指導者) (80 km) と中世の地域の中心地であったアビバード要塞を訪れます。 ディワン ホテルでの宿泊/N`,
 			},
 			9: {
-				title: `ASHGABAT - BAKHARDEN`,
-				text: `Early breakfast. Drive to Bakharden Underground Lake (110 km or 2 hours drive) (water keeps constant 37 C temperature) En route visit Gokdepe Mosque and Kipchak Mosque (biggest in Turkmenistan). Picnic Lunch. O/N in Diwan Hotel`,
+				title: `アシガバート - バハルデン`,
+				text: `早めの朝食。 バハルデン地底湖までドライブします (110 km、または車で 2 時間) (水温は 37 度に一定に保たれます) 途中、ギョクデペ モスクとキプチャク モスク (トルクメニスタン最大) を訪れます。 ピクニックランチ。 ディワン ホテルでの宿泊/N`,
 			},
 			10: {
-				title: `DEPARTURE`,
-				text: `Breakfast. Free time at leisure. Afternoon transfer to Airport See off.`,
+				title: `出発`,
+				text: `朝食。 自由気ままな自由時間。 午後、空港へ送迎。`,
 			},
 		},
 		karakum: {
-			title: `Central Karakum Desert & Merv / Margush  Off-Road Adventure`,
+			title: `中央カラクム砂漠とメルブ / マーグシュのオフロード アドベンチャー`,
 			1: {
-				title: 'Ashgabat arrival',
-				text: 'Early morning arrival to Ashgabat airport. Transfer and rest in the hotel. We start our day by visiting the State Museum of History and Ethnography (containing more than 327.000 objects). This is followed by a sightseeing tour of Ashgabat including the Tower of Neutrality, Mosque, and Independence Monument. Hotel overnight.',
+				title: '1日目 アシガバート到着',
+				text: '早朝、アシガバート空港に到着。 移動してホテルで休憩。 私たちは州立歴史民族博物館 (327,000 点以上の展示品を収蔵) を訪れることで 1 日を始めます。 その後、 中立塔、 モスク、独立記念碑などを含むアシガバートの観光ツアーが続きます。 ホテル一泊。',
 			},
 			2: {
-				title: `Ashgabat SS`,
-				text: `Today we will visit the Carpet Museum of Turkmenistan where you can see the biggest carpet in the world. Then visit Nissa fortress – the capital of the Parthian Empire. After that we will visit Kow Ata Underground lake. Overnight in hotel.`,
+				title: `2日目 アシガバート`,
+				text: `今日は、世界最大の絨毯を見ることができるトルクメニスタンの絨毯博物館を訪れます。 その後、パルティア帝国の首都であるニッサ要塞を訪れます。 その後、 コウアタ地底湖を訪れます。 ホテルで一晩。`,
 			},
 			3: {
-				title: `Off-road drive to Damla via Erbent Oasis`,
-				text: `From Ashgabat we start our expedition on the asphalt road leading up north towards Kunya-Urgench. After a 3-hour drive we reach the first big dunes at Erbent Oasis. On this first day we will cover 120 km off-road tracks crossing the flat roof settlements of Kyzyl Takhir and Kurkutli (some significance during WW2 because of Sulphur production) as well as the Uzboy. This former riverbed of the Amudarya River divides the different tectonic plates of the northern and southern Karakum and resembles an endless salt-lake collecting a little water in spring. With its harsh climate, fine sand and the history of the Turkmen warriors as the fiercest slave-hunters in Turkestan, the Karakum ('Black' Desert in the sense of 'Bad' desert!) is considered the toughest desert in Central Asia. After crossing the Uzboy we continue towards the settlement of Damla where we set up our camp amidst the yurts of the villagers.`,
+				title: `3 日目 エルベント オアシス経由でダムラへのオフロード ドライブ`,
+				text: `アシガバートから、クフニャ・ウルゲンチに向かって北上するアスファルト道路で遠征を開始します。 3 時間のドライブの後、エルベント オアシスの最初の大きな砂丘に到着します。 この初日は、キジル・ タキルとクルクトリ（硫黄の生産により第二次世界大戦中は重要な意味を持っていた) とウズボーイの平屋根集落を横切る120kmのオフロード・トラックをカバーします。 アムダリヤ川のこのかつての河床は、カラクム北部と南部の異なるプレートを分けており、春になると少量の水を集める無限の塩湖に似ています。 厳しい気候、 きめ細かい砂、そしてトルキスタンで最も獰猛な奴隷狩りをしていたトルクメン戦士の歴史により、カラクム（「悪い」砂漠という意味で「黒い」砂漠！）は、中央アジアで最も厳しい砂漠とみなされています。 ウズボイ川を渡った後、 私たちはダムラの集落に向かって進み、そこで村人のパオの中にキャンプを張りました`,
 			},
 			4: {
-				title: `Off-road drive to Akmolla`,
-				text: `After breakfast we take time to explore the remote village. The people in these oases are unique in their hospitable culture, traditions and dress. We will have every opportunity to take part in felting and to watch them preparing the traditional meals and play the dutar.. We continue our off-road drive on the sizzling plateau cut into pieces by dunes in the late afternoon. After a 4-hour drive we should reach the settlements of Akmolla and Murzechirla by the evening where we will camp and make friends with more desert people, this time of the Yomud tribe.`,
+				title: `4日目 アクモラへのオフロードドライブ`,
+				text: `朝食後、人里離れた村を探索します。 これらのオアシスの人々は、もてなしの文化、伝統、服装が独特です。 私たちはフェルト作りに参加したり、彼らが伝統的な食事を準備したり、ドゥタールを演奏したりするのを観察するあらゆる機会を得るでしょう。私たちは午後遅く、砂丘によって切り裂かれた灼熱の高原でオフロードドライブを続けます。 4時間のドライブの後、 夕方までにアクモッラとムルゼチルラの集落に到着し、そこでキャンプをし、より多くの砂漠の人々、今回はヨムド族と友達になる予定です。`,
 			},
 			5: {
-				title: `Off-road drive to Tugay Forests`,
-				text: `We spend the morning joining the locals in their every-day doing the milking of the camels, the beating and combing of the wool and giving water to the animals with unusual band pumps. The villages are also home the beautiful Tazy hunting dogs present everywhere  a very elegant and fast, pure Turkmen dog. After siesta we continue our drive south in the direction of Mary Oasis. Our aim on this day is to reach the Tugay savannah of the Mary canals. This form of vegetation is one of the most unique features of the Central Asian countryside and used to stretch all the way along the Amudarya river and remains home to many rare species such as the endangered Bukharan Deer. Today even the protected leftovers of these savannahs at the Amudarya riverside are decreasing mainly due to over-grazing or flooding in recent years. Anyhow - Tugays along the collectors and canals of the Mary cotton fields reaching far north into the desert are newly-formed and, because of their difficult accessibility, have incredible wildlife such as the wild boars and gazelles. Camping in the Tugay with some luck we will have a chance to see some of the animals in the evening and early morning hours.`,
+				title: `5 日目 トゥガイの森へのオフロードドライブ`,
+				text: `私たちは午前中、ラクダの乳搾り、羊毛の叩きと梳き、珍しいバンドポンプで動物に水を与えるという地元の人々の日常に加わります。 村には美しいタージー 狩猟犬の生息地でもあり、非常にエレガントで素早い純粋なトルクメン犬がいたるところに存在します。 シエスタの後、私たちはメアリー ・オアシスの方向に南へドライブを続けます。 この日の目的は、メアリー 運河のトゥガイ・サバンナに到達することです。 この形態の植生は中央アジアの田園地帯の最もユニークな特徴の 1 つであり、 かつてはアムダリヤ川に沿ってずっと広がっており、絶滅危惧種のブハラシカなど多くの希少種が今も生息しています。 現在、 アムダリヤ川沿いにあるこれらのサバンナの保護された残存物さえ、主に近年の過剰放牧や洪水により減少しています。 とにかく - 遥か北の砂漠に達するメアリー 綿花畑の採集地や運河に沿ったトゥガイは新しく形成されたもので、アクセスが難しいため、イノシシやガゼルなどの信じられないほどの野生動物が生息しています。 トゥガイ川でキャンプをすれば、運が良ければ夕方や早朝にいくつかの動物を見るチャンスがあるかもしれません。`,
 			},
 			6: {
-				title: `Off-road drive to Mary Oasis`,
-				text: `Along the canal we continue south towards Mary Oasis on the next day after spending the morning wildlife watching and trekking and the noon hours in the shade of the Tugay. We reach Mary by the evening and settle in a hotel where we will enjoy the simple facilities and wash off some of the dust accumulated on our 4-day off-road drive.`,
+				title: ` 6日目 メアリー・オアシスへのオフロードドライブ`,
+				text: `翌日は午前中は野生生物の観察やトレッキングをし、正午はトゥガイ川の木陰で過ごした後、運河に沿って南に進み、メアリー・オアシスに向かいます。 夕方までにメアリーに到着し、ホテルに滞在し、シンプルな設備を満喫し、4日間のオフロードドライブで溜まった埃を洗い流します。`,
 			},
 			7: {
-				title: `Merv & Gonur Depe`,
-				text: `In the morning we will relax on a visit to Merv. Merv is by far Turkmenistan's most recognised heritage site. It impresses in its vastness of 2,000 ha of 5 different city-sites from 3 millenniums and with numerous monuments and shrines from the Muslim period remaining. Merv has recently been included into the UN list of World Heritage monuments. After siesta we get back on our vehicle and continue to Gonur Depe, the main site of Zoroastrian Margush, which is located some 60 km north of the cities of Merv representing the centre of a great, 4,000 years old fire-worshipping civilisation famous for it's magnificent seals and unusual burial practices. The capital site is the only entirely excavated site of this size in the country and the visitor can stroll the ancient alleyways and shrines.  Overnight in Mary hotel`,
+				title: `7日目 メルブとゴヌール・デペ`,
+				text: `午前中はメルヴを訪れてリラックスします。 メルブはトルクメニスタンで最も有名な文化遺産です。 3,000 年間の 5 つの異なる都市遺跡から成る 2,000 ヘクタールの広大な敷地と、 イスラム時代の数多くの記念碑や神殿が残っていることが印象的です。 メルブは最近、 国連の世界遺産記念碑のリストに登録されました。 シエスタの後、 私たちは車に戻り、 ゾロアスター教マルグシュの主な遺跡であるゴヌール・デペへ向かいます。ここはメルヴの都市から約60km北に位置し、4,000年前の拝火崇拝文明の中心地で有名です。 立派な印章と珍しい埋葬法。 首都遺跡は、 この規模で完全に発掘された遺跡としては国内で唯一であり、訪問者は古代の路地や神社を散策することができます。 メアリーホテルに宿泊`,
 			},
 			8: {
-				title: `Mary - Merv`,
-				text: `After breakfast visit Ancient Merv, the biggest city of Middle Ages. You will visa the beautiful dome of Sultan Sanjar's Mausoleum which was copied by Filppo Brunelski when he built Santa Maria Del Fore. Then visit the Mary Regional Museum. Overnight in Mary hotel`,
+				title: `8日目 メアリー - メルブ`,
+				text: `朝食後、中世最大の都市である古代メルブを訪れます。 フィルポ ブルネルスキーがサンタ マリア デル フォレを建設したときに模倣したスルタン サンジャル廟の美しいドームを見学します。 次に、メアリー地域博物館を訪れます。 メアリーホテルに宿泊`,
 			},
 			9: {
-				title: `Road drive to Ashgabat`,
-				text: `We return to Ashgabat on a 350 km drive along the asphalt road crossing  Kaakhka region. En route we will rest at Meane Baba Mausoleum, the monument of an 11th century Sufi teacher, which is unique in its extraordinary tile-work on the outer walls and the beauty of its simplistic interior. We picnic with the pilgrims for lunch then continue via the 18th century fortress of Persian ruler Nedir Shakh being some of the best remaining fortress ruins in Turkmenistan and astonishing in their accuracy and magnificent setting reach Ashgabat in the late afternoon. Hotel overnight.`,
+				title: `9日目 アシガバートまでドライブ`,
+				text: `私たちはカーフカ地域を横断するアスファルト道路に沿って350kmのドライブでアシガバートに戻ります。 途中、11世紀のスーフィー教師の記念碑であるメアン・ ババ廟で休憩します。この廟は、外壁の並外れたタイル細工とシンプルな内装の美しさが独特です。 私たちは巡礼者たちと昼食のためにピクニックをし、その後、 トルクメニスタンに残る最も優れた要塞遺跡の一つであるペルシアの統治者ネディル・シャクの18世紀の要塞を経由し、その正確さと壮大な環境に驚くべきものを午後遅くにアシガバートに到着します。 ホテル一泊。`,
 			},
 			10: {
-				title: `Departure home`,
+				title: `10日目 帰国`,
 				text: ``,
 			},
 		},
 		turk: {
-			title: `Grand Journey over ancient Turkistan 2023`,
+			title: `古代トルキスタンを巡る壮大な旅 2023`,
 			1: {
 				title: '',
-				text: 'Meet your guide and driver at Ashgabat Airport. Transfer and overnight in Diwan Hotel',
+				text: 'アシガバート空港でガイドとドライバーと合流します。 送迎とディワンホテルでの宿泊',
 			},
 			2: {
 				title: '',
-				text: `After breakfast city tour of Ashgabat, visit State Museum of Turkmenistan. After lunch visit Kow Ata Underground Lake. Overnight in Diwan Hotel`,
+				text: `アシガバートの朝食市内観光後、トルクメニスタン国立博物館を訪問します。 昼食後はコウアタ地底湖を訪れます。 ディワンホテルに宿泊`,
 			},
 			3: {
 				title: '',
-				text: `After breakfast continue city tour of Ashgabat, visit Lenin Monument, National Mosque of Turkmenistan, Carpet Museum and Ancient Nissa. Overnight in Diwan Hotel`,
+				text: `朝食後、アシガバートの市内観光を続け、 レーニン記念碑、 トルクメニスタン国立モスク、絨毯博物館、古代ニッサを訪れます。 ディワンホテルに宿泊`,
 			},
 			4: {
 				title: '',
-				text: `After breakfast visit Art Museum of Turkmenistan. Then drive to Bokurdak semi nomadic village located 90 km out of Ashgabat. Explore desert en route. After arrival explore village. Lunch at local family house. Then drive back to Ashgabat. Dinner and overnight in hotel Diwan`,
+				text: `朝食後、トルクメニスタン美術館を訪れます。 その後、アシガバートから 90 km 離れた半遊牧民の村ボクルダックへ車で向かいます。 途中で砂漠を探索します。 到着後は村を散策。 地元の実家で昼食。 その後、車でアシガバートに戻ります。 ホテルディワンでの夕食と宿泊`,
 			},
 			5: {
 				title: '',
-				text: `After breakfast take morning flight to Dashoguz. VISIT KONEURGENCH HISTORICAL SITE. Lunch. Then transfer to Shavat border. After border formalities meet your Uzbek Guide and Driver. Meet the group at Shavat border and drive to Urgench. O/N Khorezm Palace`,
+				text: `朝食後、朝の飛行機でダショグズへ向かいます。 コヌルゲンヒ史跡を訪れてください。 ランチ。 その後、シャバット国境へ移動します。 国境手続きが完了したら、ウズベキスタン人ガイドとドライバーと合流します。 シャヴァト国境でグループと合流し、ウルゲンチへ向かいます。 O/N ホレズム パレス 4*`,
 			},
 			6: {
 				title: '',
-				text: `Full day S/S of Khiva. O/N Khorezm Palace`,
+				text: `ヒヴァの終日S/S。 O/N ホレズム パレス 4*`,
 			},
 			7: {
 				title: '',
-				text: `Drive to Bukhara. O/N Bukhara Palace/Asia Bukhara`,
+				text: `ブハラへドライブ。 O/N ブハラ パレス 4*/アジア ブハラ 4*`,
 			},
 			8: {
 				title: '',
-				text: `Full day S/S of Bukhara. O/N Bukhara Palace/Asia Bukhara`,
+				text: `ブハラ終日S/S。 O/N ブハラ パレス 4*/アジア ブハラ 4*`,
 			},
 			9: {
 				title: '',
-				text: `AM Drive to Samarkand. PM S/S of Samarkand. O/N Afrasiab Palace/President Palace`,
+				text: `午前サマルカンドへドライブ。 サマルカンドのPM S/S。 O/N アフラシアブ パレス 4*/プレジデント パレス 4*`,
 			},
 			10: {
 				title: '',
-				text: `AM Excursion to Penjikent. PM S/S of Samarkand. O/N Afrasiab Palace/President`,
+				text: `午前ペンジケントへの小旅行。 サマルカンドのPM S/S。 O/N アフラシアブ パレス 4*/プレジデント パレス 4*`,
 			},
 			11: {
 				title: '',
-				text: `AM Drive to Tashkent. PM S/S of Tashkent. O/N Tashkent Palace/Dedeman`,
+				text: `午前：タシケントへ移動。 タシケントのPM S/S。 O/N タシケント パレス 4*/デデマン 4*`,
 			},
 			12: {
 				title: '',
-				text: `AM S/S of Tashkent. PM Flight to Bishkek. Meet group at Airport from Tashkent - Bishkek flight. Transfer to Silk Road Lodge hotel. Overnight in hotel. The flight is usually at 18:10. Dinner will be served in one of the restaurants with the national cuisine around 20:30.`,
+				text: `タシケントの午前S/S。 午後の便でビシュケクへ。 タシケント - ビシュケク行きの空港でグループと合流します。 シルクロー ドロッジホテルへお送りします。 ホテルで一晩。 フライトは通常18:10です。 ディナーは、郷土料理を提供するレストランで提供されます。 20:30頃。`,
 			},
 			13: {
 				title: '',
-				text: `After breakfast half day city tour of Bishkek: visit Victory Park, Frunze House Museum, State Museum of Fine Arts, Oak Park, Village of Manas.Drive Issik Kul Lake. Dinner at local restaurant. Overnight in KarVen Club hotel.`,
+				text: `朝食後、ビシュケク半日市内ツアー： ビクトリーパーク、 フルンゼハウス博物館、州立美術館、オークパーク、マナス村を訪問。イシククル湖をドライブ。 地元のレストランで夕食。 KarVen Clubホテルに宿泊。`,
 			},
 			14: {
 				title: '',
-				text: `After breakfast drive to Almaty. Stop to visit open air museum of Petroglyphs in Cholpon ata. Arrive to Almaty. O/n in hotel Ambassador.`,
+				text: `朝食後、アルマトイへ向かいます。 チョルポン・ アタにあるペトログリフ野外博物館を訪れてください。 アルマトイに到着。 ホテルアンバサダーに宿泊。`,
 			},
 			15: {
 				title: '',
-				text: `After breakfast full day tour of Almaty. Visit 28 Panfilov's guardsmen park, St Nicholas Cathedral, Museum of national musical instruments, National Museum, medeo sports complex. Lunch and folklore show at restaurant in Kazak aul (Kazakh Ajyly). Special farewell dinner with national music and dances in local restaurant. O/N in hotel Ambassador.`,
+				text: `朝食後、アルマトイの 1 日ツアー。 28 パンフィロフの衛兵公園、 聖ニコラス大聖堂、国立楽器博物館、国立博物館、メデオ スポーツ コンプレックスを訪れてください。 カザフ・オール（カザフ・アジリ） のレストランでのランチと民俗ショー。 地元のレストランでの国民音楽とダンスを楽しめる特別なお別れディナー。 ホテルでのO/N`,
 			},
 			16: {
 				title: '',
-				text: `After breakfast transfer to airport for international departure.`,
+				text: `朝食後、国際線出発のため空港へ移動します。`,
 			},
 		},
 		kunya: {
@@ -379,358 +379,338 @@ export const jp = {
 			1: { title: '', text: '', images: [] },
 		},
 		iran: {
-			title: 'Iran-Turkmenistan-Uzbekistan',
+			title: 'イラン-トルクメニスタン-ウズベキスタン',
 			1: {
-				title: 'Tehran',
-				text: 'Arrive Tehran by train from Istanbul. O/N in Iransahr Hotel 3*',
+				title: 'テヘラン',
+				text: 'イスタンブールから電車でテヘランに到着。 ホテルO/N イン イランサール 3*',
 			},
 			2: {
-				title: `Tehran - Isfahan`,
-				text: `Full day city tour in Tehran; visit Archaeological & Islamic Art and Carpet Museums. In the evening transfer to the train station and leave for Isfahan. O/N in Train`,
+				title: `テヘラン - エスファハーン`,
+				text: `テヘランの終日市内ツアー。 考古学博物館、 イスラム美術博物館、 絨毯博物館を訪れてください。 夕方、鉄道駅に移動し、 イスファハーンに向けて出発します。 電車内でのO/N`,
 			},
 			3: {
-				title: `Isfahan`,
-				text: `Early in the morning arrive Isfahan. Full day city tour in Isfahan visit Imam & Sheikh Lutfullah Mosques, Ali Qapou Palace and Bazaar. O/N in Azadi Hotel 3*`,
+				title: `イスファハン`,
+				text: `早朝、イスファハーンに到着。 イスファハンの終日市内ツアーでは、 イマームとシェイク ルトゥフラ モスク、アリ カポウ宮殿、バザールを訪れます。 ホテルO/N イン アザディ 3*`,
 			},
 			4: {
-				title: `Isfahan - Mashhad`,
-				text: `City tour in Isfahan visit Jame Mosque and Vank Church. In the afternoon transfer to the train station and leave for Mashhad. O/N in Train`,
+				title: `イスファハン - マシュハド`,
+				text: `イスファハン市内ツアーでは、ジャーメ モスクとヴァーンク教会を訪問します。 午後、鉄道駅に移動し、マシュハドに向けて出発します。 電車内でのO/N`,
 			},
 			5: {
-				title: `Mashhad`,
-				text: `Arrival to Mashhad at noon. O/N in Azadi Hotel 3*`,
+				title: `マシュハド`,
+				text: `正午にマシュハドに到着。 ホテルO/N イン アザディ 3*`,
 			},
 			6: {
-				title: `Mashhad`,
-				text: `Full day city tour in Mashhad; visit Astan-e Qouds Complex and the Holy Shrine of imam Reza from outside. O/N in Azadi Hotel 3*`,
+				title: `マシュハド`,
+				text: `マシュハドの終日市内ツアー。 アスタンエ クウッズ複合施設とイマーム レザーの聖なる神殿を外から訪れます。 ホテルO/N イン アザディ 3*`,
 			},
 			7: {
-				title: `Mashhad - Ashgabat`,
-				text: `Pass the border for Turkmenistan. After border formalities proceed to Diwan Hotel 4*`,
+				title: `マシュハド - アシガバート`,
+				text: `国境を越えてトルクメニスタンへ。 国境手続き後、ディワン ホテル 4* へお進みください。`,
 			},
 			8: {
-				title: `Ashgabat`,
-				text: `After breakfast city tour of Ashgabat, visit State Museum of Turkmenistan and Nissa Fortress. Overnight in Diwan Hotel 4*`,
+				title: `アシガバート`,
+				text: `アシガバート市内観光の朝食後、トルクメニスタン国立博物館とニッサ要塞を訪れます。 ディワンホテルで一泊 4*`,
 			},
 			9: {
-				title: `Ashgabat - Gokdepe`,
-				text: `After breakfast drive to the cty of Gokdepe. You will visit the Stud Farm. You will see the unique collection of World Famous Akhal Teke Horses and have a chance to ride a horse upon your request. On your way back you will stop to visit famous Gokdepe Mosque and National Mosque of Turkmenistan. Overnight in Diwan Hotel 4*`,
+				title: `アシガバート - ギョクデペ`,
+				text: `朝食後、ギョクデペ市へ向かいます。 スタッドファームを訪問します。 世界的に有名なアハル テケ馬のユニークなコレクションをご覧になり、 ご要望に応じて馬に乗る機会もございます。 帰りには、有名なギョクデペ モスクとトルクメニスタン国立モスクを訪れます。 ディワンホテルで一泊 4*`,
 			},
 			10: {
-				title: `Ashgabat - Dashoguz - Ashgabat`,
-				text: `Take early morning flight to Dashoguz. Transfer to Koneurgench historical site. You will visit the Mausoleum of Torebeg Hanym, Sultan Tekesh and Sultan Il Arslan, Najmeddin Kubra (famous Sufi Leader). Lunch in Local Restaurant. Take late afternoon flight to Ashgabat. Overnight in Diwan Hotel 4*`,
+				title: `アシガバート - ダショグズ - アシガバート`,
+				text: `早朝の飛行機でダショグズへ向かいます。 コヌルゲンゲン史跡へ移動します。 トレベグ・ハニム、スルタン・テケシュ、スルタン・イル・アルスラン、ナジメディン・クブラ（有名なスーフィー指導者）の霊廟を訪問します。 地元のレストランでランチ。 午後遅くの飛行機でアシガバートへ。 ディワンホテルで一泊 4*`,
 			},
 			11: {
-				title: `Ashgabat - Mary`,
-				text: `After early breakfast drive to Mary. En route visit the Abiverd fortress and the Mausoleum of Abu Seyit Abul Khayr Mekhnei. Overnight in Mary Hotel`,
+				title: `アシガバート - メアリー`,
+				text: `早めの朝食後、メアリーへ向かいます。 途中、アビバード要塞とアブ・ セイット・アブル・カイル・メクネイの霊廟を訪れます。 メアリーホテルで一泊`,
 			},
 			12: {
-				title: `Margush`,
-				text: `After breakfast drive to the Margush historical site. According to Boston Globe Margush is the 5th center of civilization beside India, Egypt, China and Mesopotamia. Picnic Lunch. After lunch visit Mary historical Museum. Overnight in Mary Hotel`,
+				title: `マーグシュ`,
+				text: `朝食後、マーグシュ史跡へ向かいます。 ボストン・グローブ紙によると、 マーガシュはインド、エジプト、中国、メソポタミアに次ぐ5番目の文明の中心地だという。 ピクニックランチ。 昼食後はメアリー歴史博物館を訪れます。 メアリーホテルで一泊`,
 			},
 			13: {
-				title: `Mary - Farap-Bukhara`,
-				text: `After breakfast drive to Farap border. En route visit the Ancient Merv. You will visit one of the biggest cities in the world during Middle Ages. Merv consists of 5 cities built behind each other. Youngest of them built in 15th century and oldest built in 6th century BC and called Alexandria Margiana. After border formalities proceed to the city of Bukhara. O/N Sasha & Son`,
+				title: `メアリー - ファラップ-ブハラ`,
+				text: `朝食後、ファラップ国境へ向かいます。 途中、古代メルヴを訪れます。 中世の世界最大の都市の一つを訪れます。 Merv は、互いに隣接して建設された 5 つの都市で構成されています。 その中で最も新しいものは 15 世紀に建てられ、最も古いものは紀元前 6 世紀に建てられ、アレクサンドリア マルジャーナと呼ばれています。 国境手続き後、ブハラ市内へ向かいます。 O/N サーシャ＆サン`,
 			},
 			14: {
-				title: `Bukhara`,
-				text: `Full day in Bukhara. O/N Sasha & Son B&B`,
+				title: `ブハラ`,
+				text: `ブハラで丸一日。 宿泊/泊 サーシャ & サン B&B`,
 			},
 			15: {
-				title: `Bukhara`,
-				text: `Full day in Bukhara. O/N Sasha & Son B&B`,
+				title: `ブハラ`,
+				text: `ブハラで丸一日。 宿泊/泊 サーシャ & サン B&B`,
 			},
 			16: {
-				title: `Bukhara - Khiva`,
-				text: `Drive to Khiva (480 km). O/N Malika Khiva/Madrassah`,
+				title: `ブハラ - ヒヴァ`,
+				text: `ヒヴァまでドライブ (480km)。 O/N マリカ ヒヴァ/マドラサ`,
 			},
 			17: {
-				title: `Khiva`,
-				text: `Full day in Khiva. O/N Malika Khiva/Madrassah`,
+				title: `ヒヴァ`,
+				text: `ヒヴァで丸一日。 O/N マリカ ヒヴァ/マドラサ`,
 			},
 			18: {
-				title: `Khiva - Bukhara`,
-				text: `Drive to Bukhara (480 km). O/N Sasha & Son`,
+				title: `ヒヴァ - ブハラ`,
+				text: `ブハラまでドライブ (480km)。 O/N サーシャ＆サン`,
 			},
 			19: {
-				title: `Bukhara - Sakhrisabz`,
-				text: `Drive to Shakhrisabz (300 km). O/N Orient Star 3*`,
+				title: `ブハラ - シャフリサブズ`,
+				text: `シャフリサブズまでドライブします (300km)。 O/N オリエントスター 3*`,
 			},
 			20: {
-				title: `Shakhrisabz - Termez`,
-				text: `Drive to Termez (250 km). O/N Akmal Kholis B&B`,
+				title: `シャフリサブズ - テルメズ`,
+				text: `テルメズまでドライブ (250km)。 宿泊/泊 アクマル コリス B&B`,
 			},
 			21: {
-				title: `Termez`,
-				text: `Full day in Termez. O/N Akmal Kholis B&B`,
+				title: `テルメズ`,
+				text: `テルメズで丸一日。 宿泊/泊 アクマル コリス B&B`,
 			},
 			22: {
-				title: `Termez - Samarkand`,
-				text: `Drive to Samarkand (350 km). O/N Amir B&B`,
+				title: `テルメズ - サマルカンド`,
+				text: `サマルカンドまでドライブ (350km)。 アミール B&B 滞在中`,
 			},
 			23: {
-				title: `Samarkand`,
-				text: `Full day in Samarkand. O/N Amir B&B`,
+				title: `サマルカンド`,
+				text: `サマルカンドで丸一日。 アミール B&B 滞在中`,
 			},
 			24: {
-				title: `Samarkand`,
-				text: `Full day in Samarkand. O/N Amir B&B`,
+				title: `サマルカンド`,
+				text: `サマルカンドで丸一日。 アミール B&B 滞在中`,
 			},
 			25: {
-				title: `Samarkand - Tashkent`,
-				text: `Drive to Tashkent (300 km). O/N Malika Tashkent`,
+				title: `サマルカンド - タシケント`,
+				text: `タシケントまでドライブ (300km)。 滞在中 マリカ タシケント`,
 			},
 			26: {
-				title: `Departure`,
+				title: `日目出発`,
 				text: ``,
 			},
 		},
 		pilgrimage: {
-			title: `Pilgrimage to the saint sufi leaders mauseleums of the great Turkistan`,
+			title: `大トルキスタンの聖スーフィー指導者霊廟への巡礼`,
 			1: {
-				title: 'Arrival to Ashgabat',
-				text: 'Transfer to the hotel. Overnight in Diwan Hotel 4*',
+				title: 'アシガバートに到着',
+				text: 'ホテルへ送迎。 ディワンホテル4泊',
 			},
 			2: {
-				title: `Ashgabat city tour, Old Nisa, State Museum of Turkmenistan`,
-				text: `We start off our first day with a late morning drive through the city center to Old Nisa. Nisa fortress once upon a time was one of the residences of the Parthian Kings (247 BC-253 AD), stretching from the Kopetdag all the way across to the Persian Gulf and Anatolia. We visit the State Museum of Turkmenistan, which holds some of the country's most important historical and ethnographic treasures More than 500,000 exhibits are displayed here. Afterwards we stroll through the city center and a visit of the row of newly built monuments and fountains at the outskirts of this unusual city. The most fascinating monument is the Arch of Neutrality, the statue of the First President Turkmenistan, Saparmurat Turkmenbashy. We also visit Ashgabat's Carpet Museum. The museum has a large, impressive collection of antique carpets and one of the giant carpets is on display. Every carpet tells a story, every design in the carpet has a meaning. Hotel overnight.`,
+				title: `アシガバート市内ツアー、オールドニサ、トルクメニスタン国立博物館`,
+				text: `初日は、市内中心部を通ってオールドニサまで早朝にドライブすることから始まります。 ニサ要塞はかつてパルティア王 (紀元前 247 年から紀元後 253 年) の居城の 1 つで、コペットダグからペルシャ湾とアナトリアまで広がっていました。 トルクメニスタン国立博物館を訪れます。ここには、この国で最も重要な歴史的および民族学的宝物のいくつかが収蔵されています。ここには 500,000 点以上の展示物が展示されています。 その後、市内中心部を散策し、 この珍しい街の郊外に新しく建てられた記念碑や噴水が並んでいる場所を訪れます。 最も魅力的な記念碑は、トルクメニスタン初代大統領サパルムラット トルクメンバシの像である中立のアーチです。 アシガバー トのカー ペット博物館も訪れます。 博物館には、印象的なアンティーク カーペットの膨大なコレクションがあり、巨大なカーペットの 1 つが展示されています。 すべてのカーペットには物語があり、カーペットのすべてのデザインには意味があります。 ホテル一泊。`,
 			},
 			3: {
-				title: `Drive to Mary-Anau, Abiverd, Mausoleum of Abu Said Mekhneyi (360 km)`,
-				text: `In the morning we continue our trip eastwards to the ruins to the most important site of Turkmen history the ruins of Merv, some 360 km east of Ashgabat. En route we visit the ruins of Anau Mosque, another important place of worship for pilgrims. We also visit Abiverd and Meane Baba Mausoleum. According to Al Makdis,i Abiverd was richer and more fertile than Parthian Nisa. Its shakhristan was surrounded by perimeter by the walls with rounded towers and the moat. A straight street connected the only town gates with the gates of the citadel. The Mausoleum of Abu Said Mekhneyi was built in 11th century and has the double dome that characterizes mausoleums of that time. The inner part of the mausoleum is decorated with inscriptions while the portal is laced with mosaics. The mosaics offer various colors and pictures to the viewer. The entire mausoleum is decorated with Arabic inscriptions upon the outer area and designs ornate in inner areas. Overnight in Mary.`,
+				title: `メアリーアナウ、アビバード、アブ サイド メフネイ霊廟までドライブ (360 km)`,
+				text: `午前中、私たちは東へ旅を続け、アシガバートの東約360kmにあるトルクメンの歴史の最も重要な場所であるメルブ遺跡へ向かいます。 途中、 巡礼者にとってもう一 つの重要な礼拝所であるアナウ・モスクの遺跡を訪れます。 アビバード廟とミーネ・ ババ廟も訪問します。 アル・マクディスによれば、 アビバー ドはパルティアのニサよりも裕福で肥沃であったという。 そのシャフリスタンは、 丸い塔と堀を備えた城壁で周囲を囲まれていました。 唯一の町の門と城塞の門はまっすぐな通りで結ばれていました。 アブー サイード メフネイ霊廟は 11 世紀に建てられ、 当時の霊廟の特徴である二重ドームを備えています。 霊廟の内部は碑文で装飾されており、門にはモザイクが施されています。 モザイクは見る人にさまざまな色と絵を提供します。 霊廟全体の外側はアラビア語の碑文で装飾され、内側は華やかなデザインが施されています。 メアリーで一晩。`,
 			},
 			4: {
-				title: `Mary Merv-Farap - Bukhara (290 km)`,
-				text: `Before driving to Turkmenabat  we'll visit the old city of Merv. Visit the unique series of cities, not built on top of each other, as is so often the case, for instance at Damascus or Jerusalem, but constructed on adjacent virgin sites. The sites of the ancient town Erk-Kala (the fortress- citadel), Gyaur-Kala, Sultan-Kala, Abdulla-khan-Kala correspond to the different periods of Mervs' existence .The monuments we will tour and walk through are the Great and Little Kiz Kala, the Kiz Bibi mausoleum, the magnificent Mausoleum of Sultan Sanjar, the Palace and keshk in the Shahriar Ark or Royal Citadel, the mosque of Yusuf Hamdani, the Timurid iwans or Askhab, and the Mausoleum of Muhammad ibn Zeyd . Assistance with border crossing. Drive to Bukhara. Overnight in hotel.`,
+				title: `メアリー・メルヴ・ファラップ - ブハラ (290 km)`,
+				text: `トルクメナバートへ向かう前に、メルブの旧市街を訪れます。 ダマスカスやエルサレムのように、互いに積み重ねて建設されるのではなく、隣接する未開の場所に建設された、ユニークな一連の都市を訪れてください。 古代都市エルク・カラ (要塞 - 城塞)、ギャウル・カラ、 スルタン・カラ、アブドゥラ・ カーン・カラの遺跡は、メルヴスの存在のさまざまな時代に対応しています。私たちがツアーして通過する記念碑は、偉大な遺跡です。 リトル・キズ・カラ、キズ・ ビビ廟、スルタン・サンジャルの壮大な廟、シャフリアル・アークまたは王城塞の宮殿とケシュク、ユスフ・ハムダーニのモスク、ティムール朝のイーワーンまたはアスハブ、そしてムハンマド・イブン・ゼイドの廟。 国境越えのお手伝い。 ブハラまで車で向かいます。 ホテルで一晩。`,
 			},
 			5: {
-				title: `Bukhara`,
-				text: `After breakfast at the hotel visit Poi Kalon Ensemble (Pedestal of the Great). The Kalon Minaret (in Tajik means Great) is one of the defining symbols of Bukhara. When it was built by the Karakhanid Arslan Khan in 1127, the Kalon Minaret was probably the tallest building in Central Asia. It's incredible piece of work, 47 meters tall, which in 875 years has never needed any but cosmetic repairs. Also visit 3 remaining domed bazaars – Taqi Zargaron (1570), or Jeweler's Bazaar, Taqi Telpak Furushon or Cap Makers' Bazaar and Taqi Sarrafon, or Moneychangers' Bazaar, which were among dozens of specialized bazaars in the town, Magok-I-Atori Mosque – the remains of a Buddhist monastery, a Zoroastrian temple and the mosque of the Arab invaders, all sharing the same space and Lyabi Hauz Ensemble. Lyabi Hauz, a plaza built around a pool in 1620 (the name is Tajik for “around. the pool”). To the east, the Nadir Divanbegi Madrassah, built in 1630, on the west side of the square, and built at the same time, is the Nadir Divanbegi Khanaka. North across the street, the Kukeldash Madrassah, once was the biggest Islamic school in Central Asia. 
-					Lunch at local restaurant. The town's oldest building (completed around 905)and one of the most elegant structures in Central Asia, and Chashma Ayub (“Spring of Job”) – built in 12 century over a spring. Legend says prophet Job, a millennium before Islam came to the Zerafshan Valley and witnessed a great and terrible drought. Job struck the dusty earth with his staff and a cool source of spring water brought liquid salvation. Dinner overnight and overnight in hotel.`,
+				title: `ブハラ`,
+				text: `ホテルでの朝食後、ポイ カロン アンサンブル (大王の台座) を訪れます。 カロン ミナレット (タジク語で偉大という意味) は、ブハラを特徴づけるシンボルの 1 つです。 1127 年にカラハン朝のアルスラン カーンによって建てられたとき、カロン ミナレットはおそらく中央アジアで最も高い建物でした。 高さ 47 メートルの信じられないほどの作品ですが、875 年間、 表面上の修復以外は一 度も必要ありませんでした。 また、残りの 3 つのドーム型バザール、タキ ザルガロン (1570 年)、または宝石商のバザール、タキ テルパック フルション、キャップ メーカーのバザールとタキ サラフォン、 または両替商のバザー ルを訪れます。これらはマゴクイ アトリの町に数十ある専門バザールの 1 つです。 モスク – 仏教の僧院、ゾロアスター教の寺院、 アラブ侵略者のモスクの遺跡で、 すべて同じスペースとリャビ・ハウズ・アンサンブルを共有しています。 リャビ・ハウズ、1620 年にプールの周りに建設された広場 (名前はタジク語で「プールの周り」を意味します)。 東には、広場の西側に 1630 年に建てられたナディール ディヴァンベギ マドラサがあり、同時に建てられたのがナディール ディヴァンベギ ハーナカです。 通りを挟んで北にあるクケルダシュ マドラサは、 かつて中央アジア最大のイスラム学校でした。 地元のレストランでランチ。 町最古の建物 (905 年頃に完成）であり、中央アジアで最もエレガントな建造物の 1 つであるチャシュマ アユブ（「仕事の泉」) は、12 世紀に泉の上に建てられました。 伝説によると、預言者ヨブは、イスラム教がゼラフシャン渓谷にやって来て、大規模で恐ろしい干ばつを目撃した千年前に述べています。 ヨブは杖で埃っぽい大地を打ち、冷たい湧き水が液体の救いをもたらしました。 ホテルで一晩中夕食。`,
 			},
 			6: {
-				title: `BUKHARA - SAMARKAND`,
-				text: `After breakfast at the hotel drive to Samarkand (270 km). Arrive and transfer to hotel. Lunch at the hotel. 
-					After lunch drive to Imam Al Bukhori complex (25 km), near Chelek village, one of Islam's holier spots. After the Koran, the book most revered by Muslims is the collection of Hadith (sayings of the Prophet Muhammed) selected by, among others, Abu Abdullah Muhammed ibn Ismail Imam Al-Bukhori. Born in Bukhara in 810, the young boy showed a precocious talent for memorizing the traditions of Muhammed. At 16 he accompanied his mother and brother in the hadj pilgrimage to Mecca. They returned home without him, for Al-Bukhori was set on his chosen task of roaming the Islamic world in search of Hadith. His 97-book masterpiece took 16 years to compile from over 600,000 traditions, gathered from over 1000 sheikhs. He would not insert a text without first washing and praying. In addition to Muhammed's life, Al-Bukhori explained the creation of heaven and hell. Though his veracity and peerless knowledge were recognized in his lifetime, his popularity and independent spirit drew enemies in Persia that forced him back to Bukhara. Al-Bukhori wished to keep learning open to all who attended his mosque, so he refused private tuition for the Bukharian governor's children. His subsequent expulsion brought him to the village of Hartang outside Samarkand. Depressed by his treatment, the old master was heard one night in 870 to pray for God to release him. Within a month he was dead. 
-					Return to hotel for dinner and overnight.`,
+				title: `ブハラ - サマルカンド`,
+				text: `ホテルで朝食後、サマルカンド (270km) へ向かいます。 到着してホテルへ移動。 ホテルでランチ。 昼食後は、イスラム教の神聖な場所の 1 つであるチェレク村近くのイマーム アル ブホリ複合施設 (25 km) へドライブします。 コーランの次にイスラム教徒に最も尊敬されている本は、アブ・アブドラ・ムハンマド・イブン・イスマイル・イマーム・アル・ブコーリなどによって選ばれたハディース（預言者ムハンマドの言葉）集です。 810 年にブハラで生まれたこの少年は、 ムハンマドの伝統を暗記する早熟な才能を示しました。 16 歳のとき、 彼は母親と弟とともにメッカへのハッジ巡礼に同行しました。 アル・ ブホリはハディースを求めてイスラム世界を放浪するという自ら選んだ任務に着手したため、彼らは彼なしで帰国した。 彼の 97 冊からなる傑作は、1,000 人以上のシェイクから集められた 60 万以上の伝統を編集するのに 16 年かかりました。 彼はまず体を洗い、祈ってからでなければ文章を挿入しませんでした。 アル・ブコーリ氏はムハンマドの生涯に加えて、天国と地獄の創造についても説明した。 彼の真実性と比類のない知識は生前から認められていましたが、彼の人気と独立心はペルシャに敵を引き寄せ、ブハラに強制送還されました。 アル・ブホリ氏は、 自分のモスクに通うすべての人に学びを提供し続けることを望んでいたため、ブハーリア州知事の子供たちへの個人授業を拒否した。 その後の追放により 、彼はサマルカンド郊外のハルタン村にやって来た。 自分の扱いに意気消沈した老師は、870年のある夜、神に釈放してほしいと祈る声を聞きました。 一ヶ月も経たないうちに彼は亡くなった。 ホテルに戻って夕食をとり、一泊します。`,
 			},
 			7: {
-				title: `Samarkand`,
-				text: `After breakfast at hotel proceed for city tour. Visit to Gur Emir (in Tajik - Tomb of the emir) – mausoleum of Timur and the Timurids (15 c.), Reghistan square (Sandy place) – ensemble of majestic madrassahs (15-17 cc.), ranks first in Central Asia and among the greatest of all the grandiose and magnificent works of the Islamic world; Bibi Khanym Mosque (15 c.) – the gigantic congregational mosque, once one of the Islamic world's biggest mosque. Also visit to Shakhi Zinda (The Living King) – necropolis of Samarkand rulers and nobles. The name refers to its original, innermost and holiest shrine – the grave of Qusam ibn-Abbas, a cousin of the Prophet Muhammad, who is said brought Islam to this area.  
-					After lunch visit Ulugbek Observatory (1420) – the remains of an immense (30 m. tall) astrolabe for observing star position, part of three-storey observatory and Afrasiab ruins and museum with fragments of 7th century frescoes. 
-					Return to the hotel for dinner and overnight.`,
+				title: `サマルカンド`,
+				text: `ホテルで朝食後、市内観光に出発します。 グル・アミール訪問（タジク語 - 首長の墓） – ティムールとティムール朝の霊廟 (15世紀)、レギスタン広場（砂地） – 中央アジアで第一位にランクされる壮大なマドラサの群衆 (15~17世紀) そしてイスラム世界のすべての壮大で壮大な作品の中で最も偉大なものの一つです。 ビビ ハニム モスク (15 世紀) – かつてはイスラム世界最大のモスクの 1 つだった巨大な会衆モスク。 サマルカンドの統治者や貴族の墓地であるシャキ ジンダ (生ける王) も訪れます。 この名前は、 その元の最も奥にある最も神聖な神社、 つまりこの地域にイスラム教をもたらしたと言われている預言者ムハンマドのいとこであるクサム・イブン・アッバスの墓を指します。 昼食後、ウルグベク天文台 (1420 年) を訪れます。星の位置を観察するための巨大な (高さ 30 メートル) アストロラーベの遺跡、3 階建ての天文台の一部、アフラシアブ遺跡と 7 世紀のフレスコ画の断片が展示されている博物館です。 ホテルに戻って夕食をとり、 宿泊します。`,
 			},
 			8: {
-				title: `SAMARKAND- TASHKENT`,
-				text: `After breakfast at the hotel transfer to Tashkent. Lunch at local restaurant. Arrive in Tashkent and transfer to hotel for dinner and overnight`,
+				title: `サマルカンド-タシケント`,
+				text: `Aホテルで朝食後、タシケントへ移動。 地元のレストランでランチ。 タシケントに到着し、ホテルに移動して夕食と宿泊`,
 			},
 			9: {
-				title: `TASHKENT`,
-				text: `After late breakfast visit Old Tashkent and Kukeldash Madrassah will be the first to see. Built in the mid-16th century by the ruler's vizier Kukaldash, the madrassah was the biggest among 17 madrassahs in Tashkent. The Madrassah was built in very traditional style, just so any madrassah is built in any Muslim country.  After secular use as a Soviet warehouse and museum, the madrassah is reasserting religious role. Next to Kukeldash Madrassah there are three renewed domes – reconstructed city's chief Friday Mosque, named after Khodja Akhrar (1404-1490) – Chief Sheikh of powerful Sufic order of Naqshbandi. Original mosque was built in 15 century on the highest point in old Tashkent and was the third biggest in Central Asia. Afterward drive to Kukcha district and visit the oldest architectural Islamic monument in Tashkent – Mausoleum of Zaynutdun Bobo.  Sheikh Zaynutdin was a son of famous in Muslim world philosopher and poet Shikhabuddin as-Sukhravardi, direct descendant of the Prophet Muhammed. Zaynutdin was born in Bagdad in 1214. In the middle of 13 century he moved to Tashkent and as legend says lived in subterranean cell (chillya khona) in Kuhi Arifon (Hill of wise men) village near Tashkent. Sheikh Zaynutdin was much respected and after his death a mausoleum was erected. His mausoleum was reconstructed and rebuilt many times due to earthquakes. The building, which can be seen now, was built in 16 century, but the subterranean cell was built much earlier, in 12th century. Also visit Khast Imam Square – the holy heart of Tashkent and the least Russified or Sovietized part of the city – consisting of Barak Khan Madrassah, Tillya Sheykh Mosque and Kafal Shashi Mausoleum. Barak Khan founded in the 16th century by a descendent of Tamerlane who ruled Tashkent for the Shaybanid dynasty. This is the administrative center of the Mufti of Uzbekistan, the head of official Islam in the Republic. Tillya Sheykh mosque built in the same time as Barak Khan Madrassah, now employed as the district's Friday Mosque. The highlight is the immense Osman Koran, claimed to be the world's oldest; in 655 it was stained with the blood of the murdered Caliph Osman. Kafal Shashi mausoleum – the grave of a local doctor, philosopher and poet of Islam who lived from 904 to 979. The portal, inner dome and arcade date from the 16th century, when his holy reputation attracted a cemetery.  Also visit to Chorsu bazaar – the biggest, spice-smelling farmers bazaar' in Tashkent.
-					Lunch at local restaurant. 
-	After lunch drive to Zangi Ota complex, consisting of Zangi Ota and Ambar Bibi Mausoleums, which is 15 km from Tashkent.  Zangi Ota or “father of life” was the dark-skinned Sheikh Ay Khodja, a 13-century Sufic preacher and patron saint of shepherds.
-	Legend records how Tamerlane was rebuilding Yasawi's mausoleum in the late 14 century but a wall repeatedly collapsed. Yasawi appeared to him in a dream, entreating that Zangi Ota be honored first, so Tamerlane had workers pass bricks along a great line from Turkestan to Tashkent. The two mausoleums date from that time, when Tashkent was a Timurid fortress. 
-	Return to Tashkent and transfer to local restaurant for dinner. Overnight at the hotel.`,
+				title: `タシケント`,
+				text: `遅い朝食後、タシケント旧市街を訪れ、クケルダシュ神学校を最初に訪れます。 16 世紀半ばに統治者の宰相クカルダシュによって建設されたこのマドラサは、タシケントに 17 あるマドラサの中で最大のものでした。 マドラサは、 イスラム教の国にあるマドラサと同じように、非常に伝統的なスタイルで建てられています。 ソビエトの倉庫および博物館として世俗的に使用された後、 マドラサは宗教的な役割を再確認しています。 クケルダシュ マドラサの隣には、3 つの新しくなったドームがあります。再建された市の首長金曜モスクは、ナクシュバンディの強力なスーフィー教団の首長であるホジャ アクラル (1404 ~ 1490 年) にちなんで名付けられました。 元のモスクは 15 世紀に旧タシケントの最高地点に建てられ、中央アジアで 3 番目に大きかった。 その後、ククチャ地区へドライブし、タシケント最古のイスラム建築記念碑であるザイヌドゥン・ボボ廟を訪れます。 シェイク・ザイヌディンは、 イスラム世界で有名な哲学者で詩人のシハブディン・アズ・スクラヴァルディの息子であり、預言者ムハンマドの直系の子孫でした。 ザイヌディンは 1214 年にバグダッドで生まれました。13 世紀半ばにタシケントに移り、 伝説によるとタシケント近郊のクヒ アリフォン (賢者の丘) 村の地下牢 (チリヤ コーナ) に住んでいました。 シェイク・ザイヌディンは非常に尊敬されており、 彼の死後には霊廟が建てられました。 彼の霊廟は地震により何度も再建され、 再建されました。 現在見ることができる建物は 16 世紀に建てられましたが、 地下室はそれよりずっと前の 12 世紀に建てられました。 また、 タシケントの聖心であり、バラク カーン メドレセ、ティリヤ シェイク モスク、カファル シャシ廟で構成されるハスト イマーム広場も訪れてください。 バラク・カーンは、シャイバーン朝のためにタシケントを統治したティムールの子孫によって 16 世紀に設立されました。 ここはウズベキスタン共和国の正式なイスラム教の指導者であるムフティの行政の中心地です。 ティリヤ シェイク モスクはバラク カーン メドレセと同時期に建設され、 現在は地区の金曜モスクとして使用されています。 ハイライトは、 世界最古と言われている巨大なオスマン コーランです。 655年に殺害されたカリフ オスマンの血で染まった。 カファル シャシ霊廟 – 904 年から 979 年まで生きたイスラムの地元の医師、哲学者、詩人の墓です。門、内部のドーム、アーケードは 16 世紀に遡り、当時彼の神聖な評判が墓地に集まりました。 タシケント最大のスパイスの香りがする農家のバザール、チョルス バザールにも立ち寄ってください。地元のレストランでランチ。 昼食後、タシケントから15km離れたザンギ・オタ廟とアンバール・ビビ廟からなるザンギ・オタ複合施設へドライブします。 ザンギ・オタ、または「命の父」は、13 世紀のスーフィー教の説教者であり羊飼いの守護聖人である、浅黒い肌のシェイク・アイ・ホジャでした。 伝説には、14 世紀後半にティムールがヤサウィ廟を再建していたが、壁が繰り返し崩壊したことが記録されています。 ヤサウィが夢の中に現れ、ザンギ・ オタを真っ先に表彰してほしいと懇願したため、ティムールは労働者にトルキスタンからタシケントまでの大路線に沿ってレンガを渡させた。 2 つの霊廟は、 タシケントがティムール朝の要塞だった当時のものです。 タシケントに戻り、 夕食のために地元のレストランに移動します。 ホテルで一晩。`,
 			},
 			10: {
-				title: `TASHKENT - TURKESTAN`,
-				text: `After breakfast at the hotel transfer to Chernyaevka (Uzbek-Kazakh border). After border formalities transfer to Turkestan (400 km). Visit Akhmad Yasawi complex (16 century). Sufi saint Hazret Sultan Khodja Akhmad Yasawi was born in Sairam near Chimkent in 1103, but moved to Yasi after losing his father at the age of seven. There his mentor was the famous Sheikh Arslanbob. Legend holds that when Muhammed was dying he called, “Who will take my amanat (a persimmon stone, the symbol of Islam) and continue my ideas?” Arslanbob, already 300 years old and familiar with 33 religion but now recognizing Islam alone, volunteered and won Allah's approval. As he wandered the steppe 500 years later, Arslanbob met a boy of eleven, who demanded “Aksakal (white beard), give me my amanat!” He was, of course, young Akhmad. After Arslanbob's death, Akhmad became a disciple of a renowned Sufic sheikh in Bukhara, earning the right to explain “the way to the understanding of the truth”. He succeeded his teacher in 1160, before returning to Yasi to develop his own concept of the tariqat, the path to God. Legend also enfolds the close of Yassawi's life, when, aged 63, out of mourning for Muhammed who died at that age, he retreated to a subterranean cell to preach out his days. The small mausoleum erected for him in 1166 drew many pilgrims as dervish disciples of the Yassawiya Sufic brotherhood spread his mystical doctrine and didactic poetry across the steppes, later reaching Persia and Anatolia. The strength of Sufism survived the Mongol onslaught to promote the conversion of Mongol rulers to Islam. By Tamerlane's time, Yasi's population had expanded with pilgrims, priests, merchants and craftsmen, while the mausoleum's riches attracted frequent looting. The great conqueror ordered reconstruction work in 1394 and, on a 1397 visit, en route to receive a Mongol bride, gave exact instructions for a new building on the magnificent scale of the Ak Saray in Shakhrisabz or Bibi Khanum in Samarkand. His pious action not only won favor by increasing the splendor for pilgrims and revenue for residents, it also set forth a tangible proclamation of Timurid power at the imperial borders. Yasawi's reputation was such that a three-time pilgrimage equaled a trip to Mecca. He was called Hazreti Turkestan, the patron of the land of the Turks, and thus the town received its modern name. Once the khan of Kokand took the town in the 19 century, the mausoleum was turned into a 
-					wall-wrapped fortress. Before his death, Yasawi is said to have predicted the invasion of an ill-defined enemy in 1864. Right on time came the Russians and only the mullah's surrender saved the mausoleum from their artillery. 
-	Lunch at local restaurant.
-	Dinner and overnight at the hotel.`,
+				title: `タシケント - トルキスタン`,
+				text: `ホテルで朝食後、チェルニャエフカ（ウズベキスタンとカザフスタンの国境）へ移動。 国境手続き後、トルキスタンへ移動 (400km)。 アフマド ヤサウィ複合施設 (16 世紀) を訪れます。 スーフィーの聖者ハズレト・ スルタン・ ホジャ・アフマド・ ヤサウィは、1103年にチムケント近郊のサイラムで生まれたが、7歳で父親を亡くした後、ヤシに移住した。 そこでの彼の指導者は、有名なシェイク・アルスランボブでした。 伝説によると、ムハンマドは臨終の際、「誰が私のアマナト（イスラム教の象徴である柿の石）を手に入れて、私の考えを引き継いでくれるだろうか？」と呼びかけたという。 アルスランボブはすでに 300 歳で、33 の宗教に精通していましたが、 現在はイスラム教のみを認識しており、志願してアッラーの承認を得ました。 500年後、アルスランボブは草原をさまよっていたとき、「アクサカル (白ひげ)、私のアマナトをくれ!」と要求した11歳の少年に出会った。 もちろん、 彼は若いアフマドでした。 アルスランボブの死後、 アフマドはブハラの有名なスー ー教首長の弟子となり、「真実の理解への道」を説明する権利を獲得した。 彼は 1160 年に師の跡を継ぎ、その後ヤシに戻り、神への道であるタリカートに関する独自の概念を開発しました。 伝説には、 ヤッサウィの生涯の終わりも含まれています。 63歳のとき、彼はその年齢で亡くなったムハンマドへの哀悼の意から、地下の独房にこもり、自分の日々を説教しました。 1166 年に彼のために建立された小さな霊廟には、 ヤッサウィヤ スーフィー 教同胞団の弟子たちが彼の神秘的な教義と教訓的な詩を草原全体に広め、後にペルシアやアナトリアにまで到達したため、多くの巡礼者が集まりました。 スーフィズムの強さは、モンゴル支配者のイスラム教への改宗を促進するモンゴルの猛攻撃にも耐えました。 ティムールの時代までに、 ヤシの人口は巡礼者、司祭、 商人、職人で拡大したが、霊廟の富は頻繁に略奪を引き起こした。 偉大な征服者は 1394 年に再建工事を命じ、1397 年にモンゴルの花嫁を迎える途中に訪れた際、 シャフリサブズのアク サライやサマルカンドのビビ ハヌムのような壮大な規模の新しい建物の正確な指示を与えました。 彼の敬虔な行動は、巡礼者にとっての素晴らしさと住民の収入を増大させることで支持を得ただけでなく、帝国国境におけるティムール朝の権力の具体的な宣言を示した。 ヤサウィの評判は、3 回の巡礼がメッカへの旅行に匹敵するほどでした。 彼はトルコ人の土地の守護者であるハズレティ・トルキスタンと呼ばれ、そのため町は現代の名前になりました。 19 世紀にコーカンドのカー ンが町を占領すると、 霊廟は壁で覆われた要塞に変わりました。 ヤサウィは死ぬ前に、 1864年に不明確な敵の侵入を予言したと言われている。まさにその時、ロシア軍がやって来て、ムッラーの降伏だけが霊廟を彼らの大砲から救った。 地元のレストランでランチ。 夕食とホテル宿泊。`,
 			},
 			11: {
-				title: `TURKESTAN - TASHKENT`,
-				text: `After breakfast at the hotel transfer to Tashkent via Chimkent. Lunch at local restaurant. Arrive in Tashkent and transfer to hotel for dinner and overnight.`,
+				title: `トルキスタン - タシケント`,
+				text: `ホテルで朝食後、チムケント経由でタシケントへ移動。 地元のレストランでランチ。 タシケントに到着し、ホテルに移動して夕食をとり、宿泊します。`,
 			},
 			12: {
-				title: `TASHKENT – KHIVA`,
-				text: `Take a short flight from Tashkent to Urgench. After breakfast transfer to airport for flight to Urgench. Arrive in Urgench and transfer to Khiva. Visit Ichan Kala (Inner town). Khiva is the most intact and most remote of Central Asia's Silk Road cities, the final destination from modern Tashkent to medieval slave town. Visit Mohammed Amin Khan Madrassah (1852-1855) – the largest of its kind in the city with a capacity of 250 Islamic students, or rather 130 romantic tourists, as the madrassah today houses hotel “Madrassah”; Kelte Minor (“Short minaret”) commissioned by the khan Islamic world, but abandoned in the wake of his death at a frustrated 26 meters. Also visit Kunya Ark (Old Fortress) – the jail were all there. Pakhlavan Mahmud Mausoleum – Pakhlavan Mahmud the Hercules of the East, Palvan Pir the "kurash" wrestler-saint, Pirar Vali the antireligious Persian poet, Mahmud the district furrier, all died here, one and the same, in 1325 to enter local folklore as a hero of both brain and brawn and to become the adopted patron of Khiva. With its lovely courtyard and stately tilework it is one of the town's most beautiful spots. Islam Khoja Madrassah (1908) and Minaret (1910) – Khiva's newest Islamic monuments. Islom Khodja, in 1852 to stand (at over 70 m.) as the biggest in the who commissioned the Madrassah and Minaret was and early 20th century grand vizier and, by Khivan standard, a liberal. The minaret is 45 meters tall and it's Khiva's highest.  Juma Mosque (1788) (Friday Mosque) – is interesting for the 213 wooden pillars, each 3,15 m., supporting its roof – a structural concept though to be derived from ancient Arabian mosques. Lunch at private house. After lunch visit Tosh Howli (Stone House) – residence, built by Allah Kuli Khan between 1832 and 1841 as a more splendid alternative to the Kunya Ark;  Allah Kuli Khan Madrassah (1835), bazaar and caravanserai. Dinner and overnight at the hotel. `,
+				title: `タシケント – ヒヴァ`,
+				text: `タシケントからウルゲンチまでは短い飛行機で移動します。 朝食後、 空港へ移動し、 ウルゲンチ行きの飛行機に乗ります。 ウルゲンチに到着し、ヒヴァへ移動します。 イチャン カラ (市内中心部) を訪れます。 ヒヴァは中央アジアのシルクロー ド都市の中で最も手付かずで最も辺鄙な都市であり、現代のタシケントから中世の奴隷都市までの最終目的地です。 モハメッド アミン カーン マドラサ (1852 ~ 1855 年) を訪れてください。マドラサには現在ホテル「マドラサ」があり、イスラム教徒の学生 250 名、またはロマンチックな観光客 130 名を収容できるこの種の都市では最大規模です。ケルテ マイナー (「短いミナレット」) はイスラム世界のカーンによって発注されましたが、彼の死後、失意の高さ 26 メートルで放棄されました。 また、クンヤ アーク (古い要塞) も訪れてください。刑務所はすべてそこにありました。 パフラヴァン・マフムード廟 – 東のヘラクレスであるパフラヴァン・マフムード、「クラシュ」レスラーの聖者パルヴァン・ピル、反宗教的なペルシアの詩人ピラール・ヴァリ、地方の毛皮職人のマフムードは皆、1325年に同じようにここで亡くなり、地元の民間伝承に残っています。 頭脳と腕力を兼ね備えた英雄であり、ヒヴァの養子となる後援者となる。 美しい中庭と風格のあるタイル細工があり、町で最も美しいスポットの 1 つです。 イスラム ホジャ マドラサ (1908 年) とミナレット (1910 年) – ヒヴァの最新のイスラム記念碑。 1852 年にマドラサとミナレットの建設を命じた人物の中で最大の人物として立っていたイスロム・ホジャ（高さ 70 メートル以上) は、20 世紀初頭の大宰相であり、 キヴァンの基準から言えばリベラル派でした。 ミナレットの高さは45メートルで、 ヒヴァで最も高いものです。 ジュマ モスク (1788 年) (金曜モスク) – 屋根を支える 213 本の木の柱 (それぞれ 3.15 メートル) が興味深いですが、 この構造概念は古代アラビアのモスクに由来すると考えられています。 民家でランチ。 昼食後、トッシュ ハウリ (石造りの家) を訪れます。邸宅は、アラー クリ カーンによって 1832 年から 1841 年にかけて、クンヤ アークのより素晴らしい代替施設として建てられました。 アッラー クリ カーン マドラサ (1835 年)、バザールとキャラバンサライ。 夕食とホテル宿泊。`,
 			},
 			13: {
-				title: `KHIVA – SHAVAT – DASHOGUZ`,
-				text: `After breakfast transfer to Shavat border. After border formalities proceed to Turkmenistan side. Transfer to Dashoguz City. Visit Old Urgench, or Kunya Urgench, ancient Gurganj. Gurganj was the capital of the region before the Mongol conquests, in its day one of the great intellectual centres of the entire Islamic world. Although devastated by the Mongols, there are still some outstanding monuments to be seen there: the 14th century Tomb of Turabeg Khatun ; the Minaret of Kutlug Timur, the highest in Central Asia; the pre-Mongol tombs of Sultan Tekesh and Sultan Arslan and the Mausoleum of Najmeddin Kubra (famous Sufi sheikh). Return to Dashoguz to take a PM flight to Ashgabat. Today we dine and sleep at the comfortable hotel.`,
+				title: `ヒヴァ – シャバット – ダショグズ`,
+				text: `朝食後、シャバット国境へ移動。 国境手続き後、トルクメニスタン側へ進みます。 ダショグズ市へ移動。 古代グルガンジ、オールド ウルゲンチ、またはクフニャ ウルゲンチを訪れてください。 グルガンジはモンゴルによる征服以前はこの地域の首都であり、当時はイスラム世界全体の偉大な知的中心地の一つでした。 モンゴル人によって破壊されましたが、 そこにはまだいくつかの傑出した記念碑が残っています。 中央アジアで最も高いクトルグ・ティムールのミナレット。 モンゴル以前のスルタン・ テケシュとスルタン・アルスラーンの墓と、ナジメディン・クブラ（有名なスーフィー首長）の霊廟です。 ダショグズに戻り、アシガバート行きの午後便に乗ります。 今日は快適なホテルで食事をして寝ます。`,
 			},
 			14: {
-				title: `Departure. Transfer to airport.`,
+				title: `出発。 空港への送迎`,
 				text: ``,
 			},
 		},
 		splendour: {
-			title: `Splendour of Turkmenistan`,
+			title: `トルクメニスタンの素晴らしさ`,
 			1: {
-				title: 'Ashgabat arrival',
-				text: `Early morning arrival to Ashgabat. Transfer to hotel. Late morning excursion of Ashgabat, including a visit of the Arch of Neutrality and Independence Monument. Visit the of the Ertogrul Gazi mosque, Ashgabat's largest Mosque, and the memorial dedicated to the victims of the 1948 earthquake, which completely destroyed the city. Visit State Museum of Turkmenistan. This museum has 9 halls, each dedicated to a particular period and theme. One of the highlights in the museum is a unique collection of ivory rythons/ horn like vessels. Today you will also visit Nissa Fortress, built in 2nd century BC it was the first capital of Parthian Empire.After this unique visit Overnight in Diwan Hotel 4*`,
+				title: 'アシガバート到着',
+				text: `早朝にアシガバートに到着。 ホテルへ送迎。 中立のアーチと独立記念碑の訪問を含む、 アシガバートの深夜のツアー。 アシガバート最大のモスクであるエルトグルル ガジ モスクと、街を完全に破壊した 1948 年の地震の犠牲者を追悼する記念碑を訪れてください。 トルクメニスタン国立博物館を訪れます。 この博物館には 9 つのホールがあり、 それぞれが特定の時代とテーマに特化しています。 博物館のハイライトの 1 つは、象牙のリュトン/角のような器のユニークなコレクションです。 今日は、紀元前 2 世紀に建てられ、パルティア帝国の最初の首都となったニッサ要塞も訪問します。このユニークな訪問の後は、ディワン ホテル 4* で一泊します。`,
 			},
 			2: {
-				title: `Ashgabat- Mary`,
-				text: `After breakfast drive to Mary, some 370 km form Ashgabat. En route visit Seyit Jemaleddin Mosque and the Mausoleum of Abu Seyit Abul Hayr Mekhnei – in Turkmenistan called Mane Baba Shrine. Overnight in Mary hotel`,
+				title: `アシガバート～メアリー`,
+				text: `朝食後、アシガバートから約370km離れたメアリーへ向かいます。 途中、セイット・ジェマレディン・ モスクとマネ・ババ神社と呼ばれるトルクメニスタンのアブ・セイット・アブル・ハイル・メクネイ廟を訪れます。 メアリーホテルに宿泊`,
 			},
 			3: {
-				title: `Margush`,
-				text: `After early breakfast we drive northeast from Mary to Margush / Gonur Depe. Here first agricultural settlements appeared in the old delta of Murgab river as back as 3 millennium BC. Fertile silt coming from mountains, abundance of water and moderate climate had created favorable conditions for good crops and the progress of the ancient economy was continuing for several centuries. The American newspaper "Boston Globe" wrote that before we knew the four oldest centers of the world's civilizations: Mesopotamia, Egypt, India and China, and due to the fantastic results of the Margiana expedition it is quite possible to think that there was another, the fifth center. Picnic lunch. After lunch we will visit Mary regional museum. Overnight in Mary Hotel`,
+				title: `マーガシュ`,
+				text: `早めの朝食後、メアリーからマーグシュ/ゴヌール・デペまで北東にドライブします。 ここでは紀元前 3,000 年に遡り、ムルガブ川の古いデルタ地帯に最初の農業集落が現れました。 山から来る肥沃なシルト、豊富な水、穏やかな気候が豊作作物に好条件を生み出し、古代経済の進歩は数世紀にわたって続いた。 アメリカの新聞「ボストン・ グローブ」は、 私たちが世界文明の4つの最古の中心地であるメソポタミア、エジプト、インド、中国を知る前に、マルギアナ遠征の素晴らしい結果により、別の文明の中心地があったと考えることは十分に可能であると書いた。 5番目のセンター。 ピクニックランチ。 昼食後はメアリー地方博物館を訪問します。 メアリーホテルで一泊`,
 			},
 			4: {
-				title: `Mary – Turkmenabat`,
-				text: `Early morning visit the old city of Merv. Visit the unique series of cities, not built on top of each other, as is so often the case, for instance at Damascus or Jerusalem, but constructed on adjacent virgin sites. The sites of the ancient town Erk-Kala (the fortress- citadel), Gyaur-Kala, Sultan-Kala, Abdulla-khan-Kala correspond to the different periods of Mervs' existence .The monuments we will tour and walk through are the Great and Little Kiz Kalas, the Kiz Bibi mausoleum, the magnificent Mausoleum of Sultan Sanjar, the Palace and keshk in the Shahriar Ark or Royal Citadel, the mosque of Yusuf Hamdani, the Timurid iwans or Askhab, and the Mausoleum of Muhammad ibn Zeid. Then we will drive to Turkmenabat. Overnight in Turkmenabat city`,
+				title: `メアリー – トルクメナバート`,
+				text: `早朝、メルヴの旧市街を訪れます。 ダマスカスやエルサレムのように、 互いに積み重ねて建設されるのではなく、隣接する未開の場所に建設された、ユニークな一連の都市を訪れてください。 古代都市エルク・カラ (要塞 - 城塞)、ギャウル・ カラ、スルタン・ カラ、アブドゥラ・カーン・カラの遺跡は、メルヴスの存在のさまざまな時代に対応しています。私たちがツアーして通過する記念碑は、偉大な遺跡です。 リトル・キズ・ カラス、キズ・ ビビ廟、壮大なスルタン・サンジャル廟、シャフリアル・アークまたは王城塞の宮殿とケシュク、ユスフ・ハムダニのモスク、ティムール朝のイーワーンまたはアスハブ、そしてムハンマド・イブン・ザイドの廟。 その後、トルクメナバートへ向かいます。 トルクメナバート市で一泊`,
 			},
 			5: {
-				title: `Turkmenabat-Kugitang`,
-				text: `After breakfast drive to Kugitang Mountains. En route stop near Kaynar Baba Lake and Texas like mountains. Picnic Lunch. Then continue to drive toward Kugitang. Dinner and overnight at local guest house`,
+				title: `トルクメナバート～クギタン`,
+				text: `朝食後、クギタン山脈へ向かいます。 途中、 カイナーババ湖とテキサスのような山の近くに立ち寄ります。 ピクニックランチ。 その後、クギタンに向かって走り続けます。 地元のゲストハウスでの夕食と宿泊`,
 			},
 			6: {
-				title: `Kugitang`,
-				text: `After breakfast drive to visit Kugitang mountains. Today you will see here the huge footprints of Giant Lizards – Dinosaurs that passed here millions years ago. Then you will visit beautiful waterfall and the cave of 40 girls. Picnic lunch. Dinner and overnight in local g/h`,
+				title: `クギタン`,
+				text: `朝食後、クギタン山脈へ向かいます。 今日ここでは、 何百万年も前にここを通過した恐竜である巨大なトカゲの巨大な足跡を見ることができます。 その後、美しい滝と40人の少女の洞窟を訪れます。 ピクニックランチ。 夕食と一晩は現地 g/h で表示`,
 			},
 			7: {
-				title: `Kugitang – Turkmenabat – Ashgabat`,
-				text: `After breakfast drive back to Turkmenabat. Lunch en route.  Dinner in local restaurant in Turkmenabat. Take late evening flight to Ashgabat. Overnight in Diwan Hotel`,
+				title: `クギタン – トルクメナバート – アシガバート`,
+				text: `朝食後、トルクメナバートへ戻ります。 途中で昼食。 トルクメナバートの地元レストランで夕食。 夕方の飛行機でアシガバートへ。 ディワンホテルに宿泊`,
 			},
 			8: {
-				title: `Ashgabat – Dashoguz - Ashgabat`,
-				text: `After breakfast take morning flight to Dashoguz. Drive to visit Ancient Urgench or by its local name Koneurgench. Here you will see the unique mausoleum of Torebeghanym, mausoleum of Najmeddin Kubra and Fahreddin Razi. Lunch in local restaurant. Take evening flight to Ashgabat. Overnight in Diwan Hotel`,
+				title: `アシガバート – ダショグズ – アシガバート`,
+				text: `朝食後、朝の飛行機でダショグズへ向かいます。 車で古代ウルゲンチ、 または現地名コヌルゲンチを訪れましょう。 ここには、 トレベガニムのユニークな霊廟、 ナジメディン・クブラとファレッディン・ラージの霊廟があります。 地元のレストランでランチ。 夕方の飛行機でアシガバートへ。 ディワンホテルに宿泊`,
 			},
 			9: {
-				title: `Ashgabat – Darvaza`,
-				text: `Morning free. Afternoon drive to Darvaza gas crater. Dinner and overnight in tents near burning gas crater`,
+				title: `アシガバート – ダルヴァザ`,
+				text: `朝は自由。 午後はダルバザガスクレーターへ向かいます。 燃えるガスクレー ター 近くのテントで夕食と一晩`,
 			},
 			10: {
-				title: `Darvaza-Ashgabat`,
-				text: `After breakfast drive to Ashgabat. Overnight in Diwan Hotel`,
+				title: `ダルヴァザ～アシガバート`,
+				text: `朝食後、アシガバートへ向かいます。 ディワンホテルに宿泊`,
 			},
 			11: {
-				title: `Ashgabat-Dept`,
-				text: `Early morning transfer to Airport to take Turkish Airlines flight. See Off`,
+				title: `アシガバート署`,
+				text: `E早朝空港へ移動し、ターキッシュエアラインズの便に乗ります。 お見送り`,
 			},
 		},
 		n1: {
-			title: 'Tour N1',
+			title: 'ツアーN1',
 			1: {
-				title: `Airport-Ashgabat`,
-				text: `Meeting guests at the international airport in Ashgabat. Transfer to hotel. Welcome cocktail. After lunch going to “ BEDEV” horse farm to see selected the most beautiful Akhal-Teke horses. Dinner at the hotel.`,
+				title: `空港-アシガバート`,
+				text: `アシガバートの国際空港でゲストと会う。 ホテルへ送迎。 ウェルカムカクテル。 昼食後は「BEDEV」馬牧場へ行き、厳選された最も美しいアハルテケ馬を見に行きます。 ホテルで夕食`,
 			},
 			2: {
-				title: `Ashgabat-Sunche-Ashgabat`,
-				text: `Breakfast at the hotel. Visiting “horse household” in Sunche village.  En route, visting “dog farm”. From “Horse farm” riding horse to visit “ Kyrk Gyz”(trns. 40 girls) waterfall.Distance to waterfall 3 km. Return 3 km. After lunch come back to the “Horse farm” . Drive to Ashgabat. En route, visiting “Kow-Ata” underground lake. Dinner at the hotel in Ashgabat. Homeland alabai - Turkmenistan. In this country alabais were separated from other animals. Alabai - this is the breed that no one was mixed, so the original form has been saved. When people were tending their flocks, they used dogs to protect their populations, as the dogs were needed to fall cattle. Then life has changed, and the dog was necessary only for the defense and protection. Alabai was an assistant in guard duty. At that time there were many wild beasts, from which could only protect this breed of dog. The main features of alabai - it's endurance and simplicity in food. Alabai capable of very long time to work, to protect the herd from predators, to feed him, and thus can not have the whole day. The dog is able to come to grips with the wolf. Alabai can have bad food and still be strong. Weather is no obstacle for the dog.`,
+				title: `アシガバート-スンチェ-アシガバート`,
+				text: `ホテルで朝食。 スンチェ村の「馬家」訪問。 途中、「ドッグファーム」を訪問。 「ホースファーム」から馬に乗って「キルク・ギズ」 (女子40名) の滝を訪問。滝までの距離3km。 帰りは3km。 昼食後は「馬の牧場」へ戻ります。 アシガバートへ車で向かいます。 途中、地底湖「コウアタ」を訪問。 アシガバートのホテルで夕食。祖国アラバイ - トルクメニスタン。 この国ではアラバイは他の動物から隔離されていました。 アラバイ - これは誰も混合されなかった品種なので、元の形が保存されています。 人々が群れの世話をしていたとき、牛を倒すために犬が必要だったので、人々を守るために犬を使いました。 それから人生は変わり、犬は防衛と保護のためにのみ必要になりました。 アラバイさんは警備員の助手だった。 当時は多くの野獣がいたため、この犬種を守ることしかできませんでした。 アラバイの主な特徴は、耐久性とシンプルな食べ物です。 アラバイは群れを外敵から守り、餌を与えるために非常に長時間働くことができるため、丸一日過ごすことはできません。 犬はオオカミに近づくことができます。 アラバイは食べ物がまずくても強いことがあります。 天候は犬にとって障害ではありません。`,
 			},
 			3: {
-				title: `Ashgabat`,
-				text: `Breakfast. 
-					Visiting : 
-					“Altyn Asyr Gundogar” market.
-					“Saparmyrat Turkmenbashi Ruhi mosque” .
-					Lunch. 
-					Ashgabat city tour :
-					Excursion to “Independent Monument” .
-					 Visiting Turkmenistan State museum and Traditional Carpet Museum.
-					Overnight in the hotel.
-	
-					The national museum of Turkmen carpet was created in Ashkhabad by presidential decree in 1993.The museum was opened in order to recreate and preserve the national traditions of Turkmen carpet-weaving and also for carpet popularization of Turkmenistan.
-	It was designed for the collection of the best samples of carpet art,study,restoration and farther development of a manual carpet-weaving. Now the museum has up to 8000 different exhibits,the smallest carpet is 0,01 sq.metre and that which is considered as the biggest one in the world is 301 sq.metre,entered the Guiness Book of Records in 2003. There are also silk carpets in the museum which were woven by skilled craftsmen 3-4 centuries ago.
-	he State Museum of Turkmenistan was established in 1990, its total area is 15 thousand sq. metres. The museum consists of seven galleries, keeping the history of modern culture and ethnography of Turkmenistan. There are more than 116 000 unique items in the museum's collection. Here you can see thousands of archaeological monuments of old Nisa and Merv, as well as ancient Turkmen carpets, household items, samples of national clothes and fabrics, items made of precious metals.`,
+				title: `アシガバート`,
+				text: `朝食。
+				訪問先：
+				- 「Altyn Asyr Gundogar」マーケット。
+				- 「サパルミラット トルクメンバシ ルーヒ モスク」 。
+				ランチ。
+				アシガバート市内ツアー：
+				- 「独立記念碑」への遠足。 - トルクメニスタン国立博物館と伝統絨毯博物館の訪問。 - ホテルで一晩`,
 			},
 			4: {
-				title: `Ashgabat-Airport`,
-				text: `Brakfast.
-					Transfer to the international airport in Ashgabat. 
-					The end of the tour.`,
+				title: `アシガバート空港`,
+				text: `r朝食。 アシガバートの国際空港へ移動します。 ツアーの終わり。`,
 			},
 		},
 		pure: {
-			title: 'Turkmenistan Pure',
+			title: '純粋なトルクメニスタン',
 			1: {
-				title: `Ashgabat arrival, Old Nisa, State Museum, City tour of Ashgabat`,
-				text: `Arrival to Ashgabat. Overnight at a hotel. We start off our first day with a late morning drive through the city center to Old Nisa. Nisa fortress once upon a time was one of the residences of the Parthian Empire (247 BC-253 AD), stretching from the Kopetdag all the way across to the Persian Gulf and Anatolia. We visit the State Museum of Turkmenistan, which holds some of the country's most important historical and ethnographic treasures More than 500,000 exhibits are displayed here. Afterwards we stroll through the city center and a visit of the row of newly built monuments and fountains at the outskirts of this unusual city. The most fascinating monument is the Arch of Neutrality, the statue of the first President of Turkmenistan, Saparmurat Turkmenbashy. Overnight in hotel Diwan.`,
+				title: `アシガバート到着、オールドニサ、州立博物館、アシガバート市内ツアーa`,
+				text: `アシガバートに到着。 ホテルで一晩。 初日は、 市内中心部を通ってオー ルドニサまで早朝にドライブすることから始まります。 ニサ要塞はかつてパルティア帝国 (紀元前 247 年から紀元後 253 年) の居城の 1 つで、コペットダグからペルシャ湾とアナトリアまで広がっていました。 トルクメニスタン国立博物館を訪れます。ここには、この国で最も重要な歴史的および民族学的宝物のいくつかが収蔵されています。ここには 500,000 点以上の展示物が展示されています。 その後、市内中心部を散策し、 この珍しい街の郊外に新しく建てられた記念碑や噴水が並んでいる場所を訪れます。 最も魅力的な記念碑は、トルクメニスタンの初代大統領、サパルムラト トルクメンバシの像である中立のアーチです。 ホテルディワンに宿泊。`,
 			},
 			2: {
-				title: `Drive to Mary-Anau, Abiverd, Mausoleum of Abu Said Mekhneyi (360 km)`,
-				text: `In the morning we will visit Carpet Museum of Turkmenistan. Here you will see the biggest carpet in the world and other unique collections of carpets. Then continue our trip eastwards to the ruins to the most important site of Turkmen history  the ruins of Merv, some 360 km east of Ashgabat. En route we visit the ruins of Anau Mosque, another important place of worship for pilgrims. We also visit Abiverd and Meane Baba Mausoleum. According to Al Makdisi Abiverd was richer and more fertile than Parthian Nisa. Its shakhristan was surrounded by perimeter by the walls with rounded towers and the moat. A straight street connected the only town gates with the gates of the citadel. The Mausoleum of Abu Said Makneyi was built in 11th century and has the double dome that characterises mausoleums of that time. The inner part of the mausoleum is decorated with inscriptions while the portal is laced with mosaics. The mosaics offer various colours and pictures to the viewer. The entire mausoleum is decorated with Arabic inscriptions upon the outer area and designs ornate in inner areas. Overnight in Mary Hotel.`,
+				title: `メアリーアナウ、アビバード、アブ サイード メフネイ霊廟までドライブ (360 km)`,
+				text: `午前中はトルクメニスタン絨毯博物館を訪問します。 ここでは、 世界最大のカー ペットやその他のユニークなカーペットのコレクションをご覧いただけます。 その後、東に向かって旅を続け、アシガバートの東約 360 km にあるトルクメンの歴史の最も重要な場所であるメルブ遺跡へ向かいます。 途中、巡礼者にとってもう一つの重要な礼拝所であるアナウ・モスクの遺跡を訪れます。 アビバード廟とミーネ・ババ廟も訪問します。 アル・マクディシによれば、 アビバードはパルティア・ニサよりも裕福で肥沃な国だったという。 そのシャフリスタンは、丸い塔と堀を備えた城壁で周囲を囲まれていました。 唯一の町の門と城塞の門はまっすぐな通りで結ばれていました。 アブー サイード マクネイ霊廟は 11 世紀に建てられ、 当時の霊廟の特徴である二重ドー ムを備えています。 霊廟の内部は碑文で装飾されており、 門にはモザイクが施されています。 モザイクは見る人にさまざまな色と絵を提供します。 霊廟全体の外側はアラビア語の碑文で装飾され、内側は華やかなデザインが施されています。 メアリーホテルに宿泊。`,
 			},
 			3: {
-				title: `Margush-Museum (130 km one way)`,
-				text: `After early breakfast we drive northeast from Mary to Margush / Gonur Depe (40 km by 4WD). Here first agricultural settlements appeared in the delta of Murgab river as back as 3 millennium BC. Fertile silt coming from mountains, abundance of water and moderate climate had created favourable conditions for good crops and the progress of the ancient economy was continuing for several centuries. The American newspaper "Boston Glob" wrote that before we knew the four oldest centers of the world's civilizations: Mesopotamia, Egypt, India and China, and due to the fantastic results of the Margiana expedition it is quite possible to think that there was another, the fifth center. Picnic lunch. We come back to Mary to visit the museum. Here have been arranged an impressive displays of archeological finds from sites excavated in the oasis and also mounted an informative and attractive display of the world famous Turkmen carpets, Turkmen dress and domestic equipment. Overnight in Mary Hotel 3*.`,
+				title: `マーグシュ博物館 (片道130km)`,
+				text: `早めの朝食後、メアリーからマーグシュ / ゴヌール デペまで北東にドライブします (4WD で 40 km)。 ここでは紀元前 3,000 年に遡り、 ムルガブ川のデルタ地帯に最初の農業集落が現れました。 山から来る肥沃なシルト、豊富な水、穏やかな気候が豊作作物に好条件を生み出し、古代経済の進歩は数世紀にわたって続いた。 アメリカの新聞「ボストン・グロブ」は、 私たちが世界文明の4つの最古の中心地であるメソポタミア、エジプト、インド、中国を知る前に、マルギアナ遠征の素晴らしい結果により、別の文明の中心地があったと考えることは十分に可能だと書いた。 5番目のセンター。 ピクニックランチ。 私たちは博物館を訪れるためにメアリーに戻ります。 ここには、 オアシスで発掘された遺跡からの考古学的出土品の印象的な展示が配置されており、また、世界的に有名なトルクメン絨毯、トルクメンの衣装、家庭用品などの有益で魅力的な展示も設置されています。 Mary Hotel 3* に宿泊。`,
 			},
 			4: {
-				title: `Mary Merv-Turkmenabat (260 km)`,
-				text: `Before driving to Turkmenabat  we'll visit the old city of Merv. Visit the unique series of cities, not built on top of each other, as is so often the case, for instance at Damascus or Jerusalem, but constructed on adjacent virgin sites. The sites of the ancient town Erk-Kala (the fortress- citadel), Gyaur-Kala, Sultan-Kala, Abdulla-khan-Kala correspond to the different periods of Mervs' existence .The monuments we will tour and walk through are the Great and Little Kiz Kalas, the Kiz Bibi mausoleum, Buddhist Stupa, the magnificent Mausoleum of Sultan Sanjar, the Palace and keshk in the Shahriar Ark or Royal Citadel, the mosque of Yusuf Hamdani, the Timuridiwans or Askhab, and the Mausoleum of Muhammad ibn Zaid. Overnight in Yupek Yoly Hotel.`,
+				title: `メアリー・メルブ・トルクメナバート (260km)`,
+				text: `トルクメナバートへ向かう前に、メルブの旧市街を訪れます。 ダマスカスやエルサレムのように、互いに積み重ねて建設されるのではなく、隣接する未開の場所に建設された、ユニークな一連の都市を訪れてください。 古代都市エルク・ カラ (要塞 - 城塞)、ギャウル・ カラ、スルタン・ カラ、アブドゥラ・ カーン・カラの遺跡は、メルヴスの存在のさまざまな時代に対応しています。私たちがツアーして通過する記念碑は、偉大な遺跡です。 リトル・キズ・カラス、 キズ・ビビ廟、仏塔、壮大なスルタン・サンジャル廟、シャフリアル・アークまたは王城塞の宮殿とケシュク、ユスフ・ハムダニのモスク、ティムリディワンまたはアスハブ、そしてムハンマド・イブン・ザイード廟 。 Yupek Yoly Hotelに宿泊。`,
 			},
 			5: {
-				title: `Turkmenabat – Kugitang  ( 380 km)`,
-				text: `After breakfast drive to Kugitang. En route visit Astana Baba and Alemberdar Mausoleums. Picnic lunch near Kaynar Baba sulphured lake. En route you will see Texas like mountains. Dinner and overnight in local guest house.`,
+				title: `トルクメナバート~クギタン (380km)`,
+				text: `朝食後、クギタンへ向かいます。 途中、アスタナ ババとアレンベルダル廟を訪れます。 カイナー ババ硫黄湖の近くでピクニック ランチ。 途中、テキサスの山々が見えます。 夕食と地元のゲストハウスでの宿泊。`,
 			},
 			6: {
-				title: `Kugitang`,
-				text: `After breakfast we will travel together to the Kugitang. We will visit Dinosaurs platoe and see the footprints of dinosaurs, cave of 40 girls, Umbar dere waterfall. Dinner and overnight in local guest house`,
+				title: `クギタン`,
+				text: `朝食後、一緒にクギタンへ向かいます。 恐竜プラトーを訪れ、 恐竜の足跡、 40人の少女の洞窟、ウンバールデレ滝などを見学します。 地元のゲストハウスでの夕食と宿泊`,
 			},
 			7: {
-				title: `Kugitang – Turkmenabat  - Ashgabat`,
-				text: `After breakfast drive to Turkmenabat. Lunch en route. Take evening flight to Ashgaabt Overnight in Diwan Hotel`,
+				title: `クギタン – トルクメナバート – アシガバート`,
+				text: `朝食後、トルクメナバートへ向かいます。 途中で昼食。 夕方の飛行機でアシガバートへ ディワンホテルで一泊`,
 			},
 			8: {
-				title: `Ashgabat - Darvaza`,
-				text: `Afternoon  drive to Darvaza. Dinner and overnight in tents`,
+				title: `アシガバート - ダルヴァザ`,
+				text: `午後からはダルバザへ向かいます。 夕食とテント泊`,
 			},
 			9: {
-				title: `Darvaza - Tolkuchka bazaar - Ashgabat`,
-				text: `After breakfast drive to Ashgabat. En route visit Bokurdak and Yerbent Ýillages. Overnight in the Diwan hotel`,
+				title: `ダルヴァザ - トルクチカバザール - アシガバート`,
+				text: `朝食後、アシガバートへ向かいます。 途中、ボクルダックとイェルベントの村を訪れます。 ディワンホテルに宿泊。`,
 			},
 			10: {
-				title: `Departure home`,
-				text: `Morning transfer to Airport`,
+				title: `帰国`,
+				text: `朝の空港送迎`,
 			},
 		},
 		undiscovered: {
-			title: 'Undiscovered Turkmenistan - The nomadic Silk Road frozen in time and sand',
+			title: '未発見のトルクメニスタン - 時間と砂で凍りついた遊牧民のシルクロード',
 			1: {
-				title: `Ashgabat Arrival Acclimatization, Monuments, Silk Makers`,
-				text: `Breakfasting at the hotel we take it easy after the relatively late arrival. We start off our first day with a late morning stroll through the city centre and a visit of the row of newly built monuments and fountains at the outskirts of this unusual city. The most fascinating monument is probably the Arch of Neutrality featuring a 12 m gold statue of Turkmenistan's First President, Saparmurat Turkmenbashi. We lunch at the Altyn Asyr, the fountain of the 'Golden Century' with a splendid view of the Kopetdag Mountains getting our first impression of the this unusual country. After a rest at the hotel we continue with a visit a family of silk makers in a private house nearby the city centre. Traditionally the Keteni-Silk woven by the various Turkmen tribes is much harder than other silks in the region and unlike the Uzbek and Tadjik Ikat the thread is dyed separately before preparation of the warp. Keteni has undergone some very positive recent revival and curious evolutions and is again worn by Turkmen women and girls on most festive occasions. With a cup of tea we will watch the entire processing of the dying, threading, warp preparation and the actual weaving. Afterwards we visit Ashgabat's most excellent mosque with its outstanding calligraphies and dine at an outside restaurant.`,
+				title: `アシガバート到着 高度順応、記念碑、製糸業者 比較的遅く到着した後、 ホテルで朝食をとり、 ゆっくりと過ごします。`,
+				text: `初日は、市内中心部の早朝の散歩と、 この珍しい都市の郊外に並ぶ新しく建てられた記念碑や噴水の訪問から始まります。 最も魅力的な記念碑はおそらく、トルクメニスタン初代大統領サパルムラット トルクメンバシの高さ 12 メートルの金の像を備えた中立のアーチでしょう。 私たちは、 コペットダー 山脈の素晴らしい景色を眺めながら、「黄金の世紀」の噴水であるアルティン・アジールで昼食をとり、この珍しい国の第一印象を感じます。 ホテルで休憩した後、 市内中心部近くの民家にいる製糸業者の家族を訪問します。 伝統的に、 トルクメンのさまざまな部族によって織られるケテニ シルクは、 この地域の他のシルクよりもはるかに硬く、ウズベキスタンやタジクのイカットとは異なり、糸は縦糸を準備する前に別々に染色されます。 ケテニは、 最近非常に前向きな復活と興味深い進化を遂げており、トルクメニスタンの女性や少女がほとんどのお祝いの機会に再び着用しています。 お茶を飲みながら、染色、糸通し、 経糸の準備、 実際の織りの全工程を見学します。 その後、 優れた書道があるアシガバー トで最も優れたモスクを訪問し、屋外のレストランで食事をします。`,
 			},
 			2: {
-				title: `Carpet Museum, Carpet workshop, Namazga shrine and Nissa fortress`,
-				text: `After breakfast we visit Ashgabat's Carpet Museum - one of the most comprehensive carpet collections worldwide displaying over 500 exhibits from different periods and one of the carpet giants. In their symbolism and ornamentals Turkmenistan's carpets, (commonly known throughout the world as Bukhara rugs), its Palas- and its Chuval-weavings represent some of the most important national symbols and roots of the cultural heritage of the country. During your visit to the museum and to the carpet workshop later in the afternoon you will be introduced to the ancient history and evolution of the art of weaving and knitting of Turkmenistan's tribes.After lunch and siesta we continue with a traditional carpet workshop and later on to the first holy shrine we visit on our trip. Shrine pilgrimage forms an important part of Turkmen culture and has been preserved throughout the Soviet period to an extraordinary level uncommon to the otherwise traditionally more Islamic region. At the Namazaga mausoleums and shrines, some 15 km west of Ashgabat you will witness some of the strongest traditions of the various cults of fertility and fire all performed under an Islamic cover. The mainly female pilgrims to the shrine evolve in various cults of stone rubbing and turning, visioning, mud throwing and prostration throughout different parts of the building structure, which have been adapted to these most honest and beautiful traditions for centuries. There are over 1,000 such shrines in Turkmenistan some of which we visit on our trip.After visiting the Shrine we continue across the ragged roads before the foothills of the Kopetdag to Nissa Fortress - once an important base of the Parthian Empire (247 BC - 253 AD), stretching from the Kopetdag all the way across to the Persian gulf and Anatolia. With the first excavations in the early 20th century the 14 ha walled territory is one of the most important capital settlements of this early, little-known, wine-loving culture with a strong blend of Greek and Oriental influences. Apart from the ruins of the various temples and treasuries its proudest finds are the famous ivory Rithons, cult drinking vessels that are unique to this picturesque site and which we will see at the National Museum later throughout our voyage. We dine at another of Ashgabat mainly Turkish restaurants and enjoy the facilities of our excellent hotel.`,
+				title: `カーペット博物館、カーペットワークショップ、ナマズガ神社、ニッサ要塞`,
+				text: `朝食後、 アシガバートのカーペット博物館を訪れます。この博物館は、さまざまな時代の 500 以上の展示物を展示する世界中で最も包括的なカーペット コレクションの 1 つであり、 カーペットの巨人の 1 つです。 トルクメニスタンの絨毯（一般にブハラ絨毯として世界中で知られている）、パラス織物とチュヴァル織物は、その象徴性と装飾において、この国の文化遺産の最も重要な国家的シンボルとルーツの一部を表しています。 博物館と午後遅くのカーペットワークショップへの訪問中に、 古代の歴史とトルクメニスタンの部族の織りと編み物の芸術の進化について紹介されます。昼食とシエスタの後、私たちは伝統的なカーペットワークショップを続け、その後に続きます。 旅で最初に訪れる聖地へ。 神社への巡礼はトルクメン文化の重要な部分を形成しており、 ソビエト時代を通じて伝統的によりイスラム的な地域では珍しい異常なレベルまで保存されてきました。 アシガバートの約 15 km 西にあるナマザガの霊廟と神社では、 イスラムの隠れ蓑の下で行われる、 豊饒と火のさまざまな崇拝の最も強力な伝統のいくつかを目撃するでしょう。 神社への主に女性の巡礼者は、建物の構造のさまざまな部分で、石をこすったり回したり、幻視したり、泥を投げたり、ひれ伏したりするさまざまなカルトを展開しており、これらは何世紀にもわたってこれらの最も正直で美しい伝統に適応してきました。 トルクメニスタンにはそのような神社が 1,000 か所以上あり、旅行中にその一部を訪れます。神社を訪れた後、私たちは引き続きコペトダグのふもとの荒れた道を横切り、かつてはパルティア帝国 (紀元前 247 年から紀元前 253 年) の重要な拠点であったニッサ要塞へと向かいます。 AD)、コペットダグからペルシャ湾とアナトリアまでずっと広がっています。 20 世紀初頭に最初の発掘が行われ、14 ヘクタールの城壁に囲まれたこの領土は、 ギリシャと東洋の影響が強く融合した、この初期のあまり知られていないワインを愛する文化の最も重要な首都集落の 1 つです。 さまざまな寺院や宝物庫の遺跡のほかに、 この地で最も誇りに思っているのは、この絵のように美しい場所に特有の、カルト的な飲み物である有名な象牙のリトンです。これは、旅の後半に国立博物館で見ることになります。 私たちはアシガバー トの別の主にトルコ料理レストランで食事をし、素晴らしいホテルの設備を楽しみました。`,
 			},
 			3: {
-				title: `Flight to Dashogus, Izmukshir`,
-				text: `In the morning we take a local flight to Dashogus some 500 km into the north of the country. Here the former Empire of Khorezm, once one of the Great Powers along the Silk Road, stretches both on Turkmen and Uzbek territory. With a unique language forming a mix of the Turkmen Northern Yomud dialects, Karakalpak and western Uzbek the friendly people of this area have preserved a strong tradition and with its link to the Amudarya canal systems a relatively urban culture. Donkey carts and roof hay stacks on the large farm houses are as typical to the area as are the mainly Uzbek colours in the silk dress of many of the Khorezm women.We spend the first day in the outskirts of the regional capital, Dashogus (formerly Tashauz), where we visit a Dutar maker and a carpenter - both arts being of very regional strong tradition.Further we visit another of the country's ancient cities Izmukshir or Zamakshar dating back to the 3rd c. BC and the ruins of which stretch over an enormous territory covered by tamarisk bushes and terracotta shreds some 10 km out of Dashogus.We dine at a local Korean restaurant and stay at the best Hotel in town.`,
+				title: `イズムクシルのダショグスへのフライト`,
+				text: `朝、 ローカル便で国の北約500キロにあるダショグスへ向かいます。 ここには、かつてシルクロード沿いの大国の一つであった旧ホレズム帝国がトルクメンとウズベクの両方の領土に広がっています。 トルクメン北部ヨムド方言、 カラカルパク方言、 西部ウズベク語が混ざり合った独特の言語を持つこの地域のフレンドリーな人々は、強い伝統を守り、アムダリヤ運河系とのつながりにより比較的都会的な文化を保ってきました。 ロバの荷車や大きな農家の屋根に積み上げられた干し草は、ホレズム族の女性の多くが着ている主にウズベキスタンの色彩の絹のドレスと同じくらい、この地域の典型的なものです。私たちは最初の日を、地域の首都ダショグス（以前はダショグス）の郊外で過ごします。 タシャウズ）で、 私たちはドゥタールの職人と大工を訪問します。どちらの芸術も非常に地域的な伝統が強いものです。さらに、この国のもう一つの古代都市、イズムクシルまたはザマクシャールを訪れます。その歴史は3世紀に遡ります。 BC州とその遺跡は、 ダショーグスから約10km離れたタマリスクの茂みとテラコッタの破片で覆われた広大な領土に広がっています。私たちは地元の韓国料理レストランで食事をし、町で最高のホテルに泊まります。`,
 			},
 			4: {
-				title: `Konye Urgench, Darwaza`,
-				text: `After breakfast we continue across the irrigated land of the area to Konye Urgench, the ancient capital of Khorezm before Timur destroyed it in favour of his new capitals in Khiva and Samarkand in the 15th century. This UN-World-Heritage site is by far Turkmenistan's visually most impressive one featuring the tallest minaret of Central Asia, the Gutlug Timur and and with Turabeg Khanum one of the most philosophical and earliest cupolas of the Islamic world. The characteristic conic cupolas and the quality of the tile-work of the various mausoleums remain unique for their age and preservation throughout the Orient. After visiting the monuments we embark on our long journey across the Karakum desert - the "Black Desert", not for its colour but for its reputation as one of the fiercest deserts in the world. After the last ancient outposts of Khorezm some 80 km south of Konye Urgench we enter the typical desert territory of dunes grown over by sparse saxaul and acacia trees and salt marshes that the locals call 'Takyrs'. The rough asphalt road leads through the territories that had once been inhabited by the slave trading warring Turcoman tribes and lets its visitor drowse into the times of ancient explorers and espionage.We reach the first oasis after a 280 km drive across the practically uninhabited land. Here at Darvaza Oasis the nomadic heritage of this remote country has survived almost perfectly. Most of the families set up traditional Summer yurts in front their simple houses. Life revolves around the sheep and the camel, which seem to be present almost everywhere. We spend the night in traditional yurts and tents near a chaykhana road-inn on the outside of the village and taste the traditional home-cooked dishes.`,
+				title: `ダルワザ、コニエ・ウルゲンチ`,
+				text: `朝食後、地域の灌漑地を横切り、 15世紀にティムールがヒヴァとサマルカンドの新首都を求めてホレズムの古都を破壊する前の古都、コニエ・ウルゲンチへ向かいます。 この国連世界遺産は、 中央アジアで最も高いミナレットであるグトゥルグ ティムールと、 イスラム世界で最も哲学的で最も初期のキューポラの 1 つであるトゥラベグ カヌムを特徴とする、トルクメニスタンで最も視覚的に印象的な場所です。 さまざまな霊廟の特徴的な円錐形のキューポラとタイル細工の品質は、その年代と保存状態の点で東洋全土で唯一無二のものであり続けています。 記念碑を訪れた後、 私たちはカラクム砂漠を横切る長い旅に乗り出します。「黒い砂漠」は、その色のためではなく、世界で最も激しい砂漠の一つとしての評判のためです。 コニエ・ ウルゲンチから約80km南にあるホラズムの古代の最後の前哨基地を過ぎると、まばらなサクソールやアカシアの木が生い茂る砂丘と、地元の人々が「タキル」と呼ぶ塩性湿地からなる典型的な砂漠地帯に入ります。 でこぼこしたアスファルトの道は、 かつて奴隷貿易で争っていたトルコマン族が住んでいた地域を通り抜け、訪問者を古代の探検家やスパイ活動の時代にタイムスリップさせてくれます。ほとんど無人の土地を280kmドライブした後、最初のオアシスに到着します。 ここダルヴァザ オアシスでは、 この辺境の国の遊牧民の遺産がほぼ完全に残っています。 ほとんどの家族は、 シンプルな家の前に伝統的な夏のパオを設置します。 生活は羊とラクダを中心に展開しており、 これらはほとんどどこにでも存在するようです。 私たちは村外れのチャイカナロー ドイン近くの伝統的なパオとテントで夜を過ごし、伝統的な家庭料理を味わいます。`,
 			},
 			5: {
-				title: `Darwaza, Yerbent, Ashgabat`,
-				text: `In the morning we stroll through the oasis watching people evolve in their everyday duties such as the milking of the camels, the preparation of fermented camel-milk, Chal and of wool for felting and dough and bread-making. We are usually greeted by the village elders, the "Aksakal", with their long beards and enormous fur hats, the Telpek, worn as a sign of wisdom and protection against the intense sunlight. The elders, both men and also women have a lot of authority in these rural villages and their decisions are respected as the law. It is here in the desert where we can witness the interesting role of the women as the main work power and despite a superficial suppression a powerful voice in the world of clan and family. We continue along the slightly better road to the next oasis, Erbent, where we enjoy a traditional roadside lunch of the national Daurama bread soup and visit a felt making family. The various felts ornaments from each Turkmen village and clan are different to each other and most of them of very ancient origin and symbolism. Only the core pattern of the scorpion tail and the horns of the ram are repeated throughout all tribes. We watch the entire process from the layout of the pattern to the tremendous work of the manual rolling of the wet felt by 2-3 women. Resting in the shade of the few trees amongst the yurts and shacks we are also shown the almost forgotten tradition of bread making in the ashes of a fire. The oasises here in the Central Karakum are also home to the Tazy dogs - a beautiful Turkmen hunting breed similar in shape to Afghan dogs. We continue in the late afternoon to Ashgabat where we enjoy the Diwan Hotel and a dinner at the Italian restaurant.`,
+				title: `ダルワザ、イェルベント、アシガバート`,
+				text: `午前中はオアシスを散策し、 ラクダの乳搾り、 発酵させたラクダ乳、チャル、フェルトや生地、パン作りのための羊毛の準備など、日々の仕事の中で人々が進化していくのを眺めます。 。 私たちは通常、 長いひげと知恵のしるしと強い日差しから身を守るためにかぶった巨大な毛皮の帽子、テルペックをかぶった村の長老「アクサカル」に迎えられます。 これらの田舎の村では、 男性も女性も含めた長老たちが大きな権限を持っており、彼らの決定は法律として尊重されています。 ここ砂漠では、主な労働力としての女性の興味深い役割、そして表面的な抑圧にもかかわらず、氏族と家族の世界で強力な発言力を持っている女性の興味深い役割を目の当たりにすることができます。 私たちは次のオアシスであるエルベントまで少し良い道を進み、そこで伝統的な道端での国立ダウラマのパンスープのランチを楽しみ、フェルト作りの家族を訪問します。 トルクメンの各村や氏族のさまざまなフェルト装飾品は互いに異なり、そのほとんどは非常に古い起源と象徴性を持っています。 サソリの尾と雄羊の角の中心となるパターンだけが、 すべての部族で繰り返されます。 模様のレイアウトから、 2~3人の女性による濡れたフェルトを手で丸める大変な作業に至るまで、全工程を見学します。 パオや小屋に囲まれた数本の木陰で休んでいる私たちは、火の灰の中でパンを作るというほとんど忘れ去られている伝統も見せてもらいました。 ここ中央カラクムのオアシスには、 アフガニスタン犬に形が似た美しいトルクメン狩猟犬タジー犬の生息地もあります。 午後遅くにアシガバートへ向かい、ディワン ホテルで宿泊し、イタリアン レストランでディナーをお楽しみください。`,
 			},
 			6: {
-				title: `Relax, bazaar, horses`,
-				text: `After the breakfast at the Hotel in the morning we are free time to visit the local bazaars and carpet shops or to relax at the hotel pool. The Russian bazaar with its colourful display of fruits and vegetables is by far the best market in the country. Shopping and bargaining in the bazaar is an important part of the oriental culture and the saleswomen are very friendly and most curious to talk to. Amongst the delicacies - depending on the season you will find huge divine pink tomatoes, enormous juicy pomegranates, 1000's of different fragrant sweet melons, roasted apricot kernels and excellent smoked sturgeon. After lunch in the afternoon we visit a private Akhal Teke stud farm in outside of Ashgabat. The Akhal Teke horse is another national symbol and is depicted in the centre of Turkmenistan's coat of arms. The exotically beautiful, extravagantly graceful and versatile Akhal-Teke horse was, until recently not well known outside of the former Soviet Union. This most unusual breed of riding horse, highly regarded for its speed, stamina, comfortable gaits, intelligence and trainability, is currently enjoying a well-deserved surge of popularity outside of its traditional homeland of Turkmenistan and neighbouring Russia. ornaments clearly identify each tribe and clan. Overnight in hotel.`,
+				title: `リラックス、バザール、馬`,
+				text: `ホテルでの朝食後は、 地元のバザールやカー ペットショップを訪れたり、ホテルのプールでリラックスしたりする自由時間があります。 色とりどりの果物や野菜が並ぶロシアン バザールは、この国で最も優れた市場です。 バザールでの買い物や値切り交渉は東洋文化の重要な部分であり、店員はとてもフレンドリーで、とても話したくなります。 珍味の中には、季節に応じて、 巨大な神聖なピンクのトマト、 巨大でジューシーなザクロ、何千もの異なる香りの甘いメロン、ローストしたアプリコット粒、そして素晴らしい燻製チョウザメが見つかります。 午後の昼食後、アシガバー ト郊外にある民間のアハル・テケ種馬牧場を訪問します。 アハル・テケ馬ももう一 つの国の象徴であり、トルクメニスタンの国章の中央に描かれています。 エキゾチックに美しく、 非常に優雅で多才なアハルテケ馬は、最近まで旧ソ連以外ではあまり知られていませんでした。 この最も珍しい品種の乗馬馬は、そのスピード、スタミナ、快適な歩き方、知性、訓練のしやすさで高く評価されており、現在、伝統的な故郷であるトルクメニスタンや隣国ロシア以外でも当然のことながら人気が急増しています。 装飾品は各部族と氏族を明確に識別します。 ホテルで一晩`,
 			},
 			7: {
-				title: `Drive to Mary - Anau, Meane Baba, Mary Museum`,
-				text: `In the morning we continue our trip eastwards to the ruins to the most important site of Turkmen history - the ruins of Merv at Bairamaly city some 350 km east of Ashgabat. At the beginning of our we drive we visit Anau Mosque, another important place of worship for pilgrims on the grounds of the ruins of Ashgabat's formerly most splendid mosque. The pre-islamic history of the site has recently been recognised in the world news for a unique find of a bronze age seal. The inscriptions on this tiny seal found in 2,000 possibly display hieroglyphs of an unknown antique language. This spectacular find may indeed be another confirmation for the existence of a sophisticated fire worshipping culture in the foothills of the Kopetdag some 3,500 to 4,000 years ago challenging the writing of early history of human cultures.From Anau we continue detouring to the Mausoleum of Meane Baba. is the mausoleum of one of the greatest Sufi teachers and philosophers of the 11th century, Abu Sahyt and said to have very strong magic powers. The tile-work on the entrance portal is highly remarkable and so are the simple floral designs on the inner cupola and sidewalls. With its two caretakers from the holy Ata tribe the Mausoleum serves as another important place of pilgrimage as the tiny cradles and material shreds, which are placed around the tomb by women wishing fertility, indicate. After a lunch picnic at the shrine guesthouse we continue to Mary city where we relax at the guesthouse.Before dinner in preparation of our visit of Merv, which we visit the next day, we visit the extraordinary Mary Museum, with one of the best ethnographic and archaeological collections in Central Asia. The upper floor boasts an extensive permanent display of Turkmen ethnography with additional sections on the Baluch and early Russian involvement in this region. On the ground floor the new permanent exhibition of partially unpublished archaeological material mostly displays finds from excavations at the Bronze Age sites in the northern part of the Merv oasis, or various Sasanian-Islamic discoveries at Merv. We dine and spend the night at Mary Hotel.`,
+				title: `メアリーへドライブ - アナウ、ミーン・ババ、メアリー博物館`,
+				text: `午前中、 私たちはトルクメンの歴史の最も重要な遺跡、アシガバートの東約350kmにあるバイラマリー市のメルブ遺跡へ東への旅を続けます。 ドライブの初めに、 かつてアシガバー トで最も壮麗なモスクの遺跡の敷地内にある、巡礼者にとってもう一つの重要な礼拝場所であるアナウ モスクを訪れます。 この場所のイスラム化以前の歴史は、 青銅器時代の印章のユニー クな発見により、最近世界のニュースで認められました。 2,000 枚見つかったこの小さな印章の碑文には、未知の古代言語の象形文字が表示されている可能性があります。 この素晴らしい発見は、約 3,500 年から 4,000 年前にコペットダッグ山麓に洗練された拝火文化が存在したことを裏付ける新たな証拠となる可能性があり、人類文化の初期史の記述に挑戦します。アナウからは、ミーネ ババ霊廟への寄り道を続けます。 。 ここは 11 世紀の最も偉大なスーフィー教の教師であり哲学者の一人、 アブー・サヒットの霊廟であり、非常に強力な魔法の力を持っていると言われています。 入り口のポータルのタイル細工は非常に注目に値し、内側のキューポラと側壁のシンプルな花柄も同様です。 聖なるアタ族の二人の管理人がいるこの霊廟は、 子宝を願う女性たちが墓の周りに置いた小さなゆりかごや材料の破片が示すように、もう一つの重要な巡礼の場所として機能しています。 シュライン ゲストハウスでランチ ピクニックをした後、私たちはメアリー市に向かい、ゲストハウスでリラックスします。翌日訪問するメルヴ訪問に備えて夕食前に、最高の民族誌の 1 つである特別なメアリー博物館を訪れます。 中央アジアの考古学コレクション。 上層階には、 バルーチ川とこの地域への初期のロシアの関与に関する追加セクションを含む、トルクメン民族誌の広範な常設展示が自慢です。 1階では、部分的に未公開の考古学資料の新しい常設展示では、 主にメルヴ・オアシス北部の青銅器時代の遺跡での発掘品や、メルヴでのサーサーン朝・イスラム時代のさまざまな発見が展示されています。 私たちはメアリーホテルで食事をし、夜を過ごしま`,
 			},
 			8: {
-				title: `Merv-Margush-Ashgabat`,
-				text: `After early breakfast we drive northeast from Mary to Margush / Gonur Depe (40 km Off Road). Here first agricultural settlements appeared in the delta of Murgab river as back as 3 millennium BC. Fertile silt coming from mountains, abundance of water and moderate climate had created favourable conditions for good crops and the progress of the ancient economy was continuing for several centuries. The American newspaper "Boston Glob" wrote that before we knew the four oldest centers of the world's civilizations: Mesopotamia, Egypt, India and China, and due to the fantastic results of the Margiana expedition it is quite possible to think that there was another, the fifth center. Picnic lunch. On our way back to Mary we'll visit the old city of Merv. Visit the unique series of cities, not built on top of each other, as is so often the case, for instance at Damascus or Jerusalem, but constructed on adjacent virgin sites. The sites of the ancient town Erk-Kala (the fortress- citadel), Gyaur-Kala, Sultan-Kala, Abdulla-khan-Kala correspond to the different periods of Mervs' existence .The monuments we will tour and walk through are the Great and Little Kiz Kalas, the Kiz Bibi mausoleum, the magnificent Mausoleum of Sultan Sanjar, the Palace and keshk in the Shahriar Ark or Royal Citadel, the mosque of Yusuf Hamdani, the Timuridiwans or Askhab, and the Mausoleum of Muhammad ibn Zeid. Return to Mary to take flight to Ashgabat. Overnight in Ashghabat.`,
+				title: `メルブ-マルグシュ-アシガバート`,
+				text: `早めの朝食後、 メアリーからマルグシュ/ゴヌール・デペまで北東にドライブします (オフロード40km)。 ここでは紀元前 3,000 年に遡り、ムルガブ川のデルタ地帯に最初の農業集落が現れました。 山から来る肥沃なシルト、豊富な水、穏やかな気候が豊作作物に好条件を生み出し、古代経済の進歩は数世紀にわたって続いた。 アメリカの新聞「ボストン・ グロブ」は、 私たちが世界文明の4つの最古の中心地であるメソポタミア、エジプト、インド、中国を知る前に、マルギアナ遠征の素晴らしい結果により、別の文明の中心地があったと考えることは十分に可能だと書いた。 5番目のセンター。 ピクニックランチ。 メアリーに戻る途中、メルヴの旧市街を訪れます。 ダマスカスやエルサレムのように、互いに積み重ねて建設されるのではなく、隣接する未開の場所に建設された、ユニークな一連の都市を訪れてください。 古代都市エルク・カラ (要塞 - 城塞)、 ギャウル・カラ、スルタン・カラ、アブドゥラ・カーン・カラの遺跡は、メルヴスの存在のさまざまな時代に対応しています。私たちがツアーして通過する記念碑は、偉大な遺跡です。 リトル・ キズ・カラス、キズ・ビビ廟、スルタン・サンジャルの壮大な霊廟、シャフリアル・アークまたは王城塞の宮殿とケシュク、ユスフ・ハムダニのモスク、ティムリディワンまたはアスハブ、そしてムハンマド・イブン・ザイドの霊廟。 メアリーに戻り、アシガバート行きの飛行機に乗ります。 アシガバートで一泊。`,
 			},
 			9: {
-				title: `State Museum`,
-				text: `After breakfast at the hotel we visit the State Museum of Turkmenistan, which holds some of the county's most important historical and ethnographic treasures. Above all there should be mentioned the ivory rithons found at Nissa Fortress as visited earlier as well as some of the most precious finds from the bronze age sites throughout the country.After Lunch we are invited to a girls Lyceum where we are presented a small cultural programme by the class and enjoy lots of smiles and curious questions of the pupils. Then we will take a ride on cable car to visit one of the most beautiful sites of Turkmenistan and having late lunch in the restaurant on mountains. Overnight in hotel.`,
+				title: `州立博物館`,
+				text: `ホテルでの朝食後、 トルクメニスタン国立博物館を訪れます。 ここには、トルクメニスタンで最も重要な歴史的および民族学的宝物がいくつか収蔵されています。 とりわけ、以前に訪れたニッサ要塞で発見された象牙のリトンや、全国各地の青銅器時代の遺跡からの最も貴重な発見物のいくつかについて言及する必要があります。昼食後、私たちは女子体育館に招待され、そこで小さな文化的な講義が行われます。 クラスごとにプログラムを行い、 生徒たちのたくさんの笑顔と好奇心旺盛な質問をお楽しみください。 その後、ケーブル カーに乗ってトルクメニスタンで最も美しい場所の 1 つを訪れ、 山の上のレストランで遅い昼食をとります。 ホテルで一晩`,
 			},
 			10: {
-				title: `Nokhur`,
-				text: `On our last excursion into the west of the country we visit an entirely different culture of the Nokhur tribe deep in the Kopetdag mountains. In order to reach this relatively remote area we leave Ashgabat westwards at first passing by the Geok Tepe mosque. The Mosque with a beautiful turquoise dome was build recently on the ruins of the former fortress with the same name - the place of the last resistance of the Turcoman tribes against the Russian annexation in 1881. We continue further to the site the mystical place of Murche, located 118 km to the west of Ashgabat. This site is an ancient village in the foothills of the Kopetdag Mountains filled with ancient ruins, mysticism, and deities. In Murche, which is another holy place we visit once we witness tribal traditions performed with mysterious offerings to pagan deities and hear of unexplained natural phenomena such as light radiating from an archaic burial site. Also in Murche is the Mausoleum of Zengi-Baba who is in Indo-Iranian mythology a reflection of Mithra, the ancient god of sun. Eventually this cult spread beyond Iran and Asia Minor and gradually became a mystery cult. From Murche we continue by a different off-road bus into the mountainous Nokhur region.With almost Indian indo-european features and very entrepreneurial life-style the Nokhur tribe has preserved a unique tradition of handicrafts and architecture in their villages. Outstanding carpentry and unusual stone-houses are characteristic for their hillside villages amidst picturesque pomegranate and almond orchards. During the next few days we will experience extraordinary hospitality and see extraordinary handicraft and landscapes. On the first day we stroll through the tiny alleyways of the main village. Before continuing to our guesthouse set in a picturesque gorge amongst the mountains where we also spend the evening.`,
+				title: `ノクル`,
+				text: `国の西部への最後の小旅行では、 コペトダー山脈の奥深くに住むノクル族のまったく異なる文化を訪れます。 この比較的辺鄙な地域に到達するために、アシガバートを西に出発し、まずジェオク テペ モスクの横を通ります。 美しいターコイズブルーのドームを持つモスクは 1881年のロシア併合に対するトルコマン部族の最後の抵抗の場所である同じ名前のかつての要塞の遺跡に最近建てられました。私たちはさらに神秘的な場所ミュルシュの場所へと進みます。 、アシガバートの西118キロに位置する。 この場所は、古代遺跡、神秘主義、 神々に満ちたコペットダグ山脈の麓にある古代の村です。 ミュルシュでは、 異教の神々への神秘的な捧げ物で行われる部族の伝統を目撃したり、古風な埋葬地から放射される光などの説明のつかない自然現象を聞いたりして、私たちが訪れるもう一つの聖地です。 また、ムルチェには、インド・イラン神話の古代の太陽神ミトラを反映したゼンギ・ババの霊廟もあります。 最終的に、このカルトはイランや小アジアを超えて広がり、徐々に謎のカルトになりました。 ムルシュからは、別のオフロードバスで山岳地帯のノクル地方へ向かいます。ほぼインドのインドヨーロッパの特徴と非常に起業家精神にあふれたライフスタイルを持つノクル族は、村に手工芸品と建築のユニークな伝統を保存しています。 絵のように美しいザクロやアー モンドの果樹園に囲まれた丘の中腹の村には、傑出した大工仕事と珍しい石造りの家が特徴的です。 これから数日間、私たちは並外れたおもてなしを体験し、並外れた手工芸品や風景を見ることになります。 初日は、主要な村の小さな路地を散策します。 山間の絵のように美しい渓谷にあるゲストハウスに向かう前に、私たちはそこで夜を過ごします。`,
 			},
 			11: {
-				title: `Nokhur - Paraw Bibi`,
-				text: `The next day we continue into the next village of Konegummez - a tiny mountain village with its houses scattered along the steep mountainside. There has been very little research on the Nokhur people and their various mystic customs. Most of the elder women here are still proudly wearing the traditional Chirpy overcoat and especially elder and newly wed women will at least take their scarf into the mouth to veil herself before the outsider. We visit once more the silk-makers before lunching at a private house - feasting on typical Nokhur dishes.In the afternoon on our return drive we visit a felt hat maker and a holy spring before continuing along the main road to the shrine of Paraw Bibi. This shrine is one of the most impressive and popular sites of pilgrimage in the country. It is located in western Turkmenistan approximately 20 km northwest of Gizilarbat in the village of Paraw. The actual shrine is set some 100 meters up a rocky mountainside overlooking the village and consists of a white mausoleum-like structure (described in historical sources as a mosque). Next to the shrine is an adjoining chamber with an outside entrance. We stay at the foot of the mountain in the simple guesthouse with shared rooms where pilgrims congregate and have meals. We join the friendly women and share food and smiles.`,
+				title: `ノクル - パラウ ビビ`,
+				text: `翌日、私たちは次の村コネグメズへ向かいます。 急峻な山腹に沿って家が点在する小さな山村です。 ノクル族とそのさまざまな神秘的な習慣に関する研究はほとんどありません。 ここの年配の女性のほとんどは、今でも伝統的なチャーピーのオーバーコートを誇らしげに着ており、特に年配の女性や新婚の女性は、部外者の前で少なくともスカーフを口にくわえてベールをかぶっています。 民家で昼食を取る前に、 私たちはもう一度絹織物メーカーを訪問し、 典型的なノクル料理を味わいます。午後の帰路ではフェルト帽メーカーと聖なる泉を訪れ、その後幹線道路に沿ってパラウ ビビの神社へ向かいます。 。 この神社は、 国内で最も印象的で人気のある巡礼地の 1 つです。 トルクメニスタン西部、パラウ村のギジラルバトの北西約 20 km に位置します。 実際の神社は、 村を見下ろす岩だらけの山腹約 100 メートルに位置し、白い霊廟のような構造物 (史料ではモスクと記述されている) で構成されています。 神社の隣には、 屋外の入り口がある隣接した部屋があります。 山の麓にある遍路たちが集まる相部屋の簡素な民宿に宿泊し、食事をとります。 フレンドリーな女性たちと一緒に、食事と笑顔を分かち合います。`,
 			},
 			12: {
-				title: `Paraw - Ashgabat`,
-				text: `In the morning we join the pilgrims on their climb up the holy shrine. According to the legend Paraw Bibijan was a beautiful maiden whose virtue, purity, and courage were unmatched making her the ultimate example for modern Turkmen women. Elements of the legend of Paraw Bibi are evident in other legends concerning numerous other "Turkmen" saints and heroines and are not limited to one specific region. Near the guest house and adjacent to the village are the remains of the town Ferava / Afraw dating from the ninth century. After spending the morning with the pilgrims we return to Ashgabat in the afternoon where we relax at the hotel and dine in a good restaurant.`,
+				title: `パロー - アシガバート`,
+				text: `朝、私たちは巡礼者たちに加わり、聖なる神社に登ります。 伝説によると、パラウ・ビビジャンは美しい乙女であり、その美徳、純粋さ、勇気は比類のないものであり、彼女は現代のトルクメン女性の究極の模範となっています。 パロー・ビビの伝説の要素は、他の多くの「トルクメン」の聖人や英雄に関する他の伝説にも明らかであり、特定の地域に限定されません。 ゲストハウスの近く、村に隣接して、 9世紀に遡るフェラヴァ/アフラウの町の遺跡があります。 午前中を巡礼者たちと過ごした後、 午後にはアシガバートに戻り、ホテルでリラックスし、美味しいレストランで食事をします。`,
 			},
 			13: {
-				title: `Departure home`,
+				title: `帰国`,
 				text: ``,
 			},
 		},

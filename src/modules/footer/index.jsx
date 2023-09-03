@@ -24,7 +24,12 @@ export default function Footer() {
 						<div className='footer_title'>{t('footer.call')}</div>
 						<div className='contact'>+423 5362 42365</div>
 						<div className='footer_title'>{t('footer.mail')}</div>
-						<div className='contact'>marketing@yagty-osus</div>
+						<div className='contact mail1'>
+							marketing@tilsimat-alemi.com
+						</div>
+						<div className='contact'>
+							director@tilsimat-alemi.com
+						</div>
 					</Col>
 					<Col className='col2' flex={'1 0 25%'}>
 						<div className='footer_title'>{t('footer.links')}</div>

@@ -33,29 +33,29 @@ export const topTours = [
 		url: '/tour/5',
 	},
 	{
-		key: 'kunya',
-		image: '/places/koneurgenc1.webp',
-		url: '/tour/6',
+		key: 'n1',
+		image: '/top-tours/mosque.webp',
+		url: '/tour/9',
 	},
 	{
 		key: 'pure',
 		image: '/top-tours/darvaza.webp',
-		url: '/tour/11',
+		url: '/tour/10',
 	},
 	{
 		key: 'iran',
 		image: '/top-tours/iran.webp',
-		url: '/tour/7',
+		url: '/tour/6',
 	},
 	{
 		key: 'undiscovered',
 		image: '/top-tours/garagum.webp',
-		url: '/tour/12',
+		url: '/tour/11',
 	},
 	{
 		key: 'pilgrimage',
 		image: '/top-tours/mary.webp',
-		url: '/tour/8',
+		url: '/tour/7',
 	},
 	{
 		key: 'ashgabat',

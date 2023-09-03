@@ -30,11 +30,6 @@ export const tours = [
 		days: 16,
 	},
 	{
-		key: 'kunya',
-		image: '/places/koneurgenc1.webp',
-		days: 1,
-	},
-	{
 		key: 'iran',
 		image: '/places/tehran.webp',
 		days: 26,

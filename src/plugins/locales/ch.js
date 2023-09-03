@@ -171,7 +171,7 @@ export const ch = {
 			},
 			3: {
 				title: '第 3 天 达沙古兹 – 昆亚乌尔根奇 (90 公里） – 达尔瓦扎 (250 公里) (8 小时）',
-				text: "Today we continue our trip by visiting Izmukshir fortress (12 th century) Next site of visiting Kunya-Urgench and will include the Mausoleum of Soltan Tekesh XII-XIII cc., the Monument of Torebeg Hanum XII c, and a stop at the highest minaret in Turkmenistan- the Minaret of Kutlug Temur XI-XII cc. Dirve to Darvaza gaz crater.  We'll settle a camp near the gas crater",
+				text: '今天我們繼續我們的行程, 參觀伊茲穆克希爾要塞 (12 世紀)。下一個參觀昆亞烏爾根奇的地點將包括Soltan Tekesh XII-XIII cc 陵墓、Torebeg Hanum XII c 紀念碑，並在最高尖塔停留在土庫曼斯坦 - Kutlug Temur XI-XII 的尖塔 cc。 驅車前往達瓦扎天然氣火山口。 我們將在氣坑附近安營扎寨',
 			},
 			4: {
 				title: '第 4 天 达尔瓦扎 – 达姆拉 120 公里 (4-5 小时）',
@@ -248,7 +248,7 @@ export const ch = {
 			},
 			5: {
 				title: `科伊腾达-土库曼斯坦`,
-				text: `Early Breakfast Drive to Turkmenabat City (450 km) Dinner at local Restaurant Overnight in the hotel. `,
+				text: `早餐 驅車前往土庫曼納巴德市 (450 公里） 在當地餐廳享用晚餐 在酒店過夜。`,
 			},
 			6: {
 				title: `土库曼纳巴特 - 玛丽`,

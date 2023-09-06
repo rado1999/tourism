@@ -176,6 +176,19 @@ export const en = {
 			title: 'Diwan',
 			text: 'Divan Hotel in Ashgabat is a recently refurbished, upscale hotel, established in 1996, underwent renovations during the pandemic and stands out as one of the scarce accommodations situated in the heart of the city, in close proximity to the Carpet Museum, Turkmen Disneyland and various government edifices.',
 		},
+		awaza: {
+			title: 'Awaza',
+			text: `In May 2007, President of Turkmenistan, at a summit in the city of Turkmenbashi, came up with the idea of creating a world-class resort on the ecologically clean coast of the Caspian Sea. Before this, about 3,000 private houses were demolished along the Caspian coast.
+			Two months after the summit, on July 21, 2007, on the shores of the Caspian Sea, at the Serdar Hotel, the first presentation of the future seaside resort took place, in which dozens of foreign construction firms and investment companies took part.
+			During the summer season, Avaza is visited by tourists from all over Turkmenistan and from abroad. The number of people vacationing in Avaza at the same time is approximately 4,000 people. At the moment, the resort has built 17 hotels out of a planned sixty, 6 cottage complexes, 7 health centers, 2 yacht clubs, as well as a number of restaurants and cafes located along a concreted navigable river 7 kilometers long. New health resorts, cottages for family holidays and luxury villas, sports and entertainment complexes are being built.
+At the state level, decisions have been made to build a water park with an entertainment center, an oceanarium, a karting center for mini-motorsport, a golf center, shops, a cycling track, a dolphinarium, a planetarium, a cinema and an amusement park on the Avaza seaside.
+Tourists are also attracted to Avaza by its excellent infrastructure. Near the city of Turkmenbashi there is the terminal of the Turkmenbashi International Airport, the Turkmenbashi International Seaport and the Turkmenbashi passenger railway station.`,
+		},
+		garagum: {
+			title: 'Garagum',
+			text: `The Garagum Project was launched in September 2018 in Ashgabat, Turkmenistan for the first multi-use hotel and business center of the region.
+			Project designers were inspired by Karakum Desert, one of the largest deserts on earth, through which runs a Karakum Canal, one of the largest water supply canals in the world.The Hotel is located very close to the Ashgabat International Airport and only 10 km away from the city center. Garagum Hotel covers a construction area of 68,900 m2, with 28,573 m2 indoor, and consists of eight floors including the technical floor.The hotel has eight family suites, 17 standard rooms, 47 deluxe rooms, and 15 super deluxe rooms, totaling 87 rooms and 102 beds. Portrayed as one of the “most special” projects in the area thanks to its architecture, luxury and location, Garagum Hotel also features a shopping mall, a 150-seat restaurant, meeting rooms, SPA and gym.`,
+		},
 	},
 	tours: {
 		desert_8_days: {

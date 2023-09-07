@@ -16,7 +16,8 @@
 	color: white;
 }
 
-.hotel_description {
+.hotel_description,
+.destination_text {
 	font-size: calc(12px + (18 - 12) * ((100vw - 320px) / (1440 - 320)));
 	font-family: PoppinsLight;
 	line-height: 120%;

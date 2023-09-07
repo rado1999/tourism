@@ -55,7 +55,7 @@ export default function Destinations() {
 							className='destinations_card_image'
 						></div>
 						<div className='destinations_card_title'>
-							{t(`destinations.${key}`)}
+							{t(`destinations.${key}.title`)}
 						</div>
 					</Col>
 				))}

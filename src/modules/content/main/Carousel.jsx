@@ -8,7 +8,7 @@ export default function Carousel({ t }) {
 			{data.map(({ key, image }, index) => (
 				<div key={index} className='carousel_card'>
 					<div className='carousel_title'>
-						{t(`destinations.${key}`)}
+						{t(`destinations.${key}.title`)}
 					</div>
 					<Image preview={false} width={'100%'} src={image} />
 				</div>

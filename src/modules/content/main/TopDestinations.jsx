@@ -31,7 +31,7 @@ export default function TopDestinations({ t }) {
 						className='top_destination_card_title'
 						style={{ display: size[1].display }}
 					>
-						{t('destinations.sagyt')}
+						{t('destinations.sagyt.title')}
 					</div>
 				</div>
 				<div
@@ -50,7 +50,7 @@ export default function TopDestinations({ t }) {
 						className='top_destination_card_title'
 						style={{ display: size[2].display }}
 					>
-						{t('destinations.sanjar')}
+						{t('destinations.sanjar.title')}
 					</div>
 				</div>
 				<div
@@ -69,7 +69,7 @@ export default function TopDestinations({ t }) {
 						className='top_destination_card_title'
 						style={{ display: size[3].display }}
 					>
-						{t('destinations.gyzgala')}
+						{t('destinations.gyzgala.title')}
 					</div>
 				</div>
 				<div
@@ -88,7 +88,7 @@ export default function TopDestinations({ t }) {
 						className='top_destination_card_title'
 						style={{ display: size[4].display }}
 					>
-						{t('destinations.dehistan')}
+						{t('destinations.dehistan.title')}
 					</div>
 				</div>
 			</div>

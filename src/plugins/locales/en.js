@@ -108,28 +108,36 @@ export const en = {
 		zondo: 'Zondo Coach',
 	},
 	destinations: {
-		abiverd: 'Abiverd',
-		sagyt: 'Abu Sagyt',
-		horses: 'Ahal teke horses',
-		alabay: 'Alabay',
-		arslan: 'Il Arslan',
-		ashgabat: 'Ashgabat',
-		astana: 'Astana Baba',
-		balkan: 'Balkanabat Monument',
-		camels: 'Camels',
-		darvaza: 'Darwaza',
-		dehistan: 'Dehistan',
-		urgenc: 'Kone Urgench',
-		dino: 'Dinosaurs Tracks',
-		gyzgala: 'Gyz Gala',
-		zeyd: 'Ibn Zeyd',
-		margush: 'Margush',
-		merv: 'Merv',
-		nohur: 'Nohur village',
-		sanjar: 'Soltan Sanjar',
-		torebeg: 'Torebeg Hanym',
-		yangigala: 'Yangigala',
-		mosque: 'Turkmenbashy Mosque',
+		abiverd: { title: 'Abiverd', text: '' },
+		sagyt: { title: 'Abu Sagyt', text: '' },
+		horses: { title: 'Ahal teke horses', text: '' },
+		alabay: { title: 'Alabay', text: '' },
+		arslan: { title: 'Il Arslan', text: '' },
+		ashgabat: { title: 'Ashgabat', text: '' },
+		astana: { title: 'Astana Baba', text: '' },
+		balkan: { title: 'Balkanabat Monument', text: '' },
+		camels: { title: 'Camels', text: '' },
+		darvaza: { title: 'Darwaza', text: '' },
+		dehistan: { title: 'Dehistan', text: '' },
+		urgenc: { title: 'Kone Urgench', text: '' },
+		dino: { title: 'Dinosaurs Tracks', text: '' },
+		gyzgala: { title: 'Gyz Gala', text: '' },
+		zeyd: { title: 'Ibn Zeyd', text: '' },
+		margush: { title: 'Margush', text: '' },
+		merv: { title: 'Merv', text: '' },
+		nohur: { title: 'Nohur village', text: '' },
+		sanjar: { title: 'Soltan Sanjar', text: '' },
+		torebeg: { title: 'Torebeg Hanym', text: '' },
+		yangigala: { title: 'Yangigala', text: '' },
+		mosque: { title: 'Turkmenbashy Mosque', text: '' },
+		awaza: {
+			title: 'Awaza',
+			text: `In May 2007, President of Turkmenistan, at a summit in the city of Turkmenbashi, came up with the idea of creating a world-class resort on the ecologically clean coast of the Caspian Sea. Before this, about 3,000 private houses were demolished along the Caspian coast.
+			Two months after the summit, on July 21, 2007, on the shores of the Caspian Sea, at the Serdar Hotel, the first presentation of the future seaside resort took place, in which dozens of foreign construction firms and investment companies took part.
+			During the summer season, Avaza is visited by tourists from all over Turkmenistan and from abroad. The number of people vacationing in Avaza at the same time is approximately 4,000 people. At the moment, the resort has built 17 hotels out of a planned sixty, 6 cottage complexes, 7 health centers, 2 yacht clubs, as well as a number of restaurants and cafes located along a concreted navigable river 7 kilometers long. New health resorts, cottages for family holidays and luxury villas, sports and entertainment complexes are being built.
+	At the state level, decisions have been made to build a water park with an entertainment center, an oceanarium, a karting center for mini-motorsport, a golf center, shops, a cycling track, a dolphinarium, a planetarium, a cinema and an amusement park on the Avaza seaside.
+	Tourists are also attracted to Avaza by its excellent infrastructure. Near the city of Turkmenbashi there is the terminal of the Turkmenbashi International Airport, the Turkmenbashi International Seaport and the Turkmenbashi passenger railway station.`,
+		},
 	},
 	hotels: {
 		charlak: {
@@ -175,14 +183,6 @@ export const en = {
 		divan: {
 			title: 'Diwan',
 			text: 'Divan Hotel in Ashgabat is a recently refurbished, upscale hotel, established in 1996, underwent renovations during the pandemic and stands out as one of the scarce accommodations situated in the heart of the city, in close proximity to the Carpet Museum, Turkmen Disneyland and various government edifices.',
-		},
-		awaza: {
-			title: 'Awaza',
-			text: `In May 2007, President of Turkmenistan, at a summit in the city of Turkmenbashi, came up with the idea of creating a world-class resort on the ecologically clean coast of the Caspian Sea. Before this, about 3,000 private houses were demolished along the Caspian coast.
-			Two months after the summit, on July 21, 2007, on the shores of the Caspian Sea, at the Serdar Hotel, the first presentation of the future seaside resort took place, in which dozens of foreign construction firms and investment companies took part.
-			During the summer season, Avaza is visited by tourists from all over Turkmenistan and from abroad. The number of people vacationing in Avaza at the same time is approximately 4,000 people. At the moment, the resort has built 17 hotels out of a planned sixty, 6 cottage complexes, 7 health centers, 2 yacht clubs, as well as a number of restaurants and cafes located along a concreted navigable river 7 kilometers long. New health resorts, cottages for family holidays and luxury villas, sports and entertainment complexes are being built.
-At the state level, decisions have been made to build a water park with an entertainment center, an oceanarium, a karting center for mini-motorsport, a golf center, shops, a cycling track, a dolphinarium, a planetarium, a cinema and an amusement park on the Avaza seaside.
-Tourists are also attracted to Avaza by its excellent infrastructure. Near the city of Turkmenbashi there is the terminal of the Turkmenbashi International Airport, the Turkmenbashi International Seaport and the Turkmenbashi passenger railway station.`,
 		},
 		garagum: {
 			title: 'Garagum',

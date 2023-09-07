@@ -65,7 +65,7 @@ export default function Footer() {
 									lg={12}
 								>
 									<a className='footer_links' href={url}>
-										{t(`destinations.${key}`)}
+										{t(`destinations.${key}.title`)}
 									</a>
 								</Col>
 							))}

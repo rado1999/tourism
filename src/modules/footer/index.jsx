@@ -22,7 +22,12 @@ export default function Footer() {
 				<Row>
 					<Col className='col1' flex={'1 0 25%'}>
 						<div className='footer_title'>{t('footer.call')}</div>
-						<div className='contact'>+423 5362 42365</div>
+						<div className='contact'>+993 12 346471</div>
+						<div className='contact'>+993 12 346472</div>
+						<div className='contact'>+993 61 013448</div>
+						<div className='contact'>+993 61 013449</div>
+						<div className='contact'>+993 61 013456</div>
+						<div className='contact'>+993 61 013457</div>
 						<div className='footer_title'>{t('footer.mail')}</div>
 						<div className='contact mail1'>
 							marketing@tilsimat-alemi.com

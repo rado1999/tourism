@@ -17,7 +17,7 @@ export default function Footer() {
 		<footer>
 			<div className='footer_container'>
 				<div className='footer_logo'>
-					<img src='/logo.svg' />
+					<img src='/logo.webp' />
 				</div>
 				<Row>
 					<Col className='col1' flex={'1 0 25%'}>

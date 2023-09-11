@@ -10,7 +10,7 @@ export default function Sidebar() {
 	const { t } = useTranslation()
 
 	useEffect(() => {
-		if (window.innerWidth <= 768) setMenuOn('display')
+		if (window.innerWidth <= 850) setMenuOn('display')
 		else setMenuOn('none')
 	}, [])
 

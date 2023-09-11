@@ -6,7 +6,7 @@ header {
 	width: 100%;
 	display: flex;
 	align-items: center;
-	padding: 20px 100px;
+	padding: 0px 100px;
 	background-color: transparent;
 	transition: background-color 0.3s ease;
 }
@@ -39,8 +39,8 @@ header {
 }
 
 .logo_container {
-	width: calc(100px + (120 - 100) * ((100vw - 320px) / (1440 - 320)));
-	height: calc(50px + (70 - 50) * ((100vw - 320px) / (1440 - 320)));
+	width: calc(100px + (200 - 100) * ((100vw - 320px) / (1440 - 320)));
+	height: calc(50px + (150 - 50) * ((100vw - 320px) / (1440 - 320)));
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -86,7 +86,7 @@ header {
 	}
 }
 
-@media (max-width: 768px) {
+@media (max-width: 850px) {
 	.header_ul {
 		display: none;
 	}

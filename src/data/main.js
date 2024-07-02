@@ -103,17 +103,17 @@ export const hotels_example = [
 	{
 		key: 'yyldyz.title',
 		image: '/hotels/yyldyz/yyldyz.webp',
-		url: '/hotel/Ashgabat/2',
+		url: '/hotel/1/2',
 	},
 	{
 		key: 'oguzkent.title',
 		image: '/hotels/oguzkent/oguzkent.webp',
-		url: '/hotel/Ashgabat/1',
+		url: '/hotel/1/1',
 	},
 	{
 		key: 'divan.title',
 		image: '/hotels/divan/diwan.webp',
-		url: '/hotel/Ashgabat/0',
+		url: '/hotel/1/0',
 	},
 ]
 

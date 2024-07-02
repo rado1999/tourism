@@ -12,6 +12,7 @@ export default function Header() {
 	useEffect(() => {
 		const lang = localStorage.getItem('lang')
 		if (lang) i18n.changeLanguage(lang)
+		else localStorage.setItem('lang', 'en')
 
 		const header = document.querySelector('header')
 

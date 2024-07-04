@@ -34,7 +34,7 @@ export default function Header() {
 					className='logo_container'
 					onClick={() => (location.href = '/')}
 				>
-					<img className='logo' src='/logo.webp' />
+					<img className='logo' src='/logo1.webp' />
 				</div>
 				<ul className='header_ul'>
 					{menu.map(({ key, url }, index) => (

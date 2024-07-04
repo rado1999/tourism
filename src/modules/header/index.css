@@ -39,11 +39,12 @@ header {
 }
 
 .logo_container {
-	width: calc(100px + (200 - 100) * ((100vw - 320px) / (1440 - 320)));
-	height: calc(50px + (150 - 50) * ((100vw - 320px) / (1440 - 320)));
+	width: calc(50px + (100 - 50) * ((100vw - 320px) / (1440 - 320)));
+	height: calc(50px + (100 - 50) * ((100vw - 320px) / (1440 - 320)));
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	padding: 0px 10px;
 }
 
 .logo_container:hover {
@@ -52,6 +53,7 @@ header {
 
 .logo {
 	width: 100%;
+	border-radius: 5px;
 }
 
 .sidebar {
@@ -84,6 +86,10 @@ header {
 	header {
 		padding: 20px 50px;
 	}
+
+	.logo_container {
+		padding: 0px;
+	}
 }
 
 @media (max-width: 850px) {
@@ -98,5 +104,9 @@ header {
 	.iphone_btn_container {
 		display: flex;
 		justify-content: center;
+	}
+
+	.logo_container {
+		padding: 0px;
 	}
 }
